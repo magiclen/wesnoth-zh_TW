@@ -19,4 +19,4 @@ https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=zh_TW
 
 ## 繁體中文化團隊
 
-http://wesnoth-tw.blogspot.com/
+https://wesnoth-tw.blogspot.com/
