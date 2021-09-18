@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./po2mo.sh
+
+git add po
