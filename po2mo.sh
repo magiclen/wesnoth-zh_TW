@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# convert
-
 if [[ -d mo ]]; then
     rm -rf mo/*
 else
