@@ -2,4 +2,4 @@
 
 ./po2mo.sh
 
-git add po
+touch .commit
