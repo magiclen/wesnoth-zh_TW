@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-09-18 10:30+0800\n"
+"PO-Revision-Date: 2021-09-26 19:38+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -644,7 +644,7 @@ msgstr "蘭德爾？「蘭德爾」是哪根蔥呀？"
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:927
 msgid "Die, dwarvish scum, in the name of Landar!"
-msgstr "死吧，矮人雜碎，以蘭德爾之名。"
+msgstr "死吧，矮人雜碎，以蘭德爾之名！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:931

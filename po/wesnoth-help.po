@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-21 23:31-0400\n"
-"PO-Revision-Date: 2021-09-18 10:27+0800\n"
+"PO-Revision-Date: 2021-09-26 19:40+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -3667,6 +3667,7 @@ msgstr ""
 msgid "License"
 msgstr "授權"
 
+# 由於是中文，句子最後不加空格。
 #. [topic]: id=..traits_section
 #: data/core/help.cfg:533
 msgid ""

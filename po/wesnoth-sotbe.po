@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-09-18 10:30+0800\n"
+"PO-Revision-Date: 2021-09-26 19:43+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1807,7 +1807,7 @@ msgstr "你們巨魔就是有病！"
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:326
 msgid "<i>Yuck</i>! Disgusting! These things taste horrible!"
-msgstr "<i>嘔</i>！噁心！這些東西吃起來真糟。"
+msgstr "<i>嘔</i>！噁心！這些東西吃起來真差勁！"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:331
@@ -2363,6 +2363,7 @@ msgstr "等待第四回合時，伊納瑞克斯的到來"
 msgid "Destroy the southern part of the bridge"
 msgstr "摧毀橋樑的南部段"
 
+# 原文結尾缺少句號。
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:45
 msgid ""
@@ -3386,7 +3387,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:652
 msgid ""
 "Bah, do not think you can break the unity of the horde with your stupid lies!"
-msgstr "呸！別以為你可以用你愚蠢的謊言來破壞群落的團結。"
+msgstr "呸，別以為你可以用你愚蠢的謊言來破壞群落的團結！"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:657

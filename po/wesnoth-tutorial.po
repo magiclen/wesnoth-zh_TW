@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-08-22 03:31 UTC\n"
-"PO-Revision-Date: 2021-09-18 10:35+0800\n"
+"PO-Revision-Date: 2021-09-26 19:44+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1912,7 +1912,7 @@ msgid ""
 msgstr ""
 "你快要殺掉他們的首領了！因為他是等級2的單位，所以殺掉他的單位會得到16點的經驗"
 "值。在一場戰役中，選擇要讓你的哪些單位升級是很重要的，讓這些單位有更多的機會"
-"提升經驗吧！"
+"提升經驗。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1218
