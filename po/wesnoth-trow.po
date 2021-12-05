@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-09-26 00:03 UTC\n"
-"PO-Revision-Date: 2021-09-26 19:43+0800\n"
+"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
+"PO-Revision-Date: 2021-12-05 14:02+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -214,10 +214,10 @@ msgstr "……而這座島便是故事開始的地方……"
 msgid "For this is the story of Haldric the First and the Rise of Wesnoth..."
 msgstr "這是海德瑞克一世和韋諾崛起的故事……"
 
-#. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: id=Prince Haldric, type=Noble Commander
 #. [side]: type=Noble Youth, type=Noble Fighter, id=Prince Haldric
 #. [side]: type=Noble Fighter, id=Prince Haldric
+#. [side]: type=Noble Commander, id=Prince Haldric
+#. [side]: id=Prince Haldric, type=Noble Commander
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:77
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:27
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:21
@@ -507,26 +507,26 @@ msgstr "暴風谷"
 msgid "Tan-Rarbag"
 msgstr "坦-拉巴格"
 
-#. [side]: type=Orcish Warlord, id=Tan-Vragar
-#. [side]: type=Orcish Warlord, id=Tan-Burg
-#. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
+#. [side]: type=Orcish Warlord, id=Tan-Rarbag
+#. [side]: type=Orcish Warrior, id=Tan-Erang
+#. [side]: type=Orcish Warlord, id=Tan-Schmog
+#. [side]: type=Orcish Warlord, id=Tan-NauVong
 #. [side]: type=Orcish Warrior, id=Tan-Vrodis
 #. [side]: type=Orcish Warlord, id=Tan-Bok
 #. [side]: type=Orcish Warlord, id=Tan-Hogar
 #. [side]: type=Orcish Warlord, id=Tan-Gralg
 #. [side]: type=Orcish Warlord, id=Tan-Rugar
+#. [side]: type=Orcish Warlord, id=Tan-Vragar
+#. [side]: type=Orcish Warlord, id=Tan-Burg
+#. [side]: type=Orcish Warlord, id=Ut'Tan-Vrork
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #. [side]: type=Orcish Warlord, id=Tan-Pulk
-#. [side]: type=Orcish Warlord, id=Tan-Schmog
-#. [side]: type=Orcish Warlord, id=Tan-NauVong
 #. [side]: type=Orcish Warlord, id=Tan-Harak
 #. [side]: type=Orcish Warlord, id=Tan-Hork
 #. [side]: type=Orcish Warlord, id=Tan-Gulo
 #. [side]: type=Orcish Warlord, id=Tan-Erirt
 #. [side]: type=Orcish Warlord, id=Tan-Gagar
 #. [side]: type=Troll Warrior, id=Thruf
-#. [side]: type=Orcish Warlord, id=Tan-Rarbag
-#. [side]: type=Orcish Warrior, id=Tan-Erang
 #. [side]: type=Draug, id=General Heravan
 #. [side]: type=Orcish Warlord, id=Tan-Halg
 #. [side]: type=Orcish Warlord, id=Tan-Rinak
@@ -579,7 +579,7 @@ msgstr "特洛瑪斯"
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:170
 msgid "Death of King Eldaric IV"
-msgstr "艾爾達瑞克四世國王陣亡"
+msgstr "艾爾達瑞克四世國王死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:174
@@ -760,8 +760,8 @@ msgid "A Harrowing Escape"
 msgstr "悲傷撤離"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
-#. [side]: id=Prince Haldric, type=Noble Commander
 #. [side]: type=Ancient Wose, id=Elilmaldur-Rithrandil
+#. [side]: id=Prince Haldric, type=Noble Commander
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:28
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:41
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:41
@@ -1290,8 +1290,8 @@ msgid ""
 "with the orcs!"
 msgstr "噢不錯嘛，現在要去一座森林……我真該留在家裡和那些半獸人們碰碰運氣！"
 
-#. [message]: speaker=Sir Ladoc
 #. [message]: speaker=Sir Ruddry
+#. [message]: speaker=Sir Ladoc
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:596
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:423
 msgid "Sir, if you don’t mind, I’ll go with you."
@@ -1853,9 +1853,9 @@ msgid "Lich-Lord Lenvan"
 msgstr "巫妖王倫萬"
 
 #. [side]: type=Lich, id=Lich-Lord Lenvan
+#. [side]: type=Lich, id=Lich-Lord Caror
 #. [side]: type=Spectre, id=Isorfilad
 #. [side]: type=Spectre, id=Tinoldor
-#. [side]: type=Lich, id=Lich-Lord Caror
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:50
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:119
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:45
@@ -2248,7 +2248,7 @@ msgstr "終於，我們就要走出這片森林了！"
 #. [message]: speaker=narrator
 #. [scenario]: id=08_Clearwater_Port
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:4
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:492
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:495
 msgid "Clearwater Port"
 msgstr "清水港"
 
@@ -2514,22 +2514,22 @@ msgstr ""
 "你的小驚喜！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:429
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:432
 msgid "An ode to ye, on yer way, I hope you have a brighter day!"
 msgstr "讚美你，上路吧，我希望你們能有個更光明的一天！"
 
 #. [message]: speaker=narrator
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:450
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:453
 msgid "Dead-Man’s Ford"
 msgstr "亡者之灘"
 
 #. [message]: speaker=narrator
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:471
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:474
 msgid "The River Road — To the Swamp of Esten."
 msgstr "河路 — 通往伊斯登沼澤。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:569
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:572
 msgid ""
 "My lord, the first ship has arrived! Prince Haldric, if you and your men "
 "must leave for Southbay just go to the pier to board the ship."
@@ -2538,14 +2538,14 @@ msgstr ""
 "船。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:587
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:590
 msgid ""
 "My lord, the first ship is departing. But the second ship should arrive "
 "shortly."
 msgstr "殿下，第一艘船正要離開，不過第二艘船應該很快就會到達。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:628
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:631
 msgid ""
 "My lord, the second ship has arrived! Prince Haldric, if you and your men "
 "want to leave for Southbay just go to the pier to board the ship."
@@ -2554,7 +2554,7 @@ msgstr ""
 "船。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:646
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:649
 msgid ""
 "My lord, the second ship is departing. But the last ship will be here before "
 "long. With your help we can hold on just a while longer."
@@ -2563,7 +2563,7 @@ msgstr ""
 "持更長的時間。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:687
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:690
 msgid ""
 "My lord, the last ship has arrived! Finally the last of our people can flee "
 "to safety. Prince Haldric, you and your men must go now! Go to the pier to "
@@ -2573,22 +2573,22 @@ msgstr ""
 "您和您的人馬必須離開了！請到碼頭登船去南灣。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:705
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:708
 msgid "My lord, the last ship is departing. We’re trapped!"
 msgstr "殿下，最後一艘船已經離開了，我們被困住了！"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:764
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:818
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:873
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:767
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:821
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:876
 msgid "My lord, the ship isn’t here yet. Come help us defend against the orcs."
 msgstr "殿下，船還沒有到，請過來幫助我們抵禦半獸人！"
 
 #. [message]: speaker=Commander Aethyr
 #. [message]: speaker=narrator
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:776
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:830
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:885
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:779
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:833
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:888
 msgid ""
 "Shirk not your duty, soldier. When the boat arrives, this is where Prince "
 "Haldric must go to lead you to the ship. Until then, help us defend against "
@@ -2598,39 +2598,39 @@ msgstr ""
 "方。在此之前，請幫助我們抵禦半獸人。"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:903
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:906
 msgid "Let me have peace in Death! My love, I’ll be there soon—"
 msgstr "讓我在死亡中獲得安寧吧！我的愛人，我很快就要到你那裡去了──"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:908
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:911
 msgid "We needed him to get out of here. We’re trapped!"
 msgstr "我們需要他來撤離這裡。我們被困住了！"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:921
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:924
 msgid ""
 "We’ve escaped from the orcs before we were trapped by the ice! Now, on to "
 "Southbay."
 msgstr "我們已經逃離了這群半獸人，在我們被冰雪困住之前！現在，向南灣航行。"
 
 #. [message]: speaker=Burin the Lost
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:926
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:929
 msgid "I know I mentioned I can’t float."
 msgstr "我知道我提過我不會游泳。"
 
 #. [message]: speaker=Lady Jessene
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:932
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:935
 msgid "Might I suggest a bit of a detour?"
 msgstr "我能建議稍微繞點路嗎？"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:937
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:940
 msgid "Why?"
 msgstr "為什麼？"
 
 #. [message]: speaker=Lady Jessene
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:942
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:945
 msgid ""
 "You have the Ruby of Fire, but you have no idea what it does, correct? You "
 "know that lich you have petrified just outside of Southbay—"
@@ -2639,7 +2639,7 @@ msgstr ""
 "你們石化的巫妖──"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:947
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:950
 msgid ""
 "Yes, Lich Point! Where we first used our magi in battle, and turned the tide "
 "of war against your people."
@@ -2648,7 +2648,7 @@ msgstr ""
 "間的戰爭的局勢。"
 
 #. [message]: speaker=Lady Jessene
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:953
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:956
 msgid ""
 "Erm, yes... He was Caror, the arch rival of our dearly departed Lich-Lord "
 "Lenvan. He coveted the ruby, and was studying it. The only copy of his "
@@ -2658,13 +2658,13 @@ msgstr ""
 "石，並研究過它。他的研究成果的唯一抄本，《火與暗之書》，和他一起被石化了。"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:958
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:961
 msgid ""
 "If we make landfall outside of Southbay, we’ll be trapped. Of that I am sure!"
 msgstr "如果我們在南灣外登陸的話，我們會被困住的，對此我十分肯定！"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:963
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:966
 msgid ""
 "My family was from Southbay. My father was a soldier there. The city’s sewer "
 "entrance is near that fossil of a lich."
@@ -2673,14 +2673,14 @@ msgstr ""
 "化的巫妖的位置很近。"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:968
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:971
 msgid ""
 "Wow, this is beginning to sound dangerously like a plan. Commander Aethyr, "
 "will you join us?"
 msgstr "哇，這開始聽起來很像是一個計劃了。伊希爾指揮官，你會加入我們嗎？"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:973
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:976
 msgid ""
 "No. These monsters killed my family. My wife, my daughters. There is nothing "
 "left for me. I’ll stay. By the time the orcs wrestle Clearwater Port away "
@@ -2690,14 +2690,14 @@ msgstr ""
 "來。等到半獸人從我手中搶過清水港之時，除了瓦礫，什麼都不會留下！"
 
 #. [message]: speaker=Commander Aethyr
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:978
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:981
 msgid ""
 "The peasant farmers seem to like you. Who knows, maybe they’ll be of some "
 "help."
 msgstr "那些農夫似乎喜歡你。誰知道，也許他們會有所幫助。"
 
 #. [message]: speaker=Prince Haldric
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:983
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:986
 msgid ""
 "Resources are scarce, we need all of the help we can get. Be brave and fight "
 "hard, my friend!"
@@ -3544,11 +3544,11 @@ msgstr "王儲已經死了。不過我們需要你們的再次幫助──"
 msgid "Under the same terms?"
 msgstr "條件不變？"
 
+#. [message]: speaker=Lady Jessene
 #. [message]: speaker=Lady Dionli
 #. [message]: speaker=Lord Aryad
 #. [message]: speaker=Lord El’Isomithir
 #. [message]: speaker=Lord Logalmier
-#. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:445
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:420
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:424
@@ -3588,8 +3588,8 @@ msgstr "趕快，我們必須加固邊界，不然一切都會完蛋！"
 msgid "Familiar"
 msgstr "僕從"
 
-#. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
 #. [event]
+#. [side]: type=Ancient Lich, id=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:498
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:268
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:47
@@ -3935,8 +3935,8 @@ msgstr ""
 "在經歷了一系列異常糟糕的海上風暴之後，艾爾達瑞克號開始進水，船隊中有許多船都"
 "失散了。泰豐領主建議停泊在一個被風暴橫掃過的群島進行重組。"
 
-#. [event]
 #. [side]: type=Naga Warrior, id=Abraxas
+#. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:42
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1310
 msgid "Abraxas"
