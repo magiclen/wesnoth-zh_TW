@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2021-12-05 14:03+0800\n"
+"PO-Revision-Date: 2021-12-05 20:26+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -3313,7 +3313,7 @@ msgstr "一場地下鬥爭"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:96
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1109
 msgid "team_name^Trolls"
-msgstr ""
+msgstr "巨魔"
 
 #. [side]
 #. [modify_side]
@@ -3321,57 +3321,57 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:195
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1087
 msgid "team_name^Dwarves"
-msgstr ""
+msgstr "矮人"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:312
 msgid "Explore underground"
-msgstr ""
+msgstr "探索地底世界"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:322
 msgid "Defeat troll leaders"
-msgstr ""
+msgstr "擊敗巨魔首領"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:333
 msgid "Defeat dwarf leaders"
-msgstr ""
+msgstr "擊敗矮人首領"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:344
 msgid "Defeat the Cloaked Figure"
-msgstr ""
+msgstr "擊敗披風怪客"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:366
 msgid "Death of Fundin"
-msgstr ""
+msgstr "方丁死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:373
 msgid "Death of Nori"
-msgstr ""
+msgstr "諾里死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:380
 msgid "Death of Thungar"
-msgstr ""
+msgstr "桑格死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:387
 msgid "Death of Gnarl"
-msgstr ""
+msgstr "納爾死亡"
 
 #. [unit]: type=Quenoth Flanker
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:438
 msgid "Rygar"
-msgstr ""
+msgstr "瑞加"
 
 #. [unit]: type=Quenoth Fighter
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:449
 msgid "Nantheos"
-msgstr ""
+msgstr "南西奧斯"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:477
@@ -3379,6 +3379,8 @@ msgid ""
 "You mentioned that dwarves and trolls often lived underground, Elyssa. I’ve "
 "only heard myths, have you ever met a dwarf or a troll?"
 msgstr ""
+"你說過矮人跟巨魔常居住在地底下，伊麗莎。我只在傳說聽過，但你曾遇見過矮人或巨"
+"魔嗎？"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:482
@@ -3388,11 +3390,14 @@ msgid ""
 "read a bit about them, and have even met a few people who had dealings with "
 "dwarves."
 msgstr ""
+"不，我不曾見過，除非必要，不然我通常我不會在地底探險。太陽光照不到的地方潛伏"
+"著很多骯髒的東西。但我曾在書裡讀到過一點他們的事，甚至也遇過一些跟矮人打過交"
+"道的人們。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:487
 msgid "What are dwarves like?"
-msgstr ""
+msgstr "矮人是什麼樣子的？"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:492
@@ -3402,11 +3407,14 @@ msgid ""
 "little liking for elves. There was some betrayal many years ago, though I "
 "don’t know what happened."
 msgstr ""
+"他們是驕傲的種族，有些人會說他們是貪婪的。他們喜歡黃金及精良的金屬，還有鍛造"
+"美妙的東西。我應該要警告你們，他們不太喜歡精靈。多年以前他們被背叛了，不過是"
+"發生什麼事我也不清楚。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:497
 msgid "And what about trolls? I’m not sure I’d want to meet one face to face."
-msgstr ""
+msgstr "那巨魔呢？我不確定我會想要和他們面對面。"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:502
@@ -3417,6 +3425,9 @@ msgid ""
 "knew one man long ago who traded with a group of trolls and said they were "
 "quite honorable, as long as you didn’t try to cheat them."
 msgstr ""
+"巨魔和矮人天生處不來，但又生活得很近。多數人會說巨魔比較野蠻及殘暴一點。巨魔"
+"很巨大且非常強壯，有著像石頭一樣硬的皮膚，會是個很可怕的對手。但我認識一個跟"
+"一群巨魔交易過的男人，他說他們相當高尚，只要你不要嘗試欺騙他們。"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:507
@@ -3425,12 +3436,14 @@ msgid ""
 "happy if our biggest problem is not getting lost. I have little wish to meet "
 "either dwarves or trolls. But Eloh will watch over us."
 msgstr ""
+"好吧，在伊洛的指引下，我希望我們來到的這些隧道已經空無一人。如果我們最大的問"
+"題不是迷路，我會很高興。我不太希望見到矮人或巨魔。伊洛將會守護我們。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:512
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:564
 msgid "Will she? I got the impression she was powerless underground."
-msgstr ""
+msgstr "她會嗎？我的印象是她的力量不能深入地下。"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:517
@@ -3445,6 +3458,11 @@ msgid ""
 "do to unduly worry our people. Eloh will always protect us, if we follow her "
 "path."
 msgstr ""
+"你從哪裡得到這個印象的？的確當有陽光照耀我們的時候，伊洛的力量是最強的。但據"
+"說即使是在最黑的夜晚，她也會保護她的信眾。在過去黃金時代的時期，神聖的精靈勇"
+"士就是在伊洛的幫助下，戰勝了半獸人與其他藏在地底下的髒東西。信仰是我們的盾"
+"牌，卡雷。我想你應該將你的疑慮留在你的心中，才不會使我們的族人過份擔憂。伊洛"
+"將會永遠保護我們，如果我們跟隨她的道路。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:522
@@ -3452,14 +3470,14 @@ msgstr ""
 msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
-msgstr ""
+msgstr "那就讓我們祈禱我們之後的旅程都能像截止目前為止的那樣順利吧。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:529
 msgid ""
 "I’ve heard of dwarves, but do you have any idea, Zhul, what kinds of "
 "creatures we might encounter underground?"
-msgstr ""
+msgstr "我聽說過矮人，但你有什麼想法，祖爾？我們會在地下遭遇到什麼類型的生物？"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:534
@@ -3467,11 +3485,13 @@ msgid ""
 "These tunnels are foreign to me; I know little more than you do. All I know "
 "about dwarves is from the few tales from the Golden Age."
 msgstr ""
+"這些隧道對我來說很陌生，我知道的沒有比你多多少。我所知道關於矮人的一切都來自"
+"黃金時代的幾個故事。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:539
 msgid "What are they like?"
-msgstr ""
+msgstr "他們是什麼樣子的？"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:544
@@ -3482,11 +3502,15 @@ msgid ""
 "survived. But in the golden age they were very helpful in our wars against "
 "the orcs and trolls."
 msgstr ""
+"他們生活在地下深處，開採黃金、精良的金屬並鍛造許多美妙的東西。我們在黃金時代"
+"曾經是盟友，但後來在大隕落的衝突及混亂中失去了聯繫。我不知道他們是否還有生還"
+"任何一個人。但在黃金時代，在我們與半獸人和巨魔的戰爭中，他們是非常有幫助的盟"
+"友。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:549
 msgid "What are trolls?"
-msgstr ""
+msgstr "巨魔是什麼？"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:554
@@ -3497,6 +3521,9 @@ msgid ""
 "warriors. I’m sure they have all died off; I certainly would never want to "
 "meet one face to face."
 msgstr ""
+"巨魔是巨大的灰色生物，像巨人一樣高大，而且非常強壯。 他們是隱居的生物，藏匿在"
+"地底下。 雖然有些在偉大戰爭與半獸人們並肩作戰，但我們並沒有與他們有過多少接"
+"觸。他們是強大的勇士。我相信他們都已經死了，而我也絕對不想面對一個巨魔。"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:559
@@ -3505,31 +3532,33 @@ msgid ""
 "happy if our biggest problem is not getting lost. Still, even underground "
 "Eloh will watch over us."
 msgstr ""
+"在伊洛的指引下，我希望我們來到的這些隧道已經空無一人。如果我們最大的問題不是"
+"迷路，我會很高興。一如往常，即使在地底下，伊洛也還是將會守護我們。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:593
 msgid "All I’m saying is that these tunnels aren’t as bad as I expected."
-msgstr ""
+msgstr "我想說的是，這些隧道並沒有我預想的那樣糟。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:599
 msgid "Shhh! Did you hear something?"
-msgstr ""
+msgstr "噓！！你有聽到什麼嗎？"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:638
 msgid "Ants. Very big ants. Maybe they won’t be hostile."
-msgstr ""
+msgstr "螞蟻！非常大的螞蟻。也許牠們沒有敵意。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:651
 msgid "On the other hand, that spider probably is."
-msgstr ""
+msgstr "但另一邊的那個蜘蛛可能有。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:656
 msgid "Caught between a spider and its prey. Not a good place to be."
-msgstr ""
+msgstr "夾在一隻蜘蛛與牠的獵物中間。真不是個好地方。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:684
@@ -3537,55 +3566,57 @@ msgid ""
 "Whoa! Did you see that? That huge stalactite just fell and crushed the "
 "spider. Aren’t we lucky!"
 msgstr ""
+"哇哦！你有看到嗎？那個巨大的鐘乳石剛才掉下來，而且砸死了那隻蜘蛛。我們是不是"
+"很幸運！"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:689
 msgid "Eloh must indeed be watching over us."
-msgstr ""
+msgstr "伊洛肯定確實有在守護著我們。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:708
 msgid ""
 "You know, if all we discover down here are insects, I’ll be very "
 "disappointed."
-msgstr ""
+msgstr "你知道，如果我們在下面這裡只發現到昆蟲，我會非常失望的。"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:719
 msgid "Spiders aren’t insects."
-msgstr ""
+msgstr "蜘蛛不是昆蟲。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:724
 msgid "Thanks for the clarification."
-msgstr ""
+msgstr "謝謝澄清。"
 
 #. [message]: speaker=Wounded Dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:744
 msgid "Help! They’re everywhere!"
-msgstr ""
+msgstr "救命！他們到處都是！"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:754
 msgid "Nym, your timing is impeccable."
-msgstr ""
+msgstr "寧姆，你的時間點選得真是時候。"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:765
 msgid "That’s a dwarf, but it looks like he’s been beaten to a pulp."
-msgstr ""
+msgstr "那是個矮人，但他看起來已經被打扁了。"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:772
 msgid "Short and hairy, he must be a dwarf. But he’s been beaten to a pulp."
-msgstr ""
+msgstr "矮小又多毛，他一定是個矮人，但他已經被打扁了。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:779
 msgid ""
 "I don’t know what ‘they’ are, but we can’t go back. Prepare yourselves for "
 "anything, everyone."
-msgstr ""
+msgstr "我不知道「他們」是什麼，但我們不能折返。各自做好萬全準備啊，大家。"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:837
@@ -3602,7 +3633,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:898
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:901
 msgid "Dwarf Defender"
-msgstr ""
+msgstr "矮人防衛者"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:842
@@ -3618,32 +3649,32 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:909
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:910
 msgid "Troll Defender"
-msgstr ""
+msgstr "巨魔防衛者"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:850
 msgid "Dwarf Leader"
-msgstr ""
+msgstr "矮人首領"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:870
 msgid "Troll Leader"
-msgstr ""
+msgstr "巨魔首領"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:932
 msgid "Whoa."
-msgstr ""
+msgstr "哇哦。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:983
 msgid "I think I preferred the spider and the ants..."
-msgstr ""
+msgstr "我想我還是比較喜歡蜘蛛和螞蟻……"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:988
 msgid "Stand firm, boys, here they come!"
-msgstr ""
+msgstr "守備好，弟兄們，他們來了！"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:993
@@ -3651,6 +3682,7 @@ msgid ""
 "You invade our tunnels, you slaughter our people, by Griknagh we will make "
 "you pay!"
 msgstr ""
+"你們入侵我們的隧道，你殺害我們的族人，以格里克納之名，我們將要你們付出代價！"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:998
@@ -3658,16 +3690,18 @@ msgid ""
 "Tenacious savages, aren’t they? But these tunnels are rich in ore, and we "
 "won’t let a couple of trolls keep them from us."
 msgstr ""
+"頑強的野蠻人，不是嗎？這些隧道有很豐富的礦藏，我們不會讓任何一個巨魔從我們這"
+"裡帶走它們。"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1003
 msgid "Wait... What... Who are you?"
-msgstr ""
+msgstr "站住……什……你是誰？"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1008
 msgid "Uh..."
-msgstr ""
+msgstr "呃……"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1013
@@ -13768,6 +13802,10 @@ msgid ""
 "flickered everywhere. The walls were damp and clammy, the air seemed stale "
 "and the sound of our footsteps echoed up and down the passageway."
 msgstr ""
+"第五章：我們進入黑暗之中，引導著我們的族人排成的長隊，沿著狹窄的通道愈來愈深"
+"地在山脈的根部移動。我們帶來了棕櫚火把，還從半獸人那裡弄來了其它的火把，所以"
+"我們有足夠的光源，至少現在是如此。儘管如此，火光搖曳的火把散發微弱的亮光，到"
+"處都是晃動的影子。牆壁又黏又濕，空氣不新鮮，我們的腳步聲在通道裡迴盪著。"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:87
