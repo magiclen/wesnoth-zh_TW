@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2022-05-31 10:42+0800\n"
+"PO-Revision-Date: 2022-05-31 23:11+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -66,6 +66,7 @@ msgstr ""
 msgid "World Conquest"
 msgstr "世界征服"
 
+# 為求清楚，不照翻。
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:10
 msgid ""
 "Units are defined as pairs in recruit list: Every time a unit is recruited, "
@@ -74,6 +75,10 @@ msgid ""
 "Includes an in-game help to know pairs status, with a right-click on an "
 "empty hex."
 msgstr ""
+"單位在招募列表中是成對的。每次招募一個單位，招募列表中的該單位都會被另一個與"
+"該單位配對在一起的單位給替換掉。這個時代是被設計用來平衡遊世界征服多人戰役的"
+"遊玩。\n"
+"在遊戲進行的時候可以右鍵點擊一個空格子來查看配對狀態。"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:14
 msgid "The Horde"
