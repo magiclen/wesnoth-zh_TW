@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-29 13:14+0300\n"
-"PO-Revision-Date: 2022-05-30 14:48+0800\n"
+"PO-Revision-Date: 2022-05-31 22:57+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -5756,7 +5756,7 @@ msgstr "韋諾之戰"
 msgid "Invalid Color"
 msgstr "無效的顔色"
 
-# 這邊是用於遊戲存檔的列表上的時間。盡量讓格式統一，雖然遊戲本身設計是根據現在時間和錄影時間來調整顯示的格式……
+# 這邊是用於遊戲存檔的列表上的時間。儘量讓格式統一，雖然遊戲本身設計是根據現在時間和錄影時間來調整顯示的格式……
 #. TRANSLATORS: 24-hour time, eg '13:59'
 #: src/format_time_summary.cpp:48
 msgid "%H:%M"
