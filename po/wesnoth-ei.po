@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-01-02 18:01 UTC\n"
-"PO-Revision-Date: 2022-05-30 14:49+0800\n"
+"PO-Revision-Date: 2022-05-31 09:37+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1561,7 +1561,7 @@ msgstr "這愚蠢的半獸人一定會死。"
 #. [message]: speaker=Mal-Arnai
 #: data/campaigns/Eastern_Invasion/scenarios/06_Two_Paths.cfg:180
 msgid "Very well, we are allies, for now. "
-msgstr "非常好，我們是同盟了，目前。 "
+msgstr "非常好，我們是同盟了，目前。"
 
 #. [message]: speaker=Wak-Rano
 #: data/campaigns/Eastern_Invasion/scenarios/06_Two_Paths.cfg:192
@@ -3533,7 +3533,7 @@ msgid ""
 "Dacyn. I would have you remain by Our side, here; as you counseled these two "
 "in war, so shall you counsel Us in peace and the rebuilding of the Kingdom."
 msgstr ""
-"戴森。我要讓你留在我們的陣營，就是這裡。 因為你在戰爭時期給那兩位建議，希望你"
+"戴森。我要讓你留在我們的陣營，就是這裡。因為你在戰爭時期給那兩位建議，希望你"
 "在和平及重建王國的時期也能給我們建議。"
 
 #. [message]: speaker=Dacyn
@@ -3600,7 +3600,7 @@ msgid ""
 "And arise, Gweddry, Earl of Estmark. The land for which you shed your blood "
 "shall be put under your hand to be made green again."
 msgstr ""
-"平身， 柯維卓， 艾斯特馬克的伯爵。這片你們浴血奮戰的土地會在你的管理下再次繁"
+"平身，柯維卓，艾斯特馬克的伯爵。這片你們浴血奮戰的土地會在你的管理下再次繁"
 "榮。"
 
 #. [message]: speaker=narrator
