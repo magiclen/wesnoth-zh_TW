@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-05-08 01:42 UTC\n"
-"PO-Revision-Date: 2022-05-31 23:11+0800\n"
+"PO-Revision-Date: 2022-06-03 14:03+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -82,43 +82,45 @@ msgstr ""
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:14
 msgid "The Horde"
-msgstr ""
+msgstr "群落"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:17
 msgid "The Alliance"
-msgstr ""
+msgstr "聯盟"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:20
 msgid "The Guild"
-msgstr ""
+msgstr "公會"
 
+# Trust，信託？意義不明。
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:23
 msgid "The Trust"
-msgstr ""
+msgstr "信託"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:26
 msgid "The Gang"
-msgstr ""
+msgstr "幫派"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:29
 msgid "The Cult"
-msgstr ""
+msgstr "邪教"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:32
 msgid "The Militia"
-msgstr ""
+msgstr "義勇"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:35
 msgid "The Scourge"
-msgstr ""
+msgstr "災厄"
 
+# Hand，手？意義不明。
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:38
 msgid "The Hand"
-msgstr ""
+msgstr "手掌"
 
 #: data/campaigns/World_Conquest/era/factions/strings.cfg:41
 msgid "The Empire"
-msgstr ""
+msgstr "帝國"
 
 #. [label]: id=title
 #. [lua]: root_node.on_modified
@@ -2016,27 +2018,27 @@ msgstr "（玩家不可用）"
 #: data/campaigns/World_Conquest/lua/map/main.lua:129
 #: data/campaigns/World_Conquest/lua/map/postgeneration/1A_Start.lua:146
 msgid "Start"
-msgstr ""
+msgstr "序章"
 
 #. [lua]: wc_ii_generate_scenario
 #: data/campaigns/World_Conquest/lua/map/main.lua:131
 msgid "Scenario"
-msgstr ""
+msgstr "章節"
 
 #. [lua]: wc_ii_generate_scenario
 #: data/campaigns/World_Conquest/lua/map/main.lua:133
 msgid "Final Battle"
-msgstr ""
+msgstr "終結之戰"
 
 #. [lua]: wct_map_2a_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2A_Springs.lua:183
 msgid "water^Springs"
-msgstr ""
+msgstr "泉"
 
 #. [lua]: world_conquest_tek_map_decoration_2c
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2C_Glaciers.lua:208
 msgid "Glaciers"
-msgstr ""
+msgstr "冰山"
 
 #. [lua]: wct_map_2d_post_bunus_decoration
 #: data/campaigns/World_Conquest/lua/map/postgeneration/2D_Provinces.lua:165
