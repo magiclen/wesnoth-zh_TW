@@ -13,7 +13,7 @@ else
 fi
 
 for po in ./po/*.po; do
-    filename=$(basename -- $po)
+    filename=$(basename -- "$po")
     filename_noext=${filename%.*}
     
     # convert
