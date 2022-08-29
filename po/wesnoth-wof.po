@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-08-21 00:47 UTC\n"
-"PO-Revision-Date: 2022-08-28 19:57+0800\n"
+"PO-Revision-Date: 2022-08-29 12:56+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1195,7 +1195,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:43
 msgid "Reshan"
-msgstr ""
+msgstr "雷尚"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:40
@@ -1345,20 +1345,22 @@ msgstr ""
 msgid "Spectators"
 msgstr ""
 
+# 意思模糊，不照翻。
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:206
 msgid "Hold the advantage by turn 24"
-msgstr "維持優勢直到第 24 回合"
+msgstr "在第 24 回合結束時取得優勢"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:211
 msgid "Defeat Karron"
 msgstr "擊敗卡榮"
 
+# 意思模糊，不照翻。
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:215
 msgid "Not hold the advantage by turn 24"
-msgstr "無法優勢直到第 24 回合"
+msgstr "在第 24 回合結束時沒有取得優勢"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:219
@@ -1739,29 +1741,32 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:149
 msgid "Hold all villages by the end of turn 18"
-msgstr ""
+msgstr "在第 18 回合結束時佔領所有村莊"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:153
 msgid "Not hold all villages by the end of turn 18"
-msgstr ""
+msgstr "在第 18 回合結束時沒有佔領所有村莊"
 
+# 描述不清楚，不照翻。
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:168
 msgid ""
 "You can make the naga allies by moving Reshan next to their leader (if you "
 "have not killed any of them)"
 msgstr ""
+"藉由把雷尚移動到他們的首領旁邊，你可以讓納迦變成盟友（前提是你沒有殺死任何的"
+"納迦單位）"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:171
 msgid "Clashers cannot be recruited or recalled"
-msgstr ""
+msgstr "龍族碰撞者不可以被招募或是招回"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:174
 msgid "It is summer, daytime is longer"
-msgstr ""
+msgstr "現在是夏天，白天比較長"
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:185
@@ -2309,12 +2314,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:483
 msgid "Kill Rhynnin"
-msgstr ""
+msgstr "殺死雷寧"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:492
 msgid "Capture all villages"
-msgstr ""
+msgstr "佔領所有村莊"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:504
@@ -2325,7 +2330,7 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:562
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:311
 msgid "Death of Arinexis"
-msgstr ""
+msgstr "艾里尼克西斯死亡"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:513
@@ -2337,19 +2342,19 @@ msgstr ""
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:315
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:192
 msgid "Death of Zedrix"
-msgstr ""
+msgstr "澤德里克斯死亡"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:526
 msgid "Recruiting and recalling are not possible"
-msgstr ""
+msgstr "無法招募或招回"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:529
 msgid ""
 "The humans and merfolk will attempt to recapture villages but wildlife will "
 "not"
-msgstr ""
+msgstr "人類和人魚會嘗試重新佔領村莊，但野生動物不會"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:538
@@ -2991,13 +2996,13 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:126
 msgid "Kill all the humans"
-msgstr ""
+msgstr "殺光所有人類"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:146
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:180
 msgid "Death of Karron"
-msgstr ""
+msgstr "卡榮死亡"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:154
@@ -3006,16 +3011,19 @@ msgid ""
 "Karron with veteran drakes attacking from the west\n"
 "Saurians attacking from the north\n"
 msgstr ""
+"移動任意單位到信標可以呼叫援軍：\n"
+"卡榮以及龍族老兵從西邊進攻\n"
+"蜥蜴人從北邊進攻\n"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:160
 msgid "Clashers can be recruited and recalled again"
-msgstr ""
+msgstr "龍族碰撞者可以被招募或是招回了"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:163
 msgid "Saurians can be recruited and recalled now"
-msgstr ""
+msgstr "蜥蜴人現在可以招募或是招回"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:186
@@ -3543,24 +3551,26 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:234
 msgid "Kill all prey"
-msgstr ""
+msgstr "殺死所有獵物"
 
+# 意思模糊，不照翻。
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:258
 msgid "Opponents will remain passive until attacked"
-msgstr ""
+msgstr "對手被攻擊後才會開始動作"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:261
 msgid ""
 "Use of fire attacks on anyone standing in forest will ignite sweeping "
 "wildfires (due to enchanted leaf litter)"
-msgstr ""
+msgstr "用火焰攻擊任何在森林中的單位會點燃野火（因為有被施了魔法的枯枝落葉）"
 
+# 意思模糊，不照翻。
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:264
 msgid "Anyone standing on wildfire for a turn suffers 16 fire damage"
-msgstr ""
+msgstr "任何在野火中的單位在下一個回合開始時會遭受 16 點火焰傷害"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:275
@@ -4003,22 +4013,23 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:214
 msgid "Gorlack, Reshan, Arinexis and Zedrix reach the cave exit"
-msgstr ""
+msgstr "戈拉克、雷尚、艾里尼克西斯和澤德里克斯抵達洞穴出口"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:237
 msgid "When the heroes exit, anyone left on the map will die"
-msgstr ""
+msgstr "當英雄們離開時，任何留在地圖上的單位都會死"
 
+# 意思不明確，不照翻。
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:240
 msgid "Anyone that exits before the heroes do will survive"
-msgstr ""
+msgstr "任何在英雄之前離開洞穴的單位將會生存下來"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:243
 msgid "Unrecalled veterans will survive"
-msgstr ""
+msgstr "沒有被招回的老兵將會生存下來"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:253
@@ -4411,7 +4422,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:823
 msgid "Reshan..."
-msgstr ""
+msgstr "雷尚……"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:848
@@ -4466,18 +4477,19 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:170
 msgid "Gorlack must reach the beacon at the northern volcano"
-msgstr ""
+msgstr "戈拉克必須抵達北方火山的信標"
 
+# 不確定這個是什麼意思，不照翻。
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:174
 msgid "From there, make your final stand"
-msgstr ""
+msgstr "只有起點有主堡，組建好你的軍隊後再離開"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:194
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:574
 msgid "It is winter, nighttime is longer"
-msgstr ""
+msgstr "現在是冬天，夜晚比較長"
 
 #. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:248
@@ -4539,23 +4551,23 @@ msgstr ""
 #. [unit]: id=Khrakrahs, type=Fire Dragon
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:444
 msgid "Khrakrahs"
-msgstr ""
+msgstr "克拉克拉斯"
 
 #. [attack]: type=blade
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:452
 msgid "bite"
-msgstr ""
+msgstr "咬"
 
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:461
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:53
 msgid "tail"
-msgstr ""
+msgstr "尾巴"
 
 #. [attack]: type=fire
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:470
 msgid "fire breath"
-msgstr ""
+msgstr "火焰吐息"
 
 #. [message]
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:517
@@ -4606,15 +4618,16 @@ msgstr ""
 msgid "Shek'kahan, do you not recognize Khrakrahs...?"
 msgstr ""
 
+# 不確定這個是什麼意思，不照翻。
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:554
 msgid "Make your final stand"
-msgstr ""
+msgstr "殺死所有獵物"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:588
 msgid "Be no more."
-msgstr ""
+msgstr "讓你不再存在。"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:601
@@ -4776,23 +4789,23 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:303
 msgid "Survive for 18 turns"
-msgstr ""
+msgstr "生存 18 個回合"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:322
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:196
 msgid "The new eyrie quadruples village income and trains veteran recruits"
-msgstr ""
+msgstr "新的鷹巢城使村莊收入變成四倍，而且可以訓練老練的新兵"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:325
 msgid "Dwarves will emerge from their tunnels every wave"
-msgstr ""
+msgstr "矮人會一波波地從他們的隧道湧出"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:328
 msgid "Moving anyone to a tunnel will destroy it"
-msgstr ""
+msgstr "移動任意單位到隧道上可以摧毀它"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:347
@@ -5137,12 +5150,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:176
 msgid "Capture Karron by surrounding him on all six sides"
-msgstr ""
+msgstr "讓六個單位團團包圍卡榮來俘虜他"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:199
 msgid "Karron may employ surprise attacks"
-msgstr ""
+msgstr "卡榮也許會發動奇襲"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:210
@@ -5674,7 +5687,7 @@ msgstr ""
 #. [scenario]: id=12_Epilogue
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr ""
+msgstr "尾聲"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:12
@@ -5862,7 +5875,7 @@ msgstr ""
 #. [unit_type]: id=Storm Daemon, race=monster
 #: data/campaigns/Winds_of_Fate/units/Storm_Daemon.cfg:5
 msgid "Storm Daemon"
-msgstr ""
+msgstr "風暴惡魔"
 
 #. [unit_type]: id=Storm Daemon, race=monster
 #: data/campaigns/Winds_of_Fate/units/Storm_Daemon.cfg:8
@@ -5880,17 +5893,17 @@ msgstr ""
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Storm_Daemon.cfg:79
 msgid "whirlwind"
-msgstr ""
+msgstr "旋風"
 
 #. [attack]: type=cold
 #: data/campaigns/Winds_of_Fate/units/Storm_Daemon.cfg:88
 msgid "squall"
-msgstr ""
+msgstr "颮"
 
 #. [attack]: type=arcane
 #: data/campaigns/Winds_of_Fate/units/Storm_Daemon.cfg:101
 msgid "lightning"
-msgstr ""
+msgstr "閃電"
 
 #. [unit_type]: id=Stymphalian, race=monster
 #: data/campaigns/Winds_of_Fate/units/Stymphalian.cfg:5
@@ -5918,45 +5931,48 @@ msgstr "帶刃羽毛"
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:9
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:10
 msgid "blast"
-msgstr ""
+msgstr "氣浪"
 
+# 描述不清楚，不照翻。
 #. [damage]: id=blast
 #: data/campaigns/Winds_of_Fate/utils/abilities.cfg:11
 msgid "This attack also harms everyone near the opponent."
 msgstr ""
+"這個攻擊如果成功，除了會對被攻擊者造成傷害外，也會對被攻擊者鄰近的除攻擊者之"
+"外的所有單位造成傷害。"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:66
 msgid "Arinexis"
-msgstr ""
+msgstr "艾里尼克西斯"
 
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:79
 msgid "Zedrix"
-msgstr ""
+msgstr "澤德里克斯"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:12
 msgid "So much left... unfinished..."
-msgstr ""
+msgstr "剩下這麼多……還沒完成……"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:27
 msgid "Reshan!"
-msgstr ""
+msgstr "雷尚！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:42
 msgid "Arinexisss... Your time hass come too sssoon!"
-msgstr ""
+msgstr "艾里尼克西斯嘶嘶……你的末日來得真快！"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/deaths.cfg:57
 msgid "My dragon, I have failed you..."
-msgstr ""
+msgstr "我的龍主，我辜負了您……"
 
 #. [floating_text]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:70
 msgid "+{AMOUNT} experience"
-msgstr ""
+msgstr "+{AMOUNT} 點經驗"
 
 #. [object]
 #: data/campaigns/Winds_of_Fate/utils/macros.cfg:77
