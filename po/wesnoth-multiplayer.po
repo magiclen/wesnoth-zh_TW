@@ -6,10 +6,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.16\n"
+"Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-09 00:45 UTC\n"
-"PO-Revision-Date: 2022-07-14 16:51+0800\n"
+"POT-Creation-Date: 2022-11-20 05:31 UTC\n"
+"PO-Revision-Date: 2022-12-04 11:37+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -121,20 +121,20 @@ msgstr ""
 
 #. [lua]: f
 #. In the end-of-match summary, there's a single side that's won.
-#: data/multiplayer/eras.lua:86
+#: data/multiplayer/eras.lua:84
 msgid ""
 "<span foreground='$side_color'>Side $side_number</span> has the advantage."
 msgstr "<span foreground='$side_color'>陣營 $side_number</span> 取得了優勢。"
 
 #. [lua]: f
 #. In the end-of-match summary, there's a two-way tie (this is only used for exactly two winning teams)
-#: data/multiplayer/eras.lua:91
+#: data/multiplayer/eras.lua:89
 msgid "Sides $side_number and $other_side_number are tied."
 msgstr "陣營 $side_number 和 $other_side_number 平手。"
 
 #. [lua]: f
 #. In the end-of-match summary, three or more teams have all tied for the best score. $winners contains the result of formatting the conjunct list.
-#: data/multiplayer/eras.lua:96
+#: data/multiplayer/eras.lua:94
 msgid "Sides $winners are tied."
 msgstr "陣營 $winners 平手。"
 
@@ -213,7 +213,7 @@ msgstr ""
 "<bold>text='納爾迦聯盟'</bold>是<ref>text='矮人' dst='..race_dwarf'</ref>和流"
 "亡的<ref>text='人類' dst='..race_human'</ref>同盟組成的派系。矮人是居住在地底"
 "下的古老種族，有著強壯但矮小的戰士。流亡的人類──亡命之徒是在人類社會中不被接"
-"受的一群，由於與矮人有共同的敵人，使彼此成為盟友。造就了強壯、防禦力高但只有"
+"受的一群，由於與矮人有共同的敵人，使彼此成為盟友。造就了強壯、防禦率高但只有"
 "在某些的地形表現才會好的矮人，和能夠負責矮人所不擅長的地形的人類的組合。"
 
 #. [multiplayer_side]: id=Loyalists, type=random
@@ -237,13 +237,13 @@ msgstr ""
 "地，親皇派是一個非常多樣化並以近戰為導向的派系，重要的遠程支持是來自弓箭手及"
 "法師。"
 
-#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.png~BG()' align='middle'</img>
+#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.webp~BG()' align='middle'</img>
 #: data/multiplayer/factions/northerners-aoh.cfg:4
 #: data/multiplayer/factions/northerners-default.cfg:4
 msgid "Northerners"
 msgstr "北方民族"
 
-#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.png~BG()' align='middle'</img>
+#. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.webp~BG()' align='middle'</img>
 #: data/multiplayer/factions/northerners-aoh.cfg:16
 #: data/multiplayer/factions/northerners-default.cfg:15
 msgid ""
@@ -1508,6 +1508,7 @@ msgstr "入侵者"
 #: data/multiplayer/scenarios/2p_Isle_of_Mists.cfg:56
 #: data/multiplayer/scenarios/2p_Isle_of_Mists.cfg:83
 #: data/multiplayer/scenarios/2p_Isle_of_Mists.cfg:107
+#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:45
 msgid "teamname^Defenders"
 msgstr "防禦者"
 
@@ -2164,6 +2165,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:45
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:56
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:100
+#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:27
 msgid "teamname^Southwest"
 msgstr "西南"
 
@@ -2227,6 +2229,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:34
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:78
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:89
+#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:63
 msgid "teamname^Southeast"
 msgstr "東南"
 
@@ -2717,6 +2720,20 @@ msgstr ""
 "一個隨機產生的地圖，以雪地為地形，時間點是設定在冬去春來的時候。備註：隨機地"
 "圖往往不太平衡，但是如果你有足夠的時間，可以不斷地重新產生，直到得到一個平衡"
 "的地圖。"
+
+# 測試用的，先不翻譯。
+#. [multiplayer]: id=multiplayer_test_Elevation_Demo
+#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:5
+msgid "Wesnoth Test — Elevated Terrain Example Scenario"
+msgstr ""
+
+# 測試用的，先不翻譯。
+#. [multiplayer]: id=multiplayer_test_Elevation_Demo
+#: data/multiplayer/scenarios/Test_Elevation_Test.cfg:6
+msgid ""
+"This map is an example of how to use the new (BfW v1.17) elevated terrain "
+"graphics. It is not a good map for real MP use."
+msgstr ""
 
 #. [multiplayer]: id=wesbench_ai
 #: data/multiplayer/scenarios/Wesbench_AI.cfg:9

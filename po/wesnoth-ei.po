@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: wesnoth-1.16\n"
+"Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-05 14:17 UTC\n"
-"PO-Revision-Date: 2022-07-14 16:31+0800\n"
+"POT-Creation-Date: 2022-10-16 02:06 UTC\n"
+"PO-Revision-Date: 2022-12-04 10:17+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -102,12 +102,12 @@ msgid "Artwork and Graphics Design"
 msgstr "美術和圖形設計"
 
 #. [lua]: wml_actions.bandit_village_capture
-#: data/campaigns/Eastern_Invasion/lua/bandits.lua:83
+#: data/campaigns/Eastern_Invasion/lua/bandits.lua:82
 msgid "They're here!"
 msgstr "他們在這裡！"
 
 #. [lua]: wml_actions.bandit_village_capture
-#: data/campaigns/Eastern_Invasion/lua/bandits.lua:90
+#: data/campaigns/Eastern_Invasion/lua/bandits.lua:89
 msgid "No outlaws in this village."
 msgstr "沒有亡命之徒在這個村莊裡。"
 
@@ -775,7 +775,7 @@ msgstr "瓦拉斯"
 #. [side]: type=Orcish Warrior, id=Gruga-Har
 #. [side]: type=Orcish Nightblade, id=Bagork
 #. [side]: type=Orcish Warlord, id=Prok-Bak
-#. [side]: type=Orcish Warlord, id=King Dra-Nak
+#. [side]: type=Orcish Warlord, id=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Alliance.cfg:75
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:80
 #: data/campaigns/Eastern_Invasion/scenarios/09_Xenophobia.cfg:134
@@ -2233,24 +2233,25 @@ msgstr "被俘"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:18
 msgid ""
 "After reaching what they believed was safety, Gweddry and his men had been "
-"captured by northern orcs."
+"captured by trolls from the northern orcish tribes."
 msgstr ""
-"柯維卓和他的人馬在抵達他們相信是安全的地方之後，他們就被北部的半獸人抓住了。"
+"柯維卓和他的人馬在抵達他們相信是安全的地方之後，他們就被從北部的半獸人部落來"
+"的巨魔抓住了。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:21
 msgid ""
-"Gweddry, Dacyn and Owaec were promptly taken before the orcish king, Dra-"
-"Nak, while the rest were thrown into the orcish prisons to await their "
+"Gweddry, Dacyn and Owaec were promptly taken before the orcish chieftain, "
+"Dra-Nak, while the rest were thrown into the orcish prisons to await their "
 "turn..."
 msgstr ""
-"柯維卓、戴森和歐維克隨即被帶到半獸人王──德拉-納克──面前，而其他的人則被囚禁在"
-"半獸人的監獄，等待著輪到他們的時刻……"
+"柯維卓、戴森和歐維克隨即被帶到半獸人老大──德拉-納克──面前，而其他的人則被囚禁"
+"在半獸人的監獄，等待著輪到他們的時刻……"
 
-#. [side]: type=Orcish Warlord, id=King Dra-Nak
+#. [side]: type=Orcish Warlord, id=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:42
-msgid "King Dra-Nak"
-msgstr "德拉-納克王"
+msgid "Chief Dra-Nak"
+msgstr "德拉-納克老大"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:80
@@ -2376,7 +2377,7 @@ msgstr "那麼，我看起來如何？"
 msgid "I’ll try to slip past the trolls. You wait here."
 msgstr "我會試著悄悄穿過那些巨魔。你在這裡等著。"
 
-#. [message]: speaker=King Dra-Nak
+#. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:728
 msgid "Ha-ha! These humans will make excellent slaves in my mines!"
 msgstr "哈哈！這些人類在我的礦坑裡將會是非常棒的奴隸！"
@@ -2393,12 +2394,12 @@ msgstr "打開牢房應該可以讓守衛困惑一下子。但我最好還是不
 msgid "Eh?"
 msgstr "咦？"
 
-#. [message]: speaker=King Dra-Nak
+#. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:833
 msgid "Hey! Who are you? Get her!"
 msgstr "嘿！你是誰？抓住她！"
 
-#. [message]: speaker=King Dra-Nak
+#. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:840
 msgid "Hey! Who are you? Get him!"
 msgstr "嘿！你是誰？抓住他！"
@@ -2428,7 +2429,7 @@ msgstr "總算！"
 msgid "Now let’s get out of here!"
 msgstr "現在讓我們從這裡出去吧！"
 
-#. [message]: speaker=King Dra-Nak
+#. [message]: speaker=Chief Dra-Nak
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1044
 msgid "What? Who’s there? Get them!"
 msgstr "什麼？誰在那？抓住他們！"
@@ -3392,24 +3393,24 @@ msgid "I shall destroy you personally!"
 msgstr "我會親自摧毀你！"
 
 #. [message]: speaker=Owaec
-#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:534
+#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:535
 msgid "Their spell is broken! There he is!"
 msgstr "他們的法術被破解了！他在那！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:689
+#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:690
 msgid "Kill them all!"
 msgstr "殺光他們！"
 
 #. [message]: speaker=Gweddry
-#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:693
+#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:694
 msgid ""
 "They killed the royal family... now, even if we save Weldyn, Wesnoth has "
 "fallen."
 msgstr "他們殺掉了王族……現在，即便我們拯救了維爾丁，韋諾也已經滅亡了。"
 
 #. [message]: speaker=Konrad
-#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:708
+#: data/campaigns/Eastern_Invasion/scenarios/17b_Weldyn_Besieged.cfg:709
 msgid "The Kingdom of Wesnoth dies with me!"
 msgstr "韋諾王國隨我死去！"
 
@@ -3611,27 +3612,6 @@ msgid ""
 "Reconstruction..."
 msgstr "於是，開啟了韋諾王國的白銀時代，歷史學家將這個時期稱為重建時期……"
 
-#. [unit_type]: id=Bone Knight, race=undead
-#: data/campaigns/Eastern_Invasion/units/Bone_Knight.cfg:5
-msgid "Bone Knight"
-msgstr "骸骨騎士"
-
-# 這邊的敘述和L中的同步。
-#. [unit_type]: id=Bone Knight, race=undead
-#: data/campaigns/Eastern_Invasion/units/Bone_Knight.cfg:27
-msgid ""
-"Once great warriors across the plains, these mounted riders atop their "
-"skeletal horses were raised from the ground by unholy magic to spread fear "
-"and destruction."
-msgstr ""
-"這些騎著骷髏馬的騎士曾是橫越大草原的偉大戰士，他們被不潔的魔法從地底深處喚"
-"醒，散播著恐懼和毀滅。"
-
-#. [attack]: type=impact
-#: data/campaigns/Eastern_Invasion/units/Bone_Knight.cfg:42
-msgid "trample"
-msgstr "踐踏"
-
 #. [unit_type]: id=Horse Lord, race=human
 #: data/campaigns/Eastern_Invasion/units/Horse_Lord.cfg:4
 msgid "Horse Lord"
@@ -3683,22 +3663,6 @@ msgid ""
 msgstr ""
 "草原上的領導者，驃騎勇士熟練於使用劍和晨星鎚，他們能夠以飛快的速度奔馳於戰場"
 "各處，可以提供許多需要的援助至不同的前線。"
-
-#. [unit_type]: id=Skeleton Rider, race=undead
-#: data/campaigns/Eastern_Invasion/units/Skeleton_Rider.cfg:5
-msgid "Skeleton Rider"
-msgstr "骷髏騎兵"
-
-# 這邊的敘述和L中的同步。
-#. [unit_type]: id=Skeleton Rider, race=undead
-#: data/campaigns/Eastern_Invasion/units/Skeleton_Rider.cfg:33
-msgid ""
-"Once great warriors thundering across the plains, these mounted riders atop "
-"their skeletal horses were raised from the grave by unholy magic to spread "
-"fear and destruction."
-msgstr ""
-"這些騎著骷髏馬的騎士曾是在大草原上轟隆而過的偉大戰士，他們被不潔的魔法從地底"
-"深處喚醒，散播著恐懼和毀滅。"
 
 #. [attacks]: id=shock
 #: data/campaigns/Eastern_Invasion/utils/abilities.cfg:8
@@ -3863,6 +3827,33 @@ msgstr "我不適合使用這個物件！讓其他人拿走它吧。"
 #: data/campaigns/Eastern_Invasion/utils/macros.cfg:67
 msgid "Holy Amulet"
 msgstr "神聖護身符"
+
+#~ msgid "Bone Knight"
+#~ msgstr "骸骨騎士"
+
+# 這邊的敘述和L中的同步。
+#~ msgid ""
+#~ "Once great warriors across the plains, these mounted riders atop their "
+#~ "skeletal horses were raised from the ground by unholy magic to spread "
+#~ "fear and destruction."
+#~ msgstr ""
+#~ "這些騎著骷髏馬的騎士曾是橫越大草原的偉大戰士，他們被不潔的魔法從地底深處喚"
+#~ "醒，散播著恐懼和毀滅。"
+
+#~ msgid "trample"
+#~ msgstr "踐踏"
+
+#~ msgid "Skeleton Rider"
+#~ msgstr "骷髏騎兵"
+
+# 這邊的敘述和L中的同步。
+#~ msgid ""
+#~ "Once great warriors thundering across the plains, these mounted riders "
+#~ "atop their skeletal horses were raised from the grave by unholy magic to "
+#~ "spread fear and destruction."
+#~ msgstr ""
+#~ "這些騎著骷髏馬的騎士曾是在大草原上轟隆而過的偉大戰士，他們被不潔的魔法從地"
+#~ "底深處喚醒，散播著恐懼和毀滅。"
 
 #~ msgid "Creatures from the deep, I summon thee to destroy this foe!"
 #~ msgstr "深處的怪物，我召喚你來摧毀敵人！"
