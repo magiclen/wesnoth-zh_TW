@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-12-04 11:50+0800\n"
+"POT-Creation-Date: 2023-01-15 00:20 UTC\n"
+"PO-Revision-Date: 2023-01-20 20:06+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1218,34 +1218,34 @@ msgid "Scuttler"
 msgstr "疾馳者"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:393
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:392
 msgid "Wait. I think I spotted something ahead of us..."
 msgstr "等等。我想我發現到有東西在我們前面……"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:397
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:396
 msgid "What? I don’t see a thing."
 msgstr "什麼？我一個東西都沒看見。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:401
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:400
 msgid "See those shining speckles ahead? Scorpions. Large. Whole nest of them."
 msgstr "看到前面那些閃閃發光的斑點了嗎？蠍子。巨型的。整個巢穴的蠍子。"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:408
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:407
 msgid ""
 "Do you want us to fight? We can still avoid them, but they are between us "
 "and the next oasis."
 msgstr "你想要我們戰鬥嗎？我們也是可以避開牠們，但牠們在我們和下一個綠洲之間。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:437
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:436
 msgid "Scorpions! We must have stumbled across a nest of them."
 msgstr "蠍子！我們一定不小心踩過牠們的一個巢穴了。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:470
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:469
 msgid ""
 "The scorpions were devouring some poor person’s body. There doesn’t seem to "
 "be much of him left, but wait— What’s this? It looks like a tiny gold ring. "
@@ -1260,21 +1260,21 @@ msgstr ""
 "熱。我聽說過這樣的魔法物品的傳聞，我們肯定可以立刻運用它。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:475
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:474
 msgid ""
 "One unit wearing this ring is immune to any damage caused during the day by "
 "the heat of the desert."
 msgstr "戴著這枚戒指的單位，對任何白天沙漠的熱量所造成的損害免疫。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:505
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:504
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:699
 msgid "Should I take this ring?"
 msgstr "我該戴上這枚戒指嗎？"
 
 #. [option]
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:507
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1544
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:506
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1543
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:701
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:583
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:575
@@ -1282,23 +1282,23 @@ msgid "Yes, I’ll take it."
 msgstr "是的，我將戴它。"
 
 #. [object]: id=Travelring
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:512
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:511
 msgid "Traveler’s Ring"
 msgstr "旅者之戒"
 
 #. [object]: id=Travelring
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:514
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:513
 msgid "The unit wearing this ring will not become dehydrated by the desert."
 msgstr "戴著這枚戒指的單位，對任何白天沙漠的熱量所造成的損害免疫。"
 
 #. [option]
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:548
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:547
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:733
 msgid "No, I think someone else should wear it."
 msgstr "不，我想其他人應該戴它。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:573
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:572
 msgid ""
 "Look, an oasis! Its refreshing water will allow our people to regain "
 "strength and rest safely on the grass during the heat of the day."
@@ -1307,12 +1307,12 @@ msgstr ""
 "草地上休息。"
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:582
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:581
 msgid "Hunting Ogre"
 msgstr "狩獵的食人魔"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:617
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:616
 msgid ""
 "Shh... ogres ahead. Behind that dune there, we have to pass them if we want "
 "to reach the next oasis."
@@ -1321,12 +1321,12 @@ msgstr ""
 "個綠洲的話。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:621
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:620
 msgid "No chance to sneak around?"
 msgstr "沒機會悄悄繞過嗎？"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:625
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:624
 msgid ""
 "We would have to cover extra distance in difficult terrain. If you want to "
 "bypass them I suggest going straight north in the hopes of finding an oasis "
@@ -1337,25 +1337,25 @@ msgstr ""
 
 #. [message]: type=Ogre, role=Hunting Ogre
 #. [message]: type=Ogre
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:650
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:687
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:649
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:686
 msgid "Fresh meat!"
 msgstr "新鮮的肉！"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:682
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:681
 msgid "Ogre ambush!"
 msgstr "食人魔伏擊！"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:692
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:691
 msgid ""
 "Ugh, they smell as bad as they look. And they’re huge! Well, the bigger they "
 "are, the harder they fall."
 msgstr "噁，他們聞起來就跟他們看起來的一樣。而且他們好巨大，愈大愈難打倒。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:725
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:724
 msgid ""
 "That’s the last of them. This looks like a hunting party, they must have a "
 "camp around here somewhere."
@@ -1364,7 +1364,7 @@ msgstr ""
 "地。"
 
 #. [message]: speaker=Nym
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:730
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:729
 msgid ""
 "Hey! Look there, they dropped something... A stone bottle, sealed. I wonder "
 "what’s inside..."
@@ -1372,54 +1372,54 @@ msgstr ""
 "嘿！看那裡，他們掉了某個東西……是一個石瓶子，封住的。我想知道裡面有什麼……"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:753
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:752
 msgid "Nym! No! Don’t open—"
 msgstr "寧姆！不！別打開──"
 
 #. [message]: speaker=Nym
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:763
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:762
 msgid ""
 "Too late. And it’s just sand inside. Not worth... Whoa! What’s happening?!"
 msgstr "太遲了。而且裡面只有沙子。沒價值……哇哦！現在是什麼情況？！"
 
 #. [unit]: type=Dust Devil, id=Dust Devil
 #. [unit_type]: id=Dust Devil, race=monster
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:769
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:768
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:4
 msgid "Dust Devil"
 msgstr "塵土魔"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:783
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:782
 msgid "It’s a dust devil, but I have never seen one so small before."
 msgstr "它是個塵土魔，但我以前從沒見過這麼小隻的。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:836
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:835
 msgid "It seems to like you, looks like you just got yourself a pet."
 msgstr "牠看起來喜歡你，看來你剛為自己找到了一隻寵物。"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:841
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:840
 msgid ""
 "Girl, I told you not to open it. Let’s go, I’d really like to get to an "
 "oasis soon."
 msgstr "女孩，我告訴過你別打開它了。我們走吧，我真想趕快到一處綠洲。"
 
 #. [event]
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:947
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:946
 msgid "Black Lieutenant"
 msgstr "黑手黨中尉"
 
 #. [event]
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:947
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:948
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:949
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:950
 msgid "Black Hand Bandit"
 msgstr "黑手黨土匪"
 
 #. [message]: type=Thug
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:975
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:974
 msgid ""
 "And I thought it was going to be another boring patrol. You there! Elf! This "
 "is our oasis, and we will water it with your blood!"
@@ -1428,45 +1428,45 @@ msgstr ""
 "灌溉它！"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:980
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1013
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:979
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1012
 msgid ""
 "We need that water, and if we have to go through you to get it, so be it."
 msgstr "我們需要那些水，而如果我們非得要打到你們才能得到它，那就來吧。"
 
 #. [message]: role=Black Lieutenant
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1008
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1007
 msgid ""
 "We don’t know who you are, and we don’t much care. Tremble before the might "
 "of the Black Hand!"
 msgstr "我們不知道你們是誰，我們也不是很在乎。在黑手黨的強大力量前發抖吧！"
 
 #. [unit]: type=Red Mage, id=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1043
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1042
 msgid "Elyssa"
 msgstr "伊麗莎"
 
 #. [event]
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1076
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1075
 msgid "Go’hag"
 msgstr "戈歐哈格"
 
 #. [event]
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1076
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1077
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1078
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1079
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1080
 msgid "Undead Raider"
 msgstr "不死劫掠者"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1092
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1091
 msgid "Back, you fiends! Or I’ll kill you a second time!"
 msgstr "回去，你們這些魔鬼！不然我會再殺死你們一次！"
 
 # 「You have defied our master for the last time」意思模糊，不照翻。
 #. [message]: speaker=Go'hag
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1099
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1098
 msgid ""
 "You have defied our master for the last time. Now you shall die! And I shall "
 "personally make it slow and painful, to thank you for that scorching you "
@@ -1476,38 +1476,38 @@ msgstr ""
 "慘，為了報答你給我的燒傷。"
 
 #. [message]: speaker=Go'hag
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1106
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1105
 msgid "You have defied our master for the last time. Now you shall die!"
 msgstr "這是你最後一次蔑視我們的主人。現在你該去死了！"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1113
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1112
 msgid "Stupid undead, they never listen. Then have a taste of my flame!"
 msgstr "笨亡靈，他們從不聽話。那就嘗嘗我的火焰吧！"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1118
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1117
 msgid "She looks like she’s in trouble. We should help her."
 msgstr "看來她正處於麻煩當中。我們應該要幫她。"
 
 #. [message]: speaker=Nym
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1142
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1141
 msgid "Whew! Looks like that’s the last of them."
 msgstr "呼！看來那是他們的最後一個了。"
 
 # 「That was a little too close for comfort」不好翻譯，不照翻。
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1147
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1146
 msgid "Thanks for the help! That was a little too close for comfort."
 msgstr "感謝幫助！差一點點就完了，讓人恐慌不安。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1152
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1151
 msgid "That was a lot of undead. Why were they coming after you?"
 msgstr "好多的亡靈。他們為什麼追你呢？"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1157
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1156
 msgid ""
 "I accidentally managed to anger a powerful necromancer a while ago... It’s a "
 "long story. But who are you? You almost look like elves."
@@ -1516,7 +1516,7 @@ msgstr ""
 "來就像精靈。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1162
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1161
 msgid ""
 "We are, we’re the Quenoth Elves and we are traveling north. You look like "
 "you’re a mage, but I thought your kind were all gone."
@@ -1525,7 +1525,7 @@ msgstr ""
 "上以沒有你們這類人了。"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1167
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1166
 msgid ""
 "I am, I’m a fire mage. I’ve been traveling for quite a while now, exploring "
 "and learning. But these sands seem particularly inhospitable! I’ve been "
@@ -1536,32 +1536,32 @@ msgstr ""
 "特別難以居住！我一直都想去北部的山脈，介意我加入你們的旅程一陣子嗎？"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1172
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1171
 msgid "We’d be glad to have the help of someone with the mastery of fire."
 msgstr "我們很樂意有精通火焰的法師的幫忙。"
 
 #. [message]: speaker=$speaking_unit.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1180
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1179
 msgid ""
 "The undead are defeated, but we lost her in the fight as well. Darn, if only "
 "we could have saved her."
 msgstr "亡靈被擊敗了，但我們在戰鬥中也失去她了。該死，要是我們可以救她就好了。"
 
 #. [unit]: type=Wraith, id=Vengeful Lord
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1223
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1222
 msgid "Vengeful Lord"
 msgstr "復仇領主"
 
 #. [then]
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1231
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1232
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1233
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1235
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1236
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1237
 msgid "Honor Guard"
 msgstr "儀隊"
 
 #. [message]: speaker=Vengeful Lord
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1242
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1241
 msgid ""
 "The most hated living in my castle! To me! To me stray souls of the deserts! "
 "Let’s cleanse this pollution!"
@@ -1571,7 +1571,7 @@ msgstr ""
 "迷失的沙漠靈魂們！讓我們清理掉這個汙染！"
 
 #. [message]: speaker=Vengeful Lord
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1247
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1246
 msgid ""
 "Elf of the sands, I remember you. You thought me defeated, but I am back "
 "even more powerful than before. Death reigns eternal, your scorched bones "
@@ -1581,33 +1581,33 @@ msgstr ""
 "恆，你的焦骨和死氣沈沈的身體將會加入我的主人。"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1252
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1251
 msgid ""
 "Still singing the same tune. We defeated you once before, we can do so again!"
 msgstr "老調重彈。我們以前擊敗過你一次，我們還可以再做一次！"
 
 #. [message]: speaker=Vengeful Lord
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1266
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1265
 msgid "Noo... (<i>Fades</i>)"
 msgstr "不……（<i>散去</i>）"
 
 #. [message]: speaker=$speaking_unit.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1276
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1275
 msgid "Searching his castle, we found a chest filled with gold."
 msgstr "我們搜尋他的城堡，找到了一箱金幣。"
 
 #. [else]: role=Ogre Nomad
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1300
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1299
 msgid "Ogre Nomad"
 msgstr "遊牧食人魔"
 
 #. [message]: type=Ogre
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1312
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1311
 msgid "Elves! Kill them all!"
 msgstr "精靈！殺光他們！"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1317
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1316
 msgid ""
 "This ruined castle must be where the ogres make their home. Well, if it’s a "
 "fight they want, it’s a fight they’ll get."
@@ -1616,33 +1616,33 @@ msgstr ""
 "們所願來打吧。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1338
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1337
 msgid ""
 "That’s the last of those stinking beasts. They should trouble us no more."
 msgstr "那是那些臭野獸的最後一個了。他們應該不會再對我們造成麻煩。"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1343
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1342
 msgid "This ruin looks oddly familiar."
 msgstr "這廢墟看來怪眼熟的。"
 
 #. [message]: speaker=Nym
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1348
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1347
 msgid "Yuck, there’s still dried blood on the stones. It’s kind of spooky."
 msgstr "噁，石頭上仍有乾掉的血。有點陰森可怕。"
 
 #. [message]: speaker=narrator
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1376
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1375
 msgid "This land belongs to the Black Hand. Trespass and you will die."
 msgstr "這片土地屬於黑手黨。擅闖者死。"
 
 #. [message]: speaker=$explorer.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1383
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1382
 msgid "Bandits. If they get in our way, they’re going to be sorry."
 msgstr "土匪。如果他們擋在我們的路上，他們會後悔的。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1388
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1387
 msgid ""
 "There’s no way we can get all our people safely across the desert with "
 "outlaws harassing us. We must defeat them before we can continue."
@@ -1651,7 +1651,7 @@ msgstr ""
 "繼續。"
 
 #. [message]: speaker=$explorer.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1393
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1392
 msgid ""
 "Did you see that? I think I just saw someone disappear behind that dune over "
 "there. I think we’re being watched. I suspect there are more of these "
@@ -1661,12 +1661,12 @@ msgstr ""
 "正在被監視。我猜有更多的土匪潛伏在這些沙丘，比我們原先預想的還多。"
 
 #. [unit]: id=Thorn, type=Outlaw
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1400
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1399
 msgid "Thorn"
 msgstr "斯歐爾恩"
 
 #. [message]: speaker=$explorer.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1442
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1441
 msgid ""
 "Dang. I was sure I saw an oasis here. Must have been a mirage. I’ve been out "
 "in the sand for too long."
@@ -1675,7 +1675,7 @@ msgstr ""
 "了。"
 
 #. [message]: speaker=$explorer.id
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1466
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1465
 msgid ""
 "So, the outlaws have made a base around Pinnacle Rock. It’s a good location, "
 "but we will drive them from it all the same."
@@ -1684,18 +1684,18 @@ msgstr ""
 "們從那裡驅趕出去。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1484
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1483
 msgid "I surrender! I mean we surrender. Just please don’t kill me."
 msgstr "我投降！我的意思是，我們投降！請別殺我。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1489
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1488
 msgid ""
 "Please, have mercy on us. We’re just trying to survive in this horrible land."
 msgstr "拜託，對我們發發悲慈。我們只是嘗試在這塊惡地中求生而已。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1496
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1495
 msgid ""
 "I will not kill you in cold blood. But leave these lands, and never darken "
 "our path again. Or I will show you no mercy."
@@ -1704,14 +1704,14 @@ msgstr ""
 "再寬恕。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1509
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1508
 msgid ""
 "Here, take this vial of holy water. You’ll need it with all the undead "
 "around."
 msgstr "給，拿著這小瓶聖水。有亡靈在周圍，你們將需要它。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1514
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1513
 msgid ""
 "I will take this vial, in exchange for your life. But leave these lands, and "
 "never darken our path again. Or I will show you no mercy."
@@ -1720,7 +1720,7 @@ msgstr ""
 "否則我將不再寬恕。"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1519
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1518
 msgid ""
 "It’s Holy Water. When anointed on a weapon it makes it deadly to magical "
 "creatures. Vials such as these are rare and valuable. We should choose "
@@ -1730,29 +1730,29 @@ msgstr ""
 "少且珍貴。我們應該要謹慎選擇要誰來使用它。"
 
 #. [message]: speaker=unit
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1542
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1541
 msgid "Should I take the holy water?"
 msgstr "我該拿走聖水嗎？"
 
 #. [object]: id=PureWater
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1549
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1548
 msgid "Holy Water"
 msgstr "聖水"
 
 #. [object]: id=PureWater
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1551
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1550
 msgid ""
 "This water will make your melee weapons <i>arcane</i>, and thus especially "
 "powerful against the undead."
 msgstr "這瓶聖水將使你的近戰武器加上<i>秘法</i>，也因此對付亡靈時特別強大。"
 
 #. [option]
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1572
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1571
 msgid "No, I think someone else should take it."
 msgstr "不，我想其他人應該拿走它。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1616
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1615
 msgid ""
 "The Black Hand outlaws still threaten the others. While their leader still "
 "fights we won’t be able to get all our people across the sands safely. We "
@@ -1762,7 +1762,7 @@ msgstr ""
 "的族人安全地穿越這片沙地。我們必須先解決黑手黨，才能更往前邁進。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1625
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1624
 msgid ""
 "The outlaws are defeated and we’ve made it across these blasted sands. The "
 "hills are just a few miles to the north. We should be able to find water and "
@@ -1772,7 +1772,7 @@ msgstr ""
 "可以在那裡找到水並休息。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1648
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1647
 msgid ""
 "Now that we have a moment of peace, I have to ask you, Elyssa, what were you "
 "really doing out in the middle of the desert? It’s a rather barren place to "
@@ -1782,7 +1782,7 @@ msgstr ""
 "什麼？這是個相當荒涼的地方，對於旅行來說。"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1653
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1652
 msgid ""
 "I’ve been searching for secrets from the past. Did you know that this entire "
 "land used to be a huge empire? Apparently all this used to be great plains "
@@ -1792,14 +1792,14 @@ msgstr ""
 "然這裡曾經充滿著大平原和農田，在沙子覆蓋之前。"
 
 #. [message]: speaker=Nym
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1658
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1657
 msgid ""
 "It’s hard to imagine. There’s barely enough rain here now to support these "
 "tiny cacti, let alone crops."
 msgstr "真難想像。這裡下的雨幾乎不夠滋養微小的仙人掌，更不用說是作物。"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1663
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1662
 msgid ""
 "And yet the great ruins that I have seen scattered across these sands are a "
 "testament that something was here before us. Perhaps in a time long ago when "
@@ -1809,7 +1809,7 @@ msgstr ""
 "證明。或許在很久之前，這片土地更加寬容。"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1668
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1667
 msgid ""
 "Before the Great Fall, there were huge cities, with great schools of magery, "
 "libraries of books, vast repositories of knowledge. Most of it was destroyed "
@@ -1822,12 +1822,12 @@ msgstr ""
 "例來說，你們可曾聽過火焰權杖？"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1673
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1672
 msgid "No, I haven’t. What is it?"
 msgstr "不，我沒聽過。它是什麼東西？"
 
 #. [message]: speaker=Elyssa
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1678
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1677
 msgid ""
 "I’m not sure. I’ve read various references to it, but nothing specific. I’ve "
 "been searching for it for a long time. All I know is that it was a very "
@@ -1840,13 +1840,13 @@ msgstr ""
 "處。所以搜查這片土地，盡我所能地學習關於古代的知識。我確信它一定就在某處。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1683
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1682
 msgid ""
 "Perhaps. But it has been so long, and so much has been lost. Who can say?"
 msgstr "或許吧。但是都這麼久了，而且有這麼多的東西已經丟失。誰能保證呢？"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1703
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1702
 msgid ""
 "We’ve run out of provisions and our people are exhausted. We’ve taken too "
 "long crossing the desert, I fear we shall never reach the other side."
@@ -1855,12 +1855,12 @@ msgstr ""
 "我們永遠都到不了另一端了。"
 
 #. [do]: role=LostSoul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1812
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1811
 msgid "Lost Soul"
 msgstr "遊魂"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1836
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1835
 msgid ""
 "The sands are haunted with the spirits of tortured souls long since dead. At "
 "dusk they rise again, and during the Long Dark they can be particularly "
@@ -1872,7 +1872,7 @@ msgstr ""
 "白天的酷熱。"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1841
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1840
 msgid ""
 "The combination of the heat of the day and the rising undead make dusk a "
 "particularly dangerous time of day."
@@ -1880,12 +1880,12 @@ msgstr "白天的酷熱和正在崛起的亡靈的組合使得黃昏是一天當
 
 # 出沒的單位類型是幽魂，所以「spirit」直接翻譯成幽魂。
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1888
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1887
 msgid "What happened? The undead spirits all just disappeared."
 msgstr "發生什麼事了？亡靈的幽魂就這樣全消失了。"
 
 #. [message]: speaker=Garak
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1893
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1892
 msgid ""
 "These spirits are weak. They seek to prey on the helpless, but when they "
 "encounter strong resistance they flee."
@@ -1894,12 +1894,12 @@ msgstr ""
 "跑。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1901
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1900
 msgid "You come and rise again, spirits? Have we not defeated you before?"
 msgstr "你們又來了啊，幽魂們？我們之前還沒擊敗你們嗎？"
 
 #. [message]: speaker=Zhul
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1906
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1905
 msgid ""
 "These lost souls cannot hold onto anything but memories of lives long gone. "
 "They will rise to plague us again, night after night."
@@ -1908,7 +1908,7 @@ msgstr ""
 "折磨我們，一晚接著一晚。"
 
 #. [message]: speaker=Kaleh
-#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1915
+#: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1914
 msgid "Flee, you craven spirits, and leave us in peace!"
 msgstr "逃吧，你們這些懦弱的幽魂，別來煩我們！"
 
@@ -2167,10 +2167,8 @@ msgstr ""
 
 #. [resistance]: id=garak_steadfast
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:701
-#, fuzzy
-#| msgid "female^distract"
 msgid "female^steadfast"
-msgstr "分心"
+msgstr "堅守"
 
 #. [resistance]: id=garak_steadfast
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:702

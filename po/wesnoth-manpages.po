@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-11-19 23:31-0600\n"
-"PO-Revision-Date: 2022-12-04 11:23+0800\n"
+"POT-Creation-Date: 2023-01-14 18:20-0600\n"
+"PO-Revision-Date: 2023-01-20 16:59+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -489,15 +489,15 @@ msgstr ""
 #. type: TP
 #: doc/man/wesnoth.6:192
 #, no-wrap
-msgid "B<--log-to-file>"
-msgstr "B<--log-to-file>"
+msgid "B<--no-log-to-file>"
+msgstr "B<--no-log-to-file>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:195
 msgid ""
-"redirects logged output to a file. Log files are created in the logs "
-"directory under the userdata folder."
-msgstr "將日誌輸出到檔案。日誌檔案會在使用者資料目錄內的日誌目錄中被建立。"
+"prevents redirecting logged output to a file. Log files are created in the "
+"logs directory under the userdata folder."
+msgstr "防止將日誌輸出到檔案。日誌檔案會在使用者資料目錄內的日誌目錄中被建立。"
 
 #. type: TP
 #: doc/man/wesnoth.6:195

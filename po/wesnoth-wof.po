@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2022-12-04 11:57+0800\n"
+"POT-Creation-Date: 2022-12-18 01:10 UTC\n"
+"PO-Revision-Date: 2023-01-20 23:46+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -111,12 +111,14 @@ msgstr "基於勝利之翼，作者："
 msgid "The Hunt"
 msgstr "狩獵"
 
+# 看不懂，不照翻。
 #. [part]
 #. In this campaign, the narrator and drake characters speak with the Morogor dialect, which has some unique syntax and terms. Please read story/Morogor_Dialect before translating and refer back to it as needed.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
 msgid "From the skies above, the glider caste felt the Winds of Fate."
-msgstr ""
+msgstr "滑翔者們在天空中感受到了命運之風。"
 
+# 看不懂，不照翻。
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
 msgid ""
@@ -124,7 +126,10 @@ msgid ""
 "slipped into the sea. They heard the cries of starving hatchlings before the "
 "wasting’s eternal hush."
 msgstr ""
+"他們看到了我們的豐饒土地的衰敗，因為摩洛格群島沒入了大海。在令人窒息的永恆寂"
+"靜前，他們聽到了飢餓的幼崽的哭聲。"
 
+# 看不懂，不照翻。
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:26
 msgid ""
@@ -132,7 +137,10 @@ msgid ""
 "ancestors would have scorned. With envious eyes these flights gazed upon the "
 "green expanses of the central isles. Then it began..."
 msgstr ""
+"這群飛行者在他們的祖先會鄙視的岩石小島上奮力維持著他們微薄的存在。以羨慕的眼"
+"光，這群飛行者注視著中央島嶼的大片綠地。然後就開始了……"
 
+# 難以理解，不照翻。
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:29
 msgid ""
@@ -142,7 +150,12 @@ msgid ""
 "Still more turned; two by two, then four by four. Soon enough there would be "
 "more flights to betray the Ways of Morogor than uphold them."
 msgstr ""
+"一個接一個，絕望的飛行者們走投無路，叛離群體。他們藉由入侵鄰居的地盤打破了龍"
+"族之間的長期和平。一個接一個，叛徒被受到敬重的飛行者們按照「規矩」處決，但依"
+"舊無法阻止更多叛徒的出現。兩個接兩個，然後四個接四個，再這樣下去的話，還遵守"
+"著摩洛格的規矩的飛行者們的數量就比叛徒少了。"
 
+# 難以理解，不照翻。
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:33
 msgid ""
@@ -155,7 +168,13 @@ msgid ""
 "return. Just the same, the ancient glider caste had more than a notion of "
 "their destination."
 msgstr ""
+"正是在這個黑暗的時期，滑翔者們感到他們的翅膀下有一條熟悉的風道，一條從命運的"
+"扭曲之風中重新塑造的路徑。奇怪的陸地生物在奧馬拉特島上被發現了，乘坐在他們的"
+"木製船上成功橫跨大洋，他們從地平線的一側航行到另一側。就算飛行者擁有最強的翅"
+"膀，也不能安全地飛這麼遠的距離，會擔心飛得離島太遠就飛不回來了。對於這條路徑"
+"的目的地，年長的滑翔者們有更多的概念。"
 
+# 難以理解，不照翻。
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:36
 msgid ""
@@ -163,6 +182,9 @@ msgid ""
 "lands beyond Morogor, across the Great Ocean. From there drakes came long "
 "ago. To this wider world we needed return."
 msgstr ""
+"因為他們口述流傳下來的往事有提到其他種類的龍族已經遺忘的事情。在摩洛格之外還"
+"有土地，就在大洋的另一端。龍族在很久以前從那裡過來。我們需要回去，回到這個更"
+"廣闊的世界。"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:49
@@ -292,14 +314,21 @@ msgid ""
 "The most perilous hunting ground in the Domain of Vladnir.\n"
 "Many a hunter has become its prey."
 msgstr ""
+"看，嘎爾島。\n"
+"弗拉德尼爾的領地裡最危險的狩獵場。\n"
+"許多獵手成了它的獵物。"
 
+# 第一句難以理解，不照翻。
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:221
 msgid ""
 "Our trial for aspirancy has come at last.\n"
 "The hunt that awaits us below will prove a worthy test."
 msgstr ""
+"我們在出發去實現抱負前必須要完成的試煉終於來了。\n"
+"等待著我們的狩獵將證明是一個有價值的考驗。"
 
+# 第二句，不照翻。
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:226
 msgid ""
@@ -308,14 +337,23 @@ msgid ""
 "I fear without his aid this trial will outmatch us.\n"
 "We too may fall prey to this isle."
 msgstr ""
+"要是我們還能把卡榮算作是我們的一員就好了……\n"
+"\n"
+"我擔心沒有他的幫助，我們將無法通過這個試煉。\n"
+"我們也可能淪為這個島的獵物。"
 
+# 第二句不知道在講什麼。
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:233
 msgid ""
 "Karron never was among us, verily.\n"
 "His heart sought glory over our greater purpose."
 msgstr ""
+"卡榮從來就不在我們之中，肯定地.\n"
+"他的心為我們更大的目標尋求榮耀。"
 
+# 不照翻，實在太難理解。
+# 尤其第三句，完全不知道在說什麼，所以直接省略。
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:238
 msgid ""
@@ -325,11 +363,15 @@ msgid ""
 "\n"
 "Call the Hunt."
 msgstr ""
+"我們不需要更多的獵手來讓我們在這個地方佔更多優勢。\n"
+"這種水平的挑戰才能確認我們已經準備好能上路了。\n"
+"\n"
+"開始狩獵。"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:246
 msgid "By your will— Hunters! Descend!"
-msgstr ""
+msgstr "就按你的意願──獵手！攻擊！"
 
 #. [message]: speaker=Reshan
 #. Drakes refer to aloe as “tailleaf” and use it medicinally the same way humans use yarrow.
@@ -339,12 +381,16 @@ msgid ""
 "Their cleansing waters purge miasma from wounds.\n"
 "While the tailleaf growing at their shores makes a fine poultice."
 msgstr ""
+"看看這許多的散佈在這個島上的治療綠洲。\n"
+"它們乾淨的水可以清除傷口上的瘴氣。\n"
+"而生長在它們岸上的尾葉可以做成良好的藥膏。"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:345
 msgid "Any of us injured during the hunt should seek an oasis for healing."
-msgstr ""
+msgstr "我們當中的任何一位在打獵受傷時都應該要去尋找綠洲來治療。"
 
+# 難懂，不照翻。
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:362
 msgid ""
@@ -352,6 +398,9 @@ msgid ""
 "In my fire for the hunt, I strayed from Karron’s pack.\n"
 "Then a bite from venomous prey drove my retreat here."
 msgstr ""
+"啊，是你，戈拉克。\n"
+"我太專於於狩獵了，以至於從卡榮的隊伍中脫隊。\n"
+"然後被有毒的獵物咬了一口，驅使我撤退到這裡。"
 
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:370
@@ -361,6 +410,8 @@ msgid ""
 "I ask sanction to join your hunt, so I might now purge the dishonor of my "
 "folly."
 msgstr ""
+"從科蒂克紀念碑流出的水已經清洗了我傷口上的毒液。\n"
+"我請求批准加入你的狩獵，這樣我現在就可以為我的愚蠢洗刷恥辱。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:375
@@ -369,21 +420,24 @@ msgid ""
 "\n"
 "My sanction is given."
 msgstr ""
+"是<i>卡榮</i>沒有重新召集你而丟了自己的臉。\n"
+"\n"
+"我批准了。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:397
 msgid "So it is, that timid Gorlack attempts the Trial of Gaall."
-msgstr ""
+msgstr "原來如此，那個膽小的戈拉克在試圖挑戰嘎爾的試煉。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:403
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
-msgstr ""
+msgstr "原來如此，那個勇敢的卡榮畏縮在摩洛格的紀念碑內。"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:409
 msgid "Karron, you are without companions."
-msgstr ""
+msgstr "卡榮，你沒有同伴。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:413
@@ -391,11 +445,13 @@ msgid ""
 "One was slain.\n"
 "The other went astray."
 msgstr ""
+"一個被殺了。\n"
+"另一個走丟了。"
 
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:420
 msgid "To attempt this trial with only two allies was unwise."
-msgstr ""
+msgstr "只帶兩名盟友來挑戰這個試煉是不明智的。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:424
@@ -403,21 +459,23 @@ msgid ""
 "Yet so have I already succeeded, <i>little glider</i>.\n"
 "All my prey-tokens are gathered; my hunt is ended."
 msgstr ""
+"不過我已經成功了，<i>小滑翔者</i>。\n"
+"我收集到足夠的獵物戰利品。我的狩獵結束了。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:431
 msgid "Then take your leave."
-msgstr ""
+msgstr "那你小心慢走。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:435
 msgid "As you wish."
-msgstr ""
+msgstr "如你所願。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:441
 msgid "...... Karron, hold."
-msgstr ""
+msgstr "……卡榮，等等。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:447
@@ -426,6 +484,9 @@ msgid ""
 "\n"
 "For your own sake, join us."
 msgstr ""
+"……在無支援的情況下離開這個地方是很危險的。\n"
+"\n"
+"為了你自己好，加入我們。"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:453
@@ -437,11 +498,17 @@ msgid ""
 "You will taste humiliation at the contention.\n"
 "I shall deliver it."
 msgstr ""
+"戈拉克，我這樣做純粹是<b>你</b>的緣故。\n"
+"最後一次。\n"
+"\n"
+"當這個小島在我們身後時，我們再次作為敵人分開。\n"
+"你會在鬥爭中嚐到屈辱的滋味。\n"
+"我會給你的。"
 
 #. [message]: type=Fire Guardian
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:476
 msgid "(<i>Crackle</i>)"
-msgstr ""
+msgstr "（<i>劈啪作響</i>）"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:480
@@ -508,7 +575,7 @@ msgstr "已狩獵 $kill_total| 個獵物，要狩獵 20 個"
 #. [message]: speaker=Reshan
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:580
 msgid "Victory is yours, <b>Aspirant</b> Gorlack."
-msgstr ""
+msgstr "勝利是你的<b>有抱負的</b>戈拉克。"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:584
@@ -5801,29 +5868,6 @@ msgstr ""
 #. [unit_type]: id=Gate, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Gate.cfg:9
 msgid "An old gate of highest quality."
-msgstr ""
-
-#. [unit_type]: id=Kraken, race=monster
-#: data/campaigns/Winds_of_Fate/units/Kraken.cfg:5
-msgid "Kraken"
-msgstr ""
-
-#. [unit_type]: id=Kraken, race=monster
-#: data/campaigns/Winds_of_Fate/units/Kraken.cfg:9
-msgid ""
-"Krakens are gigantic creatures of the seas. They can grab their opponents "
-"with strong tentacles, or spit a poisonous black ink from a distance. The "
-"best way to survive an encounter with these monsters is to remain ashore."
-msgstr ""
-
-#. [attack]: type=impact
-#: data/campaigns/Winds_of_Fate/units/Kraken.cfg:70
-msgid "tentacle"
-msgstr ""
-
-#. [attack]: type=pierce
-#: data/campaigns/Winds_of_Fate/units/Kraken.cfg:81
-msgid "ink"
 msgstr ""
 
 #. [unit_type]: id=Leopard, race=monster
