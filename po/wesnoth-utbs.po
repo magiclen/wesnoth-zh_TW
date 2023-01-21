@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-01-15 00:20 UTC\n"
-"PO-Revision-Date: 2023-01-20 20:06+0800\n"
+"PO-Revision-Date: 2023-01-21 22:37+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -1186,7 +1186,7 @@ msgid ""
 "refreshing at an oasis (any water hex) at the start of your turn will your "
 "units regain full attack strength."
 msgstr ""
-"在白天（黎明、上午、中午、下午和黃昏），每當你的回合開始時，所在有沙地、道"
+"在白天（黎明、上午、中午、下午和黃昏），每當你的回合開始時，所有在沙地、道"
 "路、瓦礫和沙丘上的單位，將苦於乾渴。乾渴在每個回合會減少單位可造成的攻擊傷"
 "害，並且導致$dehydration_loss|點的生命值損失。治療者可以避免脫水狀態更加惡"
 "化，不過不能治癒它。只有藉由在一個綠洲（或是任何有水的格子）上喝水，在你的回"
@@ -1818,7 +1818,7 @@ msgid ""
 "Fire?"
 msgstr ""
 "在大隕落之前，曾存在著有著偉大的魔法學校和圖書館──大量知識倉庫──的大城市。大"
-"部分的東西在隨後的會亂和數年的腐敗中被摧毀了，但我正在尋找剩下的少數碎片。舉"
+"部分的東西在隨後的混亂和數年的腐敗中被摧毀了，但我正在尋找剩下的少數碎片。舉"
 "例來說，你們可曾聽過火焰權杖？"
 
 #. [message]: speaker=Kaleh
@@ -2163,7 +2163,7 @@ msgstr ""
 #. [resistance]: id=garak_steadfast
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:700
 msgid "steadfast"
-msgstr ""
+msgstr "堅守"
 
 #. [resistance]: id=garak_steadfast
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:701
@@ -2175,7 +2175,7 @@ msgstr "堅守"
 msgid ""
 "This unit's resistances are increased by 20%, up to a maximum of 50%, when "
 "defending. Vulnerabilities are not affected."
-msgstr ""
+msgstr "防守時，這個單位的抗性增加20%，上限為50%。弱點不會被影響。"
 
 #. [berserk]: id=berserk
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:715
@@ -2869,6 +2869,9 @@ msgid ""
 "night! It shows an orcish camp just up ahead! I wonder if we could sneak "
 "around without alerting them."
 msgstr ""
+"說到這片土地，我們可能沒有嘉拉克來指引我們，但是這片區域的所有地形都與我們昨"
+"晚從半獸人那裡得到的地圖完全吻合！它顯示了一個半獸人營地就在前方！我想知道我"
+"們是否可以在不驚動他們的情況下從旁邊溜過。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:377
@@ -3501,7 +3504,7 @@ msgstr ""
 msgid ""
 "Then let us hope the rest of our journey may be as uneventful as it has been "
 "this far."
-msgstr "那就讓我們祈禱我們之後的旅程都能像截止目前為止的那樣順利吧。"
+msgstr "那就讓我們祈禱我們之後的旅程都能像截至目前為止的那樣順利吧。"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:532
@@ -3737,29 +3740,29 @@ msgstr "呃……"
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1016
 msgid "What by the names of my forefathers are they?"
-msgstr ""
+msgstr "以我先祖之名，他們是什麼？"
 
 #. [message]: speaker=first_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1021
 msgid "Wait a minute... Vacuous eyes, pointy ears — they must be elves."
-msgstr ""
+msgstr "等等……那空洞的雙眼、尖銳的耳朵。他們一定是精靈。"
 
 #. [message]: speaker=second_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1026
 msgid "Elves?! What in the nine hells are elves doing down here?"
-msgstr ""
+msgstr "精靈？！是什麼風把精靈吹到下面這裡來？"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1031
 msgid "Never mind that, who are you?"
-msgstr ""
+msgstr "別理他，你是誰？"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1036
 msgid ""
 "I am Kaleh, and we are the Quenoth Elves. What in Eloh’s name is going on "
 "here?"
-msgstr ""
+msgstr "我是卡雷，我們是昆諾精靈。奉伊洛之名，這裡發生什麼？"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1041
@@ -3767,6 +3770,8 @@ msgid ""
 "They invade our land and kill our young. Dwarves always want more, always "
 "greedy for glittery rocks."
 msgstr ""
+"他們入侵我們的土地並殺死我們的孩子。矮人總是想要更多，總是貪戀閃閃發光的石"
+"頭。"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1046
@@ -3774,11 +3779,13 @@ msgid ""
 "Those monsters killed me boys. Kaleh, if you be of stout heart, help us "
 "drive these lummoxes from our tunnels."
 msgstr ""
+"那些怪物殺了我的小子們。卡雷，如果你有一顆堅強的心，幫助我們將這些傻大個趕出"
+"我們的隧道。"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1051
 msgid "No, this is our home. Help us, little ones, and we will help you."
-msgstr ""
+msgstr "不，這裡是我們的家。幫助我們，小不點，我們之後會幫助你們的。"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1056
@@ -3788,6 +3795,9 @@ msgid ""
 "we should take them up on their offer; ally ourselves with one of the "
 "factions so we can get their help in finding a way back to the surface."
 msgstr ""
+"他們的數量太多了，以至於我們無法嘗試同時對付他們，而且有這些錯綜複雜的隧道，"
+"我們不知道該往哪裡走。我認為我們應該接受他們某一方的提議，與之結盟，這樣我們"
+"就可以得到他們的幫助，找到返回地表的路。"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1061
@@ -3795,6 +3805,7 @@ msgid ""
 "But even if we do, what about all of our people? How can we safely escort "
 "them through this war zone?"
 msgstr ""
+"但即使我們這樣做了，那我們所有的族人呢？如何才能安全地護送他們通過這片戰區？"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1067
@@ -3805,35 +3816,38 @@ msgid ""
 "Zhul, if we’re lucky we may just be able to negotiate a safe passage out of "
 "here."
 msgstr ""
+"我們不用。如果我們讓我們大部分的族人躲在通道後方，我們應該能夠保護他們，至少"
+"能保護一小會兒。同時，我們要出去並且解決這場混亂。我認為你是對的，祖爾，如果"
+"我們幸運的話，也許能夠直接交涉出一條安全通往外面的路。"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1076
 msgid "But they both look evenly matched. Who should we ally with?"
-msgstr ""
+msgstr "但他們兩邊看起來勢均力敵。我們應該和哪邊結盟？"
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1079
 msgid "Let’s aid the dwarves."
-msgstr ""
+msgstr "讓我們支援矮人。"
 
 #. [message]: speaker=Troll Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1095
 msgid ""
 "Bah! Your kind all the same. Everyone turns on trolls. But you’ll see, "
 "Griknagh will smash you all."
-msgstr ""
+msgstr "呸！你們都一樣。大家都要對付巨魔。走著瞧，格里克納會粉碎你們全部。"
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1101
 msgid "Let’s aid the trolls."
-msgstr ""
+msgstr "讓我們支援巨魔。"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1117
 msgid ""
 "I knew elves couldn’t be trusted. Foolish boy, you will regret your "
 "betrayal. Taste dwarven steel!"
-msgstr ""
+msgstr "我就知道精靈不能信任。傻小子，為你的背叛後悔吧。嚐嚐矮人鋼鐵！"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1132
@@ -13519,31 +13533,31 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:114
 msgid "female^thirst"
-msgstr ""
+msgstr "飢渴"
 
 #. [floating_text]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:123
 msgid "thirst"
-msgstr ""
+msgstr "飢渴"
 
 #. [floating_text]
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:183
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:296
 msgid "female^refreshed"
-msgstr ""
+msgstr "精力恢復"
 
 #. [floating_text]
 #. [unstore_unit]
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:192
 #: data/campaigns/Under_the_Burning_Suns/utils/dehydration-utils.cfg:295
 msgid "refreshed"
-msgstr ""
+msgstr "精力恢復"
 
 #. Floating text shown when Garak's teaching ability transfers experience points
 #: data/campaigns/Under_the_Burning_Suns/utils/garak-abilities.cfg:56
 msgid "+$amount XP"
-msgstr ""
+msgstr "+$amount 點經驗"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:6
@@ -13591,9 +13605,9 @@ msgstr ""
 "前，森林消亡時，就住在這片沙地。它是一片條件苛刻且蠻荒的土地，但我們仍更加堅"
 "強，我們設法在罕見的綠洲附近生存定居。我們大力地加強了我們村莊，防範掠奪者"
 "們，我們的村莊也是我們所知的最大的營地。我的叔叔，塔努伊，領導了我們很多年，"
-"訓練我們自給自足且變強壯，以抵禦所有敵人。作為在沙海中奮鬥的一族，我們認為我"
-"們對任何東西都做好了準備。所有東西都在那個歷史性的一夜裡全變了，在天空降下火"
-"雨時……"
+"訓練我們自給自足且變強壯，以抵禦所有敵人。作為在沙海中奮鬥的一族，我們以為我"
+"們對任何東西都做好了準備。一切都在那個歷史性的一夜裡全變了，在天空降下火雨"
+"時……"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:15
@@ -13909,6 +13923,11 @@ msgid ""
 "and turned, and soon I lost all sense of direction, but since there were no "
 "side-passages, we had little choice but to keep going forward."
 msgstr ""
+"這似乎是我們所能想像的最陌生的環境。我們是開闊的沙地上的民族，即使在漫長的黑"
+"暗中，我們也可以仰望天空，依靠深空中閃閃發光的星星來確定自己的方向。從邏輯上"
+"講，我知道我們無法翻越那些冰凍的山脈，也無法返回，但一想到我頭頂上有數哩長的"
+"岩石，我就渾身顫抖，感到山的重量壓在我身上。通道彎彎曲曲，很快我就失去了方向"
+"感，但因為沒有側通道，我們也只能繼續往前走。"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:91
@@ -13923,6 +13942,12 @@ msgid ""
 "years past, even though it had only been ten days since our village was "
 "demolished."
 msgstr ""
+"回想起來，我覺得我的族人做過的最勇敢的事情就是跟隨我進入只有黑暗地方，基於伊"
+"洛的承諾和他們對我的領導能力的信任。我不知道我們會被困在地下多久，甚至不知道"
+"我們應該走哪條路。我只希望伊洛能以某種方式引導我們。寧姆說族人在私下講我可以"
+"帶領他們度過任何難關，的確，當我們離開隧道時，我幾乎想不到我們會與亡命之徒、"
+"亡靈、半獸人和地精作戰。我先前的生活彷彿是多年以後的一場夢，雖然距離我們村子"
+"被摧毀才過了十天。"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:95
@@ -13934,6 +13959,10 @@ msgid ""
 "everything we had gone through so far, Uria be damned if I was going to be "
 "frightened now."
 msgstr ""
+"黑暗中潛伏著什麼？伊洛如此隱誨地提到的不信者是誰？我的心臟在胸口劇烈跳動，在"
+"這下面的一切似乎都被放大了。我強烈懷疑這不是我的族人該去的地方。我憂愁地大步"
+"向前，思考著我們到目前為止所經歷的一切。如果我現在感到害怕，一定是那個該死的"
+"烏里亞在作祟。"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:103
