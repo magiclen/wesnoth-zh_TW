@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-10-16 02:06 UTC\n"
-"PO-Revision-Date: 2023-01-20 15:50+0800\n"
+"PO-Revision-Date: 2023-07-04 11:35+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -2551,7 +2551,7 @@ msgstr "工程師"
 msgid ""
 "We have to get out of the Northlands as quickly as possible! Run for your — "
 "what the...?! Who are you?"
-msgstr "我們必須盡可能地馬上離開北方土地──什麼鬼……？！你是誰？"
+msgstr "我們必須儘可能地馬上離開北方土地──什麼鬼……？！你是誰？"
 
 #. [message]: speaker=Engineer
 #. This is thickly accented English. In unaccented English, it would read:

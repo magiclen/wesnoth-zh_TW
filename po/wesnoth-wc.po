@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-11-20 05:31 UTC\n"
-"PO-Revision-Date: 2023-01-20 20:06+0800\n"
+"POT-Creation-Date: 2023-06-18 04:20 UTC\n"
+"PO-Revision-Date: 2023-07-04 13:28+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -75,31 +75,31 @@ msgid "Always AMLA with 60 XP and raises maximum health by 6 HP."
 msgstr "升級所需經驗始終為60，升級時提高6點最大生命值。"
 
 #. [advancement]: id=amla_default
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:142
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:150
 msgid "Max HP bonus +6%"
 msgstr "最大生命值奬勵 +6%"
 
 #. [trait]: id=legendary_zombie
 #. [trait]: id=legendary_goblin
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:165
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:209
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:173
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:217
 msgid "legendary"
 msgstr "傳奇"
 
 #. [trait]: id=legendary_zombie
 #. [trait]: id=legendary_goblin
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:166
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:210
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:174
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:218
 msgid "female^legendary"
 msgstr "傳奇"
 
 #. [trait]: id=legendary_zombie
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:167
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:175
 msgid "Special advancement to Chocobone enabled."
 msgstr ""
 
 #. [trait]: id=legendary_goblin
-#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:211
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:219
 msgid "Special advancement to Goblin Pillager enabled."
 msgstr ""
 
@@ -2188,18 +2188,18 @@ msgstr "（玩家不可用）"
 
 #. [lua]: wc_ii_generate_scenario
 #. [lua]: wct_store_possible_encampment_ford
-#: data/campaigns/World_Conquest/lua/map/main.lua:122
+#: data/campaigns/World_Conquest/lua/map/main.lua:127
 #: data/campaigns/World_Conquest/lua/map/postgeneration/1A_Start.lua:146
 msgid "Start"
 msgstr "序章"
 
 #. [lua]: wc_ii_generate_scenario
-#: data/campaigns/World_Conquest/lua/map/main.lua:124
+#: data/campaigns/World_Conquest/lua/map/main.lua:129
 msgid "Scenario"
 msgstr "章節"
 
 #. [lua]: wc_ii_generate_scenario
-#: data/campaigns/World_Conquest/lua/map/main.lua:126
+#: data/campaigns/World_Conquest/lua/map/main.lua:131
 msgid "Final Battle"
 msgstr "終結之戰"
 
@@ -2460,12 +2460,12 @@ msgid "The End"
 msgstr ""
 
 #. [lua]: add_enemy_side
-#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:36
 msgid "Enemies"
 msgstr "敵軍"
 
 #. [lua]: add_player_side
-#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:60
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:59
 msgid "Allies"
 msgstr "盟軍"
 
@@ -2744,7 +2744,7 @@ msgstr ""
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:332
 msgid ""
-"Draw this magical bow summon an ice arrow that will freeze and slow its "
+"Draw this magical bow to summon an ice arrow that will freeze and slow its "
 "target upon hit."
 msgstr ""
 

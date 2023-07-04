@@ -1,0 +1,548 @@
+# Chinese translations for PACKAGE package.
+# Copyright (C) 2023 Wesnoth development team
+# This file is distributed under the same license as the PACKAGE package.
+# 李信融 <magiclen0810@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2023-05-29 16:27-0500\n"
+"PO-Revision-Date: 2023-07-04 14:18+0800\n"
+"Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
+"Language-Team: Wesnoth Traditional Chinese Team\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: data/tools/GUI.pyw:58
+msgid "Open a Graphical User Interface (GUI) to WML Tools"
+msgstr "開啟WML工具的圖形使用者介面"
+
+#: data/tools/GUI.pyw:59
+msgid "LANGUAGE"
+msgstr "語言"
+
+#. TRANSLATORS: ISO 15897 "Procedures for the registration of cultural elements" specifies use
+#. of underscores in the locale id. For example, use en_GB, not en-GB.
+#: data/tools/GUI.pyw:65
+msgid ""
+"Launch GUI.pyw in the given language. Language code must follow ISO 15897 (e."
+"g. en_GB)."
+msgstr ""
+"以給定的語言來啟動 GUI.pyw。語言代碼必須要遵從 ISO 15897（例如：zh_TW）。"
+
+#: data/tools/GUI.pyw:70 data/tools/GUI.pyw:77 data/tools/GUI.pyw:1254
+#: data/tools/GUI.pyw:1302 data/tools/GUI.pyw:1344 data/tools/GUI.pyw:1368
+#: data/tools/GUI.pyw:1403 data/tools/GUI.pyw:1427 data/tools/GUI.pyw:1469
+#: data/tools/GUI.pyw:1488 data/tools/GUI.pyw:1800
+msgid "Error"
+msgstr "錯誤"
+
+#. TRANSLATORS: {0} is "translations", the folder where compiled translation files (.mo) are stored.
+#: data/tools/GUI.pyw:72
+#, python-brace-format
+msgid ""
+"`{0}` folder not found. Please run the GUI.pyw executable packaged with the "
+"Wesnoth installation."
+msgstr ""
+"找不到 `{0}` 目錄。請執行與 Wesnoth 安裝包一同打包的 GUI.pyw 可執行檔案。"
+
+#. TRANSLATORS: {0} is the ISO 15897 code for the language selected by the user.
+#: data/tools/GUI.pyw:79
+#, python-brace-format
+msgid "Locale {0} not recognized."
+msgstr "語言 {0} 不能被識別。"
+
+#. TRANSLATORS: {0} is the name of command being executed.
+#: data/tools/GUI.pyw:329
+#, python-brace-format
+msgid ""
+"Running: {0}\n"
+"Please wait..."
+msgstr ""
+"執行： {0}\n"
+"請稍候……"
+
+#: data/tools/GUI.pyw:343
+msgid "Terminate script"
+msgstr "中止腳本"
+
+#: data/tools/GUI.pyw:391
+msgid "Cut"
+msgstr "剪下"
+
+#: data/tools/GUI.pyw:396
+msgid "Copy"
+msgstr "複製"
+
+#: data/tools/GUI.pyw:402
+msgid "Paste"
+msgstr "貼上"
+
+#: data/tools/GUI.pyw:408
+msgid "Select all"
+msgstr "全選"
+
+#: data/tools/GUI.pyw:470
+msgid "Directory"
+msgstr "目錄"
+
+#: data/tools/GUI.pyw:482 data/tools/GUI.pyw:521
+msgid "Browse..."
+msgstr "瀏覽……"
+
+#: data/tools/GUI.pyw:488 data/tools/GUI.pyw:527
+msgid "Clear"
+msgstr "清空"
+
+#: data/tools/GUI.pyw:570
+msgid "wmllint mode"
+msgstr "wmllint 模式"
+
+#: data/tools/GUI.pyw:575 data/tools/GUI.pyw:944
+msgid "Normal"
+msgstr "正常"
+
+#. TRANSLATORS: Explanation for Normal.
+#: data/tools/GUI.pyw:583 data/tools/GUI.pyw:953
+msgid "Perform file conversion"
+msgstr "執行檔案轉換"
+
+#: data/tools/GUI.pyw:585 data/tools/GUI.pyw:955
+msgid "Dry run"
+msgstr "模擬執行"
+
+#. TRANSLATORS: Explanation for Dry run.
+#: data/tools/GUI.pyw:594 data/tools/GUI.pyw:963
+msgid "Do not perform changes"
+msgstr "不做修改"
+
+#: data/tools/GUI.pyw:596
+msgid "Clean"
+msgstr "清除"
+
+#. TRANSLATORS: Explanation for Clean.
+#: data/tools/GUI.pyw:605
+msgid "Delete *.bak files"
+msgstr "刪除 *.bak 檔案"
+
+#: data/tools/GUI.pyw:607
+msgid "Diff"
+msgstr "差異"
+
+#. TRANSLATORS: Explanation for Diff.
+#: data/tools/GUI.pyw:616
+msgid "Show differences in converted files"
+msgstr "顯示轉換後的檔案差異"
+
+#: data/tools/GUI.pyw:618
+msgid "Revert"
+msgstr "還原"
+
+#. TRANSLATORS: Explanation for Revert.
+#: data/tools/GUI.pyw:627
+msgid "Revert conversions using *.bak files"
+msgstr "使用 *.bak 檔案來還原轉換"
+
+#: data/tools/GUI.pyw:629 data/tools/GUI.pyw:965
+msgid "Verbosity level"
+msgstr "詳細程度等級"
+
+# 不確定這個是什麼。
+#: data/tools/GUI.pyw:635 data/tools/GUI.pyw:971
+msgid "Terse"
+msgstr "簡潔模式"
+
+#: data/tools/GUI.pyw:643
+msgid "List changes"
+msgstr "列出更變"
+
+#: data/tools/GUI.pyw:651
+msgid "Name files before processing"
+msgstr "處理之前命名檔案"
+
+#: data/tools/GUI.pyw:659
+msgid "Show parse details"
+msgstr "顯示解析細節"
+
+#: data/tools/GUI.pyw:667
+msgid "wmllint options"
+msgstr "wmllint 選項"
+
+#. TRANSLATORS: Special characters marking end of line.
+#: data/tools/GUI.pyw:674
+msgid "Convert EOL characters to Unix style"
+msgstr "將 EOL 字元轉換成 Unix 的風格"
+
+#: data/tools/GUI.pyw:682
+msgid "Don't warn about tags without side= keys"
+msgstr "不要對缺少 side= keys 的標籤發出警告"
+
+#: data/tools/GUI.pyw:690
+msgid "Disable checks for unknown units"
+msgstr "取消對未知單位的檢查"
+
+#: data/tools/GUI.pyw:698
+msgid "Disable spellchecking"
+msgstr "取消拼字檢查"
+
+#: data/tools/GUI.pyw:706
+msgid "Skip core directory"
+msgstr "跳過核心目錄"
+
+#: data/tools/GUI.pyw:730
+msgid "wmlscope options"
+msgstr "wmlscope 選項"
+
+#: data/tools/GUI.pyw:740
+msgid "Check for duplicate macro definitions"
+msgstr "檢查重複的巨集定義"
+
+#: data/tools/GUI.pyw:748
+msgid "Check for duplicate resource files"
+msgstr "檢查重複的資源檔案"
+
+#: data/tools/GUI.pyw:756
+msgid "Make definition list"
+msgstr "製作定義清單"
+
+#: data/tools/GUI.pyw:764
+msgid "List files that will be processed"
+msgstr "列出會被處理的檔案"
+
+#: data/tools/GUI.pyw:772
+msgid "Report unresolved macro references"
+msgstr "報告無法處理的巨集引用"
+
+#: data/tools/GUI.pyw:780
+msgid "Extract help from macro definition comments"
+msgstr "從巨集定義的註解中提取說明"
+
+#: data/tools/GUI.pyw:788
+msgid "Report all macros with untyped formals"
+msgstr "報告所有具有未指定形式參數的巨集"
+
+#: data/tools/GUI.pyw:796
+msgid "Show progress"
+msgstr "顯示進度"
+
+#: data/tools/GUI.pyw:813
+msgid "Exclude files matching regexp:"
+msgstr "排除符合正規表示式的檔案："
+
+#: data/tools/GUI.pyw:830
+msgid "Exclude files not matching regexp:"
+msgstr "排除未符合正規表示式的檔案："
+
+#: data/tools/GUI.pyw:847
+msgid ""
+"Report only on macros referenced\n"
+"in exactly n files:"
+msgstr "僅報告在正好 n 個檔案中引用的巨集："
+
+#: data/tools/GUI.pyw:866
+msgid "Report macro definitions and usages in file"
+msgstr "報告檔案中的巨集定義和使用情況"
+
+#. TRANSLATORS: regexp is "regular expression".
+#: data/tools/GUI.pyw:884
+msgid "Allow unused macros with names matching regexp:"
+msgstr "允許未使用的符合正則表達式的巨集："
+
+#: data/tools/GUI.pyw:939
+msgid "wmlindent mode"
+msgstr "wmlindent 模式"
+
+#: data/tools/GUI.pyw:979
+msgid "Verbose"
+msgstr "詳細模式"
+
+#: data/tools/GUI.pyw:987
+msgid "Report unchanged files"
+msgstr "報告未更變的檔案"
+
+#: data/tools/GUI.pyw:995
+msgid "wmlindent options"
+msgstr "wmlindent 選項"
+
+#: data/tools/GUI.pyw:1001
+msgid ""
+"Exclude files\n"
+"matching regexp:"
+msgstr ""
+"排除檔案\n"
+"匹配正規表示式："
+
+#: data/tools/GUI.pyw:1019
+msgid "Do not generate output"
+msgstr "不要產生輸出"
+
+#: data/tools/GUI.pyw:1041
+msgid "Output dir:"
+msgstr "輸出目錄："
+
+#: data/tools/GUI.pyw:1047
+msgid "Options"
+msgstr "選項"
+
+#: data/tools/GUI.pyw:1052
+msgid "Scan subdirectories"
+msgstr "掃描子目錄"
+
+#: data/tools/GUI.pyw:1057
+msgid "Show optional warnings"
+msgstr "顯示可選的警告"
+
+#. TRANSLATORS: Also called "Needs work".
+#: data/tools/GUI.pyw:1063
+msgid "Mark all strings as fuzzy"
+msgstr "將所有字串標記為模糊"
+
+#: data/tools/GUI.pyw:1067
+msgid "Advanced options"
+msgstr "進階選項"
+
+#: data/tools/GUI.pyw:1071
+msgid "Package version"
+msgstr "套件版本"
+
+#: data/tools/GUI.pyw:1088
+msgid "Initial textdomain:"
+msgstr "初始的文字域："
+
+#: data/tools/GUI.pyw:1131 data/tools/GUI.pyw:1237
+msgid "Run wmllint"
+msgstr "執行 wmllint"
+
+#: data/tools/GUI.pyw:1138
+msgid "Save as text..."
+msgstr "儲存成文字……"
+
+#: data/tools/GUI.pyw:1145
+msgid "Clear output"
+msgstr "清空輸出"
+
+#: data/tools/GUI.pyw:1152
+msgid "About..."
+msgstr "關於……"
+
+#: data/tools/GUI.pyw:1159
+msgid "Exit"
+msgstr "離開"
+
+#: data/tools/GUI.pyw:1175 data/tools/GUI.pyw:1308
+msgid "wmllint"
+msgstr "wmllint"
+
+#: data/tools/GUI.pyw:1179 data/tools/GUI.pyw:1374
+msgid "wmlscope"
+msgstr "wmlscope"
+
+#: data/tools/GUI.pyw:1183 data/tools/GUI.pyw:1409
+msgid "wmlindent"
+msgstr "wmlindent"
+
+#: data/tools/GUI.pyw:1187 data/tools/GUI.pyw:1458
+msgid "wmlxgettext"
+msgstr "wmlxgettext"
+
+#: data/tools/GUI.pyw:1190
+msgid "Output"
+msgstr "輸出"
+
+#: data/tools/GUI.pyw:1240
+msgid "Run wmlscope"
+msgstr "執行 wmlscope"
+
+#: data/tools/GUI.pyw:1243
+msgid "Run wmlindent"
+msgstr "執行 wmlindent"
+
+#: data/tools/GUI.pyw:1246
+msgid "Run wmlxgettext"
+msgstr "執行 wmlxgettext"
+
+#: data/tools/GUI.pyw:1254
+msgid ""
+"wmllint cannot run because there is no directory selected.\n"
+"\n"
+"Please select a directory or disable the \"Skip core directory\" option"
+msgstr ""
+"wmllint 不可以被執行，因為沒有選擇目錄。\n"
+"\n"
+"請選擇一個目錄或是取消「跳過核心目錄」選項"
+
+#: data/tools/GUI.pyw:1292 data/tools/GUI.pyw:1298 data/tools/GUI.pyw:1358
+#: data/tools/GUI.pyw:1364 data/tools/GUI.pyw:1398 data/tools/GUI.pyw:1422
+#: data/tools/GUI.pyw:1440
+msgid "Warning"
+msgstr "警告"
+
+#: data/tools/GUI.pyw:1292
+msgid ""
+"You selected the core directory or one of its subdirectories in the add-on "
+"selection box.\n"
+"\n"
+"wmllint will be run only on the Wesnoth core directory"
+msgstr ""
+"你在模組選擇框中選擇了韋諾之戰的核心目錄或是其子目錄。\n"
+"\n"
+"wmllint 將在韋諾之戰的核心目錄中被執行"
+
+#: data/tools/GUI.pyw:1298
+msgid ""
+"You didn't select a directory.\n"
+"\n"
+"wmllint will be run only on the Wesnoth core directory"
+msgstr ""
+"你沒有選擇一個目錄。\n"
+"\n"
+"wmllint 將在韋諾之戰的核心目錄中被執行"
+
+#: data/tools/GUI.pyw:1302 data/tools/GUI.pyw:1368 data/tools/GUI.pyw:1403
+#: data/tools/GUI.pyw:1427
+msgid "The selected directory does not exists"
+msgstr "選擇的目錄不存在"
+
+#: data/tools/GUI.pyw:1344
+msgid "You typed an invalid value. Value must be an integer in the range 0-999"
+msgstr "你輸入一個不合法的值。值必須是一個 0-999 的整數"
+
+#: data/tools/GUI.pyw:1358
+msgid ""
+"You selected the core directory or one of its subdirectories in the add-on "
+"selection box.\n"
+"\n"
+"wmlscope will be run only on the Wesnoth core directory"
+msgstr ""
+"你在模組選擇框中選擇了韋諾之戰的核心目錄或是其子目錄。\n"
+"\n"
+"wmlscope 將在韋諾之戰的核心目錄中被執行"
+
+#: data/tools/GUI.pyw:1364
+msgid ""
+"You didn't select a directory.\n"
+"\n"
+"wmlscope will be run only on the Wesnoth core directory"
+msgstr ""
+"你沒有選擇一個目錄。\n"
+"\n"
+"wmlscope 將在韋諾之戰的核心目錄中被執行"
+
+#: data/tools/GUI.pyw:1398
+msgid ""
+"You didn't select a directory.\n"
+"\n"
+"wmlindent will be run on the Wesnoth core directory"
+msgstr ""
+"你沒有選擇一個目錄。\n"
+"\n"
+"wmlindent 將在韋諾之戰的核心目錄中被執行"
+
+#: data/tools/GUI.pyw:1422
+msgid ""
+"You didn't select a directory.\n"
+"\n"
+"wmlxgettext won't be run"
+msgstr ""
+"你沒有選擇一個目錄。\n"
+"\n"
+"wmlxgettext 不會被執行"
+
+#: data/tools/GUI.pyw:1433
+msgid "Overwrite confirmation"
+msgstr "覆蓋確認"
+
+#. TRANSLATORS: {} is a placeholder for a file name, and not meant to be modified.
+#: data/tools/GUI.pyw:1435
+msgid ""
+"File {} already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"檔案 {} 已經存在。\n"
+"你想要覆蓋它嗎？"
+
+#: data/tools/GUI.pyw:1440
+msgid ""
+"You didn't select an output file.\n"
+"\n"
+"wmlxgettext won't be run"
+msgstr ""
+"你沒有選擇一個輸出檔案。\n"
+"\n"
+"wmlxgettext 不會被執行"
+
+#: data/tools/GUI.pyw:1469
+#, python-brace-format
+msgid ""
+"There was an error while executing {0}.\n"
+"\n"
+"Error code: {1}"
+msgstr ""
+"執行時有錯誤 {0}.\n"
+"\n"
+"錯誤代碼：{1}"
+
+#: data/tools/GUI.pyw:1480
+msgid "Text file"
+msgstr "文字檔案"
+
+#: data/tools/GUI.pyw:1488
+#, python-brace-format
+msgid ""
+"Error while writing to:\n"
+"{0}\n"
+"\n"
+"Error code: {1}\n"
+"\n"
+"{2}"
+msgstr ""
+"寫入時發生錯誤：\n"
+"{0}\n"
+"\n"
+"錯誤代碼：{1}\n"
+"\n"
+"{2}"
+
+#: data/tools/GUI.pyw:1505
+msgid "About Maintenance tools GUI"
+msgstr "關於維護工具的圖形使用者介面"
+
+#. TRANSLATORS: {} is a placeholder for Wesnoth's current version, and not meant to be modified.
+#: data/tools/GUI.pyw:1507
+msgid ""
+"© Elvish_Hunter, 2014-2016\n"
+"\n"
+"Version: {}\n"
+"\n"
+"Part of The Battle for Wesnoth project and released under the GNU GPL v2 "
+"license\n"
+"\n"
+"Icons are taken from the Tango Desktop Project (http://tango.freedesktop."
+"org), and are released in the Public Domain"
+msgstr ""
+"© Elvish_Hunter, 2014-2016\n"
+"\n"
+"版本：{}\n"
+"\n"
+"韋諾之戰專案的一部份，以 GNU GPL v2 授權釋出\n"
+"\n"
+"圖示取自 Tango Desktop Project（http://tango.freedesktop.org），並以公共領域"
+"發布。"
+
+#: data/tools/GUI.pyw:1519
+msgid "Exit confirmation"
+msgstr "關閉確認"
+
+#: data/tools/GUI.pyw:1520
+msgid "Do you really want to quit?"
+msgstr "你真的要結束嗎？"
+
+#: data/tools/GUI.pyw:1800
+msgid "This application must be placed into the wesnoth/data/tools directory"
+msgstr "這個應用程式必須被放置在「wesnoth/data/tools」目錄"
