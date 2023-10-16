@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-08-19 20:56-0500\n"
-"PO-Revision-Date: 2023-10-16 18:31+0800\n"
+"PO-Revision-Date: 2023-10-17 00:24+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -174,7 +174,7 @@ msgstr "檔案"
 #. [menu]: id=menu-editor-recent
 #: data/themes/editor.cfg:72
 msgid "Load Recent"
-msgstr "讀取最近檔案"
+msgstr "載入最近檔案"
 
 #. [menu]: id=menu-editor-map
 #: data/themes/editor.cfg:80
@@ -336,7 +336,7 @@ msgstr "套用遮罩"
 
 #: src/editor/map/context_manager.cpp:518
 msgid "Error loading mask"
-msgstr "讀取遮罩時錯誤"
+msgstr "載入遮罩時錯誤"
 
 #: src/editor/map/context_manager.cpp:538
 msgid "Identifier:"
@@ -353,7 +353,7 @@ msgstr "選擇目標地圖"
 #: src/editor/map/context_manager.cpp:561
 #: src/editor/map/context_manager.cpp:954
 msgid "Error loading map"
-msgstr "讀取地圖錯誤"
+msgstr "載入地圖錯誤"
 
 #: src/editor/map/context_manager.cpp:689
 msgid "Save Map As"
@@ -399,16 +399,16 @@ msgstr "地圖已儲存。"
 
 #: src/editor/map/context_manager.cpp:946
 msgid "Loaded embedded map data"
-msgstr "已讀取嵌入地圖的資料"
+msgstr "已載入嵌入地圖的資料"
 
 #: src/editor/map/context_manager.cpp:947
 #: src/editor/map/context_manager.cpp:950
 msgid "Map loaded from scenario"
-msgstr "已從章節中讀取地圖"
+msgstr "已從章節中載入地圖"
 
 #: src/editor/map/context_manager.cpp:950
 msgid "Loaded referenced map file:"
-msgstr "已讀取引用的地圖檔案："
+msgstr "已載入引用的地圖檔案："
 
 #: src/editor/map/editor_map.cpp:146
 #: src/editor/palette/location_palette.cpp:119

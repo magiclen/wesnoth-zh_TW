@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-16 22:32-0500\n"
-"PO-Revision-Date: 2023-10-16 17:12+0800\n"
+"PO-Revision-Date: 2023-10-17 00:26+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -122,7 +122,7 @@ msgstr "使用12小時制的時間格式"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:94
 msgid "Confirm loading saves from a different version"
-msgstr "讀取不同版本的存檔時進行確認"
+msgstr "載入不同版本的存檔時進行確認"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:101
@@ -4427,7 +4427,7 @@ msgstr "預設主題"
 #. [menu]: id=menu-autosaves
 #: data/themes/default.cfg:101
 msgid "Load Turn..."
-msgstr "讀取回合……"
+msgstr "載入回合……"
 
 #. [menu]: id=menu-quickreplay
 #: data/themes/default.cfg:108
@@ -5233,7 +5233,7 @@ msgid ""
 "Select the <i>Change difficulty</i> option at the bottom of the <i>Load "
 "Game</i> screen when loading start-of-scenario save files."
 msgstr ""
-"你知道你可以在戰役中修改難度等級嗎？在讀取遊戲的視窗中，底部的位置有個<i>更改"
+"你知道你可以在戰役中修改難度等級嗎？在載入遊戲的視窗中，底部的位置有個<i>更改"
 "難度</i>選項。"
 
 #. [tip]
@@ -6227,8 +6227,8 @@ msgstr "而是使用在[campaign]標籤中相同名稱的巨集"
 #: src/game_config_manager.cpp:639
 msgid "The following add-on had errors and could not be loaded:"
 msgid_plural "The following add-ons had errors and could not be loaded:"
-msgstr[0] "以下模組有錯誤且無法讀取："
-msgstr[1] "以下模組有錯誤且無法讀取："
+msgstr[0] "以下模組有錯誤且無法載入："
+msgstr[1] "以下模組有錯誤且無法載入："
 
 #: src/game_config_manager.cpp:643
 msgid "Please report this to the author or maintainer of this add-on."

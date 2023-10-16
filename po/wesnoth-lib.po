@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-17 23:19-0500\n"
-"PO-Revision-Date: 2023-07-04 09:31+0800\n"
+"PO-Revision-Date: 2023-10-17 00:27+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -2885,7 +2885,7 @@ msgstr "複製日誌至剪貼簿"
 #. [label]
 #: data/gui/window/core_dialog.cfg:44
 msgid "Load Core"
-msgstr "讀取核心"
+msgstr "載入核心"
 
 #. [button]: id=ok
 #: data/gui/window/core_dialog.cfg:228 src/preferences/display.cpp:119
@@ -3467,7 +3467,7 @@ msgstr "日期"
 #: data/gui/window/game_load.cfg:317 data/gui/window/mp_create_game.cfg:944
 #: src/hotkey/hotkey_command.cpp:109
 msgid "Load Game"
-msgstr "讀取遊戲"
+msgstr "載入遊戲"
 
 #. [button]: id=browse_saves_folder
 #: data/gui/window/game_load.cfg:332
@@ -3513,7 +3513,7 @@ msgstr "取消在此存檔遊戲中未動作的指令"
 #. [grid]
 #: data/gui/window/game_load.cfg:638 data/gui/window/title_screen.cfg:253
 msgid "Load"
-msgstr "讀取"
+msgstr "載入"
 
 #. [label]: id=lblTitle
 #: data/gui/window/game_save.cfg:42 data/gui/window/game_save_message.cfg:42
@@ -5679,7 +5679,7 @@ msgstr "進行多人對戰（單機多人、區域網路、網際網路）或單
 #. [grid]
 #: data/gui/window/title_screen.cfg:253
 msgid "Load a saved game"
-msgstr "讀取儲存的遊戲"
+msgstr "載入儲存的遊戲"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:254
@@ -6695,7 +6695,7 @@ msgstr "正在載入遊戲設定"
 
 #: src/gui/dialogs/loading_screen.cpp:57
 msgid "Loading data files"
-msgstr "正在讀取資料檔案"
+msgstr "正在載入資料檔案"
 
 #: src/gui/dialogs/loading_screen.cpp:58
 msgid "Loading level"

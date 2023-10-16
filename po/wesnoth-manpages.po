@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-06-17 23:20-0500\n"
-"PO-Revision-Date: 2023-10-16 19:25+0800\n"
+"PO-Revision-Date: 2023-10-17 00:22+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -234,7 +234,7 @@ msgstr "B<--core>I<\\ id_core>"
 #. type: Plain text
 #: doc/man/wesnoth.6:92
 msgid "overrides the loaded core with the one whose id is specified."
-msgstr "以指定 ID 的核心來覆寫被讀取的核心。"
+msgstr "以指定 ID 的核心來覆寫被載入的核心。"
 
 #. type: TP
 #: doc/man/wesnoth.6:92
@@ -408,7 +408,7 @@ msgid ""
 "from I<file> open. If it is a directory, the editor will start with a load "
 "map dialog opened there."
 msgstr ""
-"從標準遊戲存檔目錄讀取存檔 I<file>。如果與 B<-e> 或 B<--editor> 選項同時使"
+"從標準遊戲存檔目錄載入存檔 I<file>。如果與 B<-e> 或 B<--editor> 選項同時使"
 "用，啟動地圖編輯器並打開 I<file> 所儲存的地圖。如果它一個目錄，則編輯器啟動後"
 "會打開載入地圖對話框並定位到該目錄。"
 
@@ -1691,7 +1691,7 @@ msgid ""
 "and write.  Bans will be saved to this file and read again on server start."
 msgstr ""
 "伺服器可讀可寫的（經gzip壓縮的）檔案的完整路徑或相對路徑。封禁清單將會被保存"
-"到這個檔案裡，並在伺服器啟動時再次讀取。"
+"到這個檔案裡，並在伺服器啟動時再次載入。"
 
 #. type: TP
 #: doc/man/wesnothd.6:118
@@ -1881,7 +1881,7 @@ msgid ""
 "loaded and not saved."
 msgstr ""
 "房間資訊應該要被存到哪的檔案路徑。這個檔案在伺服器啟動時被讀取，之後會被寫"
-"入。如果留空或者不設置，房間不會被讀取，也不會被保存。"
+"入。如果留空或者不設置，房間不會被載入，也不會被保存。"
 
 #. type: TP
 #: doc/man/wesnothd.6:164
