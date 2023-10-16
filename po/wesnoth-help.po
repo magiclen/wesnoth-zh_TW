@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-05-20 22:01-0500\n"
-"PO-Revision-Date: 2023-07-04 09:31+0800\n"
+"POT-Creation-Date: 2023-09-16 22:32-0500\n"
+"PO-Revision-Date: 2023-10-16 18:48+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -67,149 +67,35 @@ msgstr ""
 "當一個單位被瘟疫攻撃殺死，這個單位會變成一個行屍，成為進行瘟疫攻撃單位的戰"
 "友。不過這對不死族或在村莊中的單位不起作用。"
 
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:4
-msgid "uses 1 attack"
-msgstr "使用 1 個攻擊"
+#. [resistance]: id=garak_steadfast
+#. [resistance]: id=steadfast
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:703
+#: data/core/macros/abilities.cfg:130
+msgid "steadfast"
+msgstr "堅守"
 
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:7
-msgid "uses 2 attacks"
-msgstr "使用 2 個攻擊"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:10
-msgid "uses 3 attacks"
-msgstr "使用 3 個攻擊"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:13
-msgid "uses 4 attacks"
-msgstr "使用 4 個攻擊"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:16
-msgid "uses 5 attacks"
-msgstr "使用 5 個攻擊"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:19
-msgid "uses 6 attacks"
-msgstr "使用 6 個攻擊"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:22
-msgid "This attack uses 1 attack"
-msgstr "這次攻擊使用 1 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:25
-msgid "This attack uses 2 attacks"
-msgstr "這次攻擊使用 2 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:28
-msgid "This attack uses 3 attacks"
-msgstr "這次攻擊使用 3 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:31
-msgid "This attack uses 4 attacks"
-msgstr "這次攻擊使用 4 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:34
-msgid "This attack uses 5 attacks"
-msgstr "這次攻擊使用 5 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:37
-msgid "This attack uses 6 attacks"
-msgstr "這次攻擊使用 6 種攻擊方式"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:252
-msgid "This attack can only be used as the first verse of the song."
-msgstr "這個攻擊只能夠在歌曲的第一段被使用。 "
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:255
-msgid "This attack can only be used as the second verse of the song."
-msgstr "這個攻擊只能夠在歌曲的第二段被使用。"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:258
-msgid "This attack can only be used as the third verse of the song."
-msgstr "這個攻擊只能夠在歌曲的第三段被使用。"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:261
-msgid "first verse"
-msgstr "第一段"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:264
-msgid "second verse"
-msgstr "第二段"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:267
-msgid "third verse"
-msgstr "第三段"
-
-#. [disable]: id=once_per_turn
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:279
-msgid "once per turn"
-msgstr "每回合一次"
-
-#. [disable]: id=once_per_turn
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:280
-msgid "This attack can be used offensively only once per turn"
-msgstr "這個攻擊方式每回合只可以在進攻的時候使用一次。"
-
-#. [dummy]: id=nova
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:358
-msgid "nova"
-msgstr "新星"
-
-#. [dummy]: id=nova
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:359
-msgid ""
-"This weapon, when used offensively, deals damage to all units adjacent to "
-"the caster when it hits."
-msgstr "這個攻擊方式在進攻時，當命中目標時，會對攻擊者附近的所有單位造成傷害。"
-
-#. [dummy]: id=nova
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:360
-msgid "This unit has wide-area attacks centered on the caster."
-msgstr "這個單位擁有以自身為中心的廣域攻擊能力。"
-
-#. [dummy]: id=ray
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:395
-msgid "ray"
-msgstr "射線"
-
-#. [dummy]: id=ray
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:396
-msgid ""
-"This weapon, when used offensively, also deals damage to a unit behind the "
-"target."
-msgstr "這個攻擊方式在進攻時，也會對目標後方的一個單位造成傷害。"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:520
-msgid ""
-"At the start of the turn this unit increases movement points of surrounding "
-"units by +1"
-msgstr "在回合開始時，這個單位會使周圍單位的移動點數+1。"
-
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:523
-msgid ""
-"At the start of the turn this unit increases movement points of surrounding "
-"units by +2"
-msgstr "在回合開始時，這個單位會使周圍單位的移動點數+2。"
-
-#. [dummy]: description={STR_TAILWIND_RESTRICT_{X}}
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:527
-msgid "tailwind +"
-msgstr "尾流"
+#. [resistance]: id=garak_steadfast
+#. [resistance]: id=steadfast
+#: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:704
+#: data/core/macros/abilities.cfg:131
+msgid "female^steadfast"
+msgstr "堅守"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:545
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:593
 #: data/core/macros/abilities.cfg:9
 msgid "heals +4"
 msgstr "治療 +4"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:546
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:594
 #: data/core/macros/abilities.cfg:10
 msgid "female^heals +4"
 msgstr "治療 +4"
 
 # 「of our turn」應為「of its side's turn」會比較正確一點。
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:547
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:595
 msgid ""
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
 "\n"
@@ -225,26 +111,26 @@ msgstr ""
 
 #. [heals]: id=healing
 #. [heals]
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:551
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:590
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:620
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:599
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:638
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:668
 msgid "This unit is capable of basic healing and slowing dehydration."
 msgstr "這個單位有基本治療以及減緩脫水的能力。"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:569
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:617
 #: data/core/macros/abilities.cfg:35
 msgid "heals +8"
 msgstr "治療 +8"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:570
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:618
 #: data/core/macros/abilities.cfg:36
 msgid "female^heals +8"
 msgstr "治療 +8"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:571
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:619
 msgid ""
 "This unit combines herbal remedies with magic to heal units more quickly "
 "than is normally possible on the battlefield.\n"
@@ -261,17 +147,17 @@ msgstr ""
 "中毒的單位不能被治療者治癒其毒素，必須尋求村莊或是能治癒的單位的照顧。"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:599
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:647
 msgid "heals +12"
 msgstr "治療 +12"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:600
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:648
 msgid "female^heals +12"
 msgstr "治療 +12"
 
 #. [heals]: id=healing
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:601
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:649
 msgid ""
 "This unit combines herbal remedies with magic to heal units more quickly "
 "than is normally possible on the battlefield.\n"
@@ -288,7 +174,7 @@ msgstr ""
 "中毒的單位不能被治療者治癒其毒素，必須尋求村莊或是能治癒的單位的照顧。"
 
 #. [heals]
-#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:626
+#: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:674
 msgid ""
 "This unit is capable of healing those around it, slowing dehydration, and "
 "curing them of poison."
@@ -436,13 +322,13 @@ msgstr "地圖及章節編輯器"
 
 #. [section]: id=editor_mode_terrain
 #. [topic]: id=..editor_mode_terrain
-#: data/core/editor/help.cfg:13 data/core/editor/help.cfg:350
+#: data/core/editor/help.cfg:13 data/core/editor/help.cfg:372
 msgid "Terrain Editor"
 msgstr "地形編輯器"
 
 #. [section]: id=editor_mode_scenario
 #. [topic]: id=..editor_mode_scenario
-#: data/core/editor/help.cfg:20 data/core/editor/help.cfg:362
+#: data/core/editor/help.cfg:20 data/core/editor/help.cfg:384
 msgid "Scenario Editor"
 msgstr "章節編輯器"
 
@@ -1155,18 +1041,49 @@ msgstr ""
 "這個工具只能在章節模式中使用，它會新增WML的<italic>text='[music]'</italic>標"
 "籤到章節。"
 
+#. [topic]: id=editor_addon_id
+#: data/core/editor/help.cfg:319
+msgid "Change Add-on ID"
+msgstr "更改模組ID"
+
+#. [topic]: id=editor_addon_id
+#: data/core/editor/help.cfg:320
+msgid ""
+"Allows changing the ID of an add-on, which is the name of the folder it’s "
+"in. This will only rename that folder and update any references to it in the "
+"_main.cfg file. Any other place will need to be updated manually."
+msgstr ""
+"允許更改模組的ID，也就是它所在目錄的名稱。這將只會重新命名該目錄並更新在"
+"「_main.cfg」檔案中的任何引用。其它地方則需要手動更新。"
+
+#. [topic]: id=editor_pbl_editor
+#: data/core/editor/help.cfg:329
+msgid "Add-on Publishing Editor"
+msgstr "模組發佈編輯器"
+
+#. [topic]: id=editor_pbl_editor
+#: data/core/editor/help.cfg:330
+msgid ""
+"Allows setting up an add-on’s _server.pbl file, which is required for "
+"publishing an add-on to the add-ons server for other players to download. "
+"The Validate button will check whether all required fields have valid values."
+msgstr ""
+"允許設定模組的「 _server.pbl」檔案，這是發佈模組到模組伺服器供其他玩家下載所"
+"需的文件。「驗證」按鈕將檢查所有必要欄位是否具有有效值。"
+
 #. [topic]: id=..editor
-#: data/core/editor/help.cfg:318
+#: data/core/editor/help.cfg:338
 msgid "Map/Scenario Editor"
 msgstr "地圖/章節編輯器"
 
 # 最後面的警告不照翻。
 #. [topic]: id=..editor
-#: data/core/editor/help.cfg:319
+#: data/core/editor/help.cfg:339
 msgid ""
 "Wesnoth’s Map and Scenario Editor allows users to create and edit the maps "
 "on which every Wesnoth scenario takes place. It also provides a limited set "
-"of features for setting up a basic scenario.\n"
+"of features for setting up a basic scenario as well as initializing an add-"
+"on which can be used to distribute the scenarios you create.\n"
 "\n"
 "The editor can be launched from the <italic>text='Map Editor'</italic> "
 "option at the title screen.\n"
@@ -1193,7 +1110,8 @@ msgid ""
 "text='playlist manager'</ref> for the music."
 msgstr ""
 "韋諾的地圖和章節編輯器允許使用者建立並編輯每個韋諾章節所使用的地圖。它也提供"
-"了一系列有限的功能來設置出一個基本的章節。\n"
+"了一系列有限的功能來設置出一個基本的章節，以及初始化一個可被用來發行你所建立"
+"的章節的模組。\n"
 "\n"
 "這個編輯器可以從標題畫面的「地圖編輯器」選項來被啟動。\n"
 "\n"
@@ -1216,7 +1134,23 @@ msgstr ""
 "<ref>dst='editor_playlist' text='播放清單管理器'</ref>可以處理音樂。"
 
 #. [topic]: id=..editor
-#: data/core/editor/help.cfg:331
+#: data/core/editor/help.cfg:351
+msgid ""
+"In either mode, you will be prompted to choose an add-on to use for the "
+"scenarios you create. This can be an existing add-on or a brand new add-on. "
+"If you choose to use a brand new add-on, then the add-on will have all the "
+"required files and folders automatically created as well as a default ID "
+"assigned. Unless you are editing an already existing map file, using "
+"scenario mode is required in order for your maps to be selectable during "
+"game creation."
+msgstr ""
+"在任何模式下，你將被提示選擇一個用於你所建立的章節的模組。這可以是一個現有的"
+"模組，也可以是一個全新的模組。如果你選擇使用一個全新的模組，那麼該模組將自動"
+"建立所有必要的檔案和目錄，並分配一個預設的ID。除非你正在編輯一個已經存在的地"
+"圖檔案，否則在遊戲建立的過程中要選擇你的地圖，你必須使用章節模式。"
+
+#. [topic]: id=..editor
+#: data/core/editor/help.cfg:353
 msgid ""
 "<header>text='What you do *not* get'</header>\n"
 "\n"
@@ -1259,7 +1193,7 @@ msgstr ""
 "地形的地圖將會需要該模組來告訴編輯器它們的地形。"
 
 #. [topic]: id=..editor_mode_terrain
-#: data/core/editor/help.cfg:351
+#: data/core/editor/help.cfg:373
 msgid ""
 "The terrain editor’s functionality is similar to a simple paint "
 "application.\n"
@@ -1280,7 +1214,7 @@ msgstr ""
 "想要開始，就參考<ref>dst='editor_tool_paint' text='繪圖工具'</ref>的頁面。"
 
 #. [topic]: id=..editor_mode_scenario
-#: data/core/editor/help.cfg:363
+#: data/core/editor/help.cfg:385
 msgid ""
 "The scenario editor mode adds support for some map-related WML features, "
 "such as areas and scenery items. Most scenarios will still require "
@@ -1292,7 +1226,7 @@ msgstr ""
 "本的編輯。"
 
 #. [topic]: id=..editor_mode_scenario
-#: data/core/editor/help.cfg:365
+#: data/core/editor/help.cfg:387
 msgid ""
 "<header>text='Checking whether the editor is in scenario mode'</header>\n"
 "\n"
@@ -1309,7 +1243,7 @@ msgstr ""
 "• 在地形模式中，「地區」和「陣營」選單是禁用的，而呈灰色。"
 
 #. [topic]: id=..editor_mode_scenario
-#: data/core/editor/help.cfg:372
+#: data/core/editor/help.cfg:394
 msgid ""
 "<header>text='Entering scenario mode'</header>\n"
 "\n"
@@ -1331,143 +1265,103 @@ msgstr ""
 "要載入由章節編輯器建立的地圖，在「檔案」選單中選擇「載入地圖」，然後選擇「."
 "cfg」檔案（不是「.map」檔案）。"
 
+# 不確定「It is recommended in those cases to simply load the .map file directly instead.」是想表示什麼。
 #. [topic]: id=..editor_mode_scenario
-#: data/core/editor/help.cfg:380
+#: data/core/editor/help.cfg:402
 msgid ""
 "<header>text='The files: .map and .cfg'</header>\n"
 "\n"
-"The map editor saves exactly one file, either a .map (for terrain mode) or "
-"a .cfg (for scenario mode). In scenario mode the terrain map is saved inside "
-"the .cfg file; there is no separate .map file. If you start editing in "
-"terrain mode and then switch to scenario mode then an old .map file might "
-"remain, but this is not updated by the scenario editor.\n"
+"The map editor saves one file when in terrain mode (a .map) or two files "
+"when in scenario mode (both a .map and a .cfg).\n"
 "\n"
 "Loading a .cfg file has different results depending on the contents of the ."
 "cfg file. For .cfg files that were created by the scenario editor, it will "
-"open the .cfg in the scenario editor. However, for .cfg files that use a "
-"separate .map file (which can't be created by the scenario editor), the "
-"editor may follow the link and open the corresponding .map in terrain-only "
-"mode, as if the .map file was chosen in the file selector."
+"open the .cfg in the scenario editor. However, for .cfg files that cannot be "
+"opened by the scenario editor, the editor will attempt to find the "
+"scenario's map data and open the corresponding .map file in terrain-only "
+"mode, as if the .map file was chosen in the file selector. It is recommended "
+"in those cases to simply load the .map file directly instead."
 msgstr ""
 "<header>text='「.map」和「.cfg」檔案'</header>\n"
 "\n"
-"地圖編輯器只會儲存恰好一個檔案，不是「.map」（地形模式）就是「.cfg」（章節模"
-"式）。在章節模式中，地形地圖會被存在「.cfg」檔案中，沒有分開的「.map」檔案。"
-"如果你開始使用地形模式進行編輯，然後切換到章節模式，則舊的「.map」檔案應會被"
-"保留，而不會被章節編輯器更新。\n"
+"在地形模式下，地圖編輯器會將資料儲存成一個「.map」檔案；在章節模式下，則會儲"
+"存成一個「.map」檔案和一個「.cfg」檔案。\n"
 "\n"
 "載入一個「.cfg」檔案會有不同的結果，這與「.cfg」檔案的內容有關。由章節編輯器"
-"建立的「.cfg」檔案，會將「.cfg」檔案開啟至章節編輯器中。然而，有著分開的「."
-"map」檔案的「.cfg」檔案（它不是由章節編輯器建立的），編輯器會跟隨檔案的關聯，"
-"在地形模式中開啟對應的「.map」檔案，就好比直接在檔案選取器選取「.map」檔案檔"
-"案來開啟一樣。"
+"建立的「.cfg」檔案，會將「.cfg」檔案開啟至章節編輯器中。然而，對於那些無法被"
+"章節編輯器開啟的「.cfg」檔案，編輯器會嘗試尋找章節的地圖資料並在地形模式下開"
+"啟相應的「.map」檔案，就好比直接在檔案選取器選取「.map」檔案檔案來開啟一樣。"
+"在這些情況下，建議直接讀取「.map」檔案。"
 
 #. [topic]: id=editor_separate_events_file
-#: data/core/editor/help.cfg:392
+#: data/core/editor/help.cfg:414
 msgid "Using a separate file for WML events"
 msgstr "對WML事件使用一個獨立的檔案"
 
 #. [topic]: id=editor_separate_events_file
-#: data/core/editor/help.cfg:393
+#: data/core/editor/help.cfg:415
 msgid ""
 "When loading a .cfg file, the scenario editor understands files created by "
 "the scenario editor, but is likely to have difficulty with files that have "
 "been edited by hand.\n"
 "\n"
-"Files created by the scenario editor omit the opening [scenario] and closing "
-"[/scenario] tags. If you are creating a campaign (or other add-on), then "
-"those tags need to be added; there is more detail about this in the "
-"<ref>dst='editor_map_format' text='map file format'</ref> documentation.\n"
-"\n"
-"One workflow is to create a separate WML file, also with the .cfg extension, "
+"One option is to create a separate WML file, also with the .cfg extension, "
 "which uses the WML preprocessor to include the editor-created file. This "
 "separate file contains both the [scenario] tag and any hand-edited WML such "
 "as events. With this workflow, the add-on’s file structure could look like "
 "this:\n"
 "\n"
-"<header>text='For Wesnoth 1.14'</header>\n"
-"\n"
-"• _main.cfg:\n"
-"  ◦ use “{./scenarios}” to include the “scenarios” directory\n"
-"• maps/map_from_01.cfg\n"
-"  ◦ this is the file created by the scenario editor\n"
-"• scenarios/01_Forest.cfg, instead of the opening [scenario] tag put in "
-"these four lines:\n"
-"  ◦ [scenario]\n"
-"  ◦     {~add-ons/NAME_OF_ADD_ON/maps/map_from_01.cfg}\n"
-"  ◦ [/scenario]\n"
-"  ◦ [+scenario]\n"
-"\n"
-"The first three of those lines insert the scenario-generated file inside a "
-"[scenario] tag. The ‘+’ sign on the fourth line means that two scenario tags "
-"will be combined, with attributes in the second one overriding attributes in "
-"the first one.\n"
-"\n"
-"<header>text='1.16 and later'</header>\n"
-"\n"
-"If your add-on will only be used on 1.16 and later, there are new features "
-"to load .cfg files via map_file, and to avoid repeating the add-on’s name "
-"within the .cfg files.\n"
+"<header>text='Example'</header>\n"
+"If your add-on will only be used on 1.18 and later, it is instead "
+"recommended to use the new include_file attribute to load a .cfg file "
+"containing additional WML into the scenario.\n"
 "\n"
 "• _main.cfg:\n"
 "  ◦ use “[binary_path]” to add add-on’s directories to the binary path, "
-"which makes “map_file” search the “maps” directory.\n"
-"  ◦ use “{./scenarios}” to include the “scenarios” directory\n"
-"• maps/map_from_01.cfg\n"
-"  ◦ this is the file created by the scenario editor\n"
-"• scenarios/01_Forest.cfg\n"
-"  ◦ inside the [scenario] element, use “map_file=\"map_from_01.cfg\"” to "
-"load that file"
+"which makes “map_file” search the “maps” directory\n"
+"• maps/first.map\n"
+"  ◦ this is the .map file created by the scenario editor when saving in "
+"scenario mode\n"
+"• scenarios/other.cfg\n"
+"  ◦ this is the .cfg file containing everything that the scenario editor "
+"doesn't understand\n"
+"• scenarios/first.cfg\n"
+"  ◦ inside the [scenario] element, use “map_file=\"first.map\"” to load the "
+"map file\n"
+"  ◦ inside the [scenario] element, use “include_file=\"other.cfg\"” to load "
+"the additional cfg file"
 msgstr ""
-"當載入一個「.cfg」檔案時，章節編輯器看得懂由章節編輯器建立的檔案，但一旦檔案"
-"被手動修改，很有可能就會有讀取上的困難。\n"
+"在讀取「.cfg」檔案時，章節編輯器能夠理解由章節編輯器所建立出來的檔案，但對於"
+"手動編輯過的檔案可能會有困難。\n"
 "\n"
-"由章節編輯器建立的檔案會省略「[scenario]」起始標籤和「[/scenario]」終止標籤。"
-"如果你正在建立一個戰役（或是其它模組），這些標籤就需要被加入。關於這個在"
-"<ref>dst='editor_map_format' text='地圖檔案格式'</ref>文件中有更詳細的說"
-"明。\n"
+"其中一個選擇是建立一個獨立的WML檔案，同樣使用「.cfg」副檔名，並使用WML預處理"
+"器將由編輯器建立的檔案包含進來。這個獨立的檔案包含了「[scenario]」標籤以及任"
+"何手動編輯的WML內容，例如事件。使用這種工作流程，模組的檔案結構可能如下所"
+"示：\n"
 "\n"
-"一個流程是建立分開的WML檔案，同樣使用「.cfg」作為副檔名，使用WML預處理器來引"
-"入編輯者自訂的檔案。這個分開的檔案包含「[scenario]」起始標籤和「[/scenario]」"
-"終止標籤，以及任何手動編輯的WML，像是事件。藉由這個流程，模組的檔案結構會像是"
-"下面這個樣子：\n"
-"\n"
-"<header>text='對於 Wesnoth 1.14'</header>\n"
+"<header>text='範例'</header>\n"
+"如果你的模組僅將在1.18版本及以後使用，則建議改為使用新的「include_file」屬"
+"性，來載入包含附加WML內容的「.cfg」檔案到章節中。\n"
 "\n"
 "• _main.cfg:\n"
-"  ◦ 使用「{./scenarios}」來引入「scenarios」目錄\n"
-"• maps/map_from_01.cfg\n"
-"  ◦ 這是章節編輯器建立的檔案\n"
-"• scenarios/01_Forest.cfg, 取代「[scenario]」標籤，放置以下四行：\n"
-"  ◦ [scenario]\n"
-"  ◦     {~add-ons/NAME_OF_ADD_ON/maps/map_from_01.cfg}\n"
-"  ◦ [/scenario]\n"
-"  ◦ [+scenario]\n"
-"\n"
-"前三行是用來將章節產生的檔案插入至「[scenario]」標籤裡。第四行使用的「+」符號"
-"表示兩個「[scenario]」標籤會被合併，第二個標籤中的屬性會覆寫掉第一個標籤。\n"
-"\n"
-"<header>text='對於 Wesnoth 1.16 和之後的版本'</header>\n"
-"\n"
-"如果你的模組將只會被用在1.16 和之後的版本上，有新的透過「map_file」載入「."
-"cfg」檔案的方式，避免在「.cfg」檔案中重複使用模組名稱。\n"
-"\n"
-"• _main.cfg:\n"
-"  ◦使用「[binary_path]」來增加模組的目錄至二進制路徑，這使得「map_file」搜尋"
-"「maps」目錄\n"
-"  ◦ 使用「{./scenarios}」來引入「scenarios」目錄\n"
-"• maps/map_from_01.cfg\n"
-"  ◦ 這是章節編輯器建立的檔案\n"
-"• scenarios/01_Forest.cfg\n"
-"  ◦ 在「[scenario]」標籤中，使用「map_file=\"map_from_01.cfg\"」來載入該檔案"
+"  ◦ 使用 「[binary_path]」將模組的目錄添加到二進制路徑，這會使 「map_file」搜"
+"尋「maps」目錄\n"
+"• maps/first.map\n"
+"  ◦ 這個「.map」檔案是章節編輯器在章節模式下儲存時所建立的 \n"
+"• scenarios/other.cfg\n"
+"  ◦ 這是「.cfg」檔案含有章節編輯器無法理解的所有內容\n"
+"• scenarios/first.cfg\n"
+"  ◦ 在「 [scenario]」元素中使用「map_file=\"first.map\"」來載入地圖檔案\n"
+"  ◦ 在「 [scenario]」元素中使用「include_file=\"other.cfg\"」來載入額外的「."
+"cfg」檔案"
 
 #. [topic]: id=editor_masks
-#: data/core/editor/help.cfg:431
+#: data/core/editor/help.cfg:438
 msgid "Editor Mask Usage"
 msgstr "編輯器遮罩用法"
 
 #. [topic]: id=editor_masks
-#: data/core/editor/help.cfg:432
+#: data/core/editor/help.cfg:439
 msgid ""
 "Masks can be applied to a base map for reusal in several scenarios playing "
 "at the same locations."
@@ -1476,12 +1370,12 @@ msgstr ""
 
 #. [topic]: id=editor_time_schedule
 #. Time of Day and Schedule Editor, please use a short string as it will be used in the left-hand pane of the help browser
-#: data/core/editor/help.cfg:440
+#: data/core/editor/help.cfg:447
 msgid "ToD and Schedule Editor"
 msgstr "時段編輯器"
 
 #. [topic]: id=editor_time_schedule
-#: data/core/editor/help.cfg:441
+#: data/core/editor/help.cfg:448
 msgid ""
 "This button at the top-right of the screen accesses the time-of-day preview "
 "and the schedule editor.\n"
@@ -1500,13 +1394,13 @@ msgstr ""
 "ref>編輯器，用來獨立設定時段。"
 
 #. [topic]: id=editor_palette
-#: data/core/editor/help.cfg:452
+#: data/core/editor/help.cfg:459
 msgid "Editor Palette"
 msgstr "編輯器調色盤"
 
 #. [topic]: id=editor_palette
 #. the “Player 1”, “Player 2”, ... list is translated using "Player $side_num" in the wesnoth-editor textdomain
-#: data/core/editor/help.cfg:454
+#: data/core/editor/help.cfg:461
 msgid ""
 "The editor palette contains the applicable items you may use with the "
 "currently selected tool. For example, the Paint tool will display a full "
@@ -1530,32 +1424,32 @@ msgstr ""
 "最左邊的那個，而且圖示會根據被選擇的東西而改變。例如："
 
 #. [topic]: id=editor_palette
-#: data/core/editor/help.cfg:459
+#: data/core/editor/help.cfg:466
 msgid "Show all kinds of terrain"
 msgstr "顯示所有種類的地形"
 
 #. [topic]: id=editor_palette
-#: data/core/editor/help.cfg:460
+#: data/core/editor/help.cfg:467
 msgid "Show only water terrains"
 msgstr "只顯示水的地形"
 
 #. [topic]: id=editor_palette
-#: data/core/editor/help.cfg:461
+#: data/core/editor/help.cfg:468
 msgid "Show only villages"
 msgstr "只顯示村莊"
 
 #. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:473
+#: data/core/editor/help.cfg:480
 msgid "Wesnoth Map Format"
 msgstr "韋諾地圖格式"
 
 #. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:474
+#: data/core/editor/help.cfg:481
 msgid "Wesnoth stores its maps in human readable plain text files."
 msgstr "韋諾將它的地圖存成人類可讀的純文字檔案。"
 
 #. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:476
+#: data/core/editor/help.cfg:483
 msgid ""
 "<header>text='Native'</header>\n"
 "\n"
@@ -1609,7 +1503,7 @@ msgstr ""
 
 # 看不懂「but this is rarely-used code」，不翻譯。
 #. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:489
+#: data/core/editor/help.cfg:496
 msgid ""
 "<header>text='Embedded'</header>\n"
 "\n"
@@ -1641,59 +1535,25 @@ msgstr ""
 "檔案會在視窗選單上被標示為「(E)」。"
 
 #. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:497
+#: data/core/editor/help.cfg:504
 msgid ""
 "<header>text='Files created by the Scenario Editor'</header>\n"
 "\n"
-"In scenario mode, the editor saves the data as a .cfg file with embedded map "
-"data. When loading a .cfg file, the scenario editor understands files "
-"created by the scenario editor itself, but is likely to have difficulty with "
-"files that have been edited by hand; problems can be avoided by "
-"<ref>dst='editor_separate_events_file' text='using a separate .cfg file'</"
+"In scenario mode, the editor saves the scenario data as a .cfg file and the "
+"map data as a separate .map file. The scenario then references the .map file "
+"via map_file. When loading a .cfg file, the scenario editor understands "
+"files created by the scenario editor itself, but is likely to have "
+"difficulty with files that have been edited by hand; problems can be avoided "
+"by <ref>dst='editor_separate_events_file' text='using a separate .cfg file'</"
 "ref> for the hand-edited parts."
 msgstr ""
 "<header>text='由章節編輯器建立的檔案'</header>\n"
 "\n"
-"在章節模式中，編輯器將資料存成一個「.cfg」檔案，其中內嵌了地圖的資料。當載入"
-"一個「.cfg」檔案時，章節編輯器看得懂由章節編輯器建立的檔案，但一旦檔案被手動"
-"修改，很有可能就會有讀取上的困難。問題可以藉由"
+"在章節模式中，編輯器將章節資料存成一個「.cfg」檔案，地圖資料則分開存成一個「."
+"map」檔案。當載入一個「.cfg」檔案時，章節編輯器看得懂由章節編輯器建立的檔案，"
+"但一旦檔案被手動修改，很有可能就會有讀取上的困難。問題可以藉由"
 "<ref>dst='editor_separate_events_file' text='使用分開的「.cfg」檔案'</ref>來"
 "避免。"
-
-#. [topic]: id=editor_map_format
-#: data/core/editor/help.cfg:501
-msgid ""
-"<header>text='Which scenario files use the [scenario] tag'</header>\n"
-"\n"
-"Files created by the scenario editor have the contents of a WML scenario "
-"element, but don’t include the opening [scenario] and closing [/scenario] "
-"tags. For each .cfg file in the userdata folder’s editor/scenarios "
-"subfolder, the game will automatically try to load a scenario from it to "
-"include in the “Custom Scenarios” list (files that fail to load are "
-"ignored). In this folder each file is a separate item - files that fail to "
-"parse as a scenario are ignored, and files must not contain the [scenario][/"
-"scenario] tags.\n"
-"\n"
-"The opposite applies when a scenario is part of a campaign or other add-on. "
-"Typically each scenario has its own .cfg file, however this is unnecessary - "
-"all of the WML in an add-on will be combined by the preprocessor, it doesn’t "
-"matter whether the add-on is written as separate files or not. The engine "
-"needs the [scenario]...[/scenario] (or [multiplayer]...[/multiplayer]) tags "
-"to know which WML is part of each scenario."
-msgstr ""
-"<header>text='哪些章節檔案使用「[scenario]」標籤'</header>\n"
-"\n"
-"章節編輯器產生的檔案包含WML章節元素的內容，但沒有包含「[scenario]」起始標籤和"
-"「[/scenario]」終止標籤。對於每個在使用者資料目錄中「editor」或是"
-"「scenarios」子目錄下的「.cfg」檔案，遊戲會自動地嘗試從中讀取章節，並將它們包"
-"含至「自訂章節」清單中（檔案載入失敗的話就會被忽略）。在這個目錄中，每個檔案"
-"是一個分開的項目──被解析失敗的檔案會被忽略，且檔案必須不能包含「[scenario]」"
-"和「[/scenario]」標籤。\n"
-"\n"
-"另一方面的應用是章節是屬於戰役或是模組的一個部分。一般來說，每個章節都有它自"
-"己的「.cfg」檔案，但這個並不是必要的──模組中的所有WML將會被預處理器合併，模組"
-"有沒有被分檔案撰寫並不重要。引擎需要「[scenario]...[/scenario]」（或是"
-"「[multiplayer]...[/multiplayer]」）標籤來了解WML是屬於哪個章節。"
 
 #. [editor_times]: id=deep_underground
 #. [time]: id=deep_underground
@@ -4578,7 +4438,7 @@ msgid ""
 "\n"
 "To install an add-on, select it from the list and click the <bold>text='+'</"
 "bold> icon, or simply double-click on the add-on’s title. If the window is "
-"too small to show them inline, the <bold>text='Addon Details'</bold> button "
+"too small to show them inline, the <bold>text='Add-on Details'</bold> button "
 "provides you with additional details about the add-on, such as its full "
 "description, installation status, and available translations."
 msgstr ""
@@ -5133,16 +4993,6 @@ msgid ""
 msgstr "這個單位每回合治療他自己，不過治療量不比駐紮在村莊時多。"
 
 #. [resistance]: id=steadfast
-#: data/core/macros/abilities.cfg:130
-msgid "steadfast"
-msgstr "堅守"
-
-#. [resistance]: id=steadfast
-#: data/core/macros/abilities.cfg:131
-msgid "female^steadfast"
-msgstr "堅守"
-
-#. [resistance]: id=steadfast
 #: data/core/macros/abilities.cfg:132
 msgid ""
 "This unit’s resistances are doubled, up to a maximum of 50%, when defending. "
@@ -5676,54 +5526,62 @@ msgstr ""
 
 #: data/core/macros/special-notes.cfg:73
 msgid ""
+"Foes who lose their life to certain horrors of nature become nourishment for "
+"a rapidly growing larva, unless they are standing in a village."
+msgstr ""
+"被大自然的某些可怕力量奪走性命的敵人將成為快速成長中的幼蟲的營養，除非他們站"
+"在村莊上。"
+
+#: data/core/macros/special-notes.cfg:76
+msgid ""
 "This unit is able to slow its enemies, halving their movement speed and "
 "attack damage until they end a turn."
 msgstr ""
 "這個單位能夠緩速他的敵人，使他們的移動速度和攻擊傷害減半，直到他們結束一個回"
 "合。"
 
-#: data/core/macros/special-notes.cfg:76
+#: data/core/macros/special-notes.cfg:79
 msgid ""
 "The ability to turn the living to stone makes this unit extremely dangerous."
 msgstr "把敵人化為石頭的能力使這個單位變得極度危險。"
 
-#: data/core/macros/special-notes.cfg:79
+#: data/core/macros/special-notes.cfg:82
 msgid ""
 "This unit’s marksmanship gives it a high chance of hitting targeted enemies, "
 "but only on the attack."
 msgstr "這個單位的精準給他高度命中目標敵人的機率，但只在進攻時有效。"
 
-#: data/core/macros/special-notes.cfg:82
+#: data/core/macros/special-notes.cfg:85
 msgid ""
 "This unit has magical attacks, which always have a high chance of hitting an "
 "opponent."
 msgstr "這個單位有魔法攻擊，魔法攻擊總是有高度命中對手的機率。"
 
-#: data/core/macros/special-notes.cfg:85
+#: data/core/macros/special-notes.cfg:88
 msgid ""
 "The swarming attacks of this unit become less deadly whenever its members "
 "are wounded."
 msgstr "每當這個單位身體部位受傷，牠的連續攻撃就會變得更不致命。"
 
-#: data/core/macros/special-notes.cfg:88
+#: data/core/macros/special-notes.cfg:91
 msgid ""
 "Using a charging attack doubles both damage dealt and received; this does "
 "not affect defensive retaliation."
 msgstr "使用衝鋒攻擊會使造成的傷害和受到的傷害加倍，但這不會影響防禦性的反擊。"
 
-#: data/core/macros/special-notes.cfg:91
+#: data/core/macros/special-notes.cfg:94
 msgid ""
 "During battle, this unit can drain life from victims to renew its own health."
 msgstr "戰鬥時，這個單位可以從受害者那吸取生命，來恢復他自己的健康。"
 
-#: data/core/macros/special-notes.cfg:94
+#: data/core/macros/special-notes.cfg:97
 msgid ""
 "The length of this unit’s weapon allows it to strike first in melee, even in "
 "defense."
 msgstr ""
 "這個單位的武器的長度，讓他可以在近戰中優先發動攻擊，甚至在防守時也可以。"
 
-#: data/core/macros/special-notes.cfg:97
+#: data/core/macros/special-notes.cfg:100
 msgid ""
 "The victims of this unit’s poison will continually take damage until they "
 "can be cured in town or by a unit which cures."
@@ -5731,7 +5589,7 @@ msgstr ""
 "這個單位的毒素攻撃的受害者將持續受到傷害，直到他們能到村莊或者被會治癒的單位"
 "治好為止。"
 
-#: data/core/macros/special-notes.cfg:100
+#: data/core/macros/special-notes.cfg:103
 msgid ""
 "This unit has a defense cap on certain terrain types — it cannot achieve a "
 "higher defense rating on mixed terrains with such terrain types."
@@ -5741,7 +5599,7 @@ msgstr ""
 
 # 不確定這個用在哪。
 #. User-visible string, but only shown in the help pages of UMC units that haven't yet been updated to the 1.16 special notes format.
-#: data/core/macros/special-notes.cfg:119
+#: data/core/macros/special-notes.cfg:122
 msgid ""
 "Special Notes (1.14-style, please update to the new list format to avoid "
 "duplicates):"
@@ -8097,6 +7955,228 @@ msgstr "視野成本"
 #: src/help/help_topic_generators.cpp:753
 msgid "Jamming Cost"
 msgstr "干擾成本"
+
+#~ msgid "uses 1 attack"
+#~ msgstr "使用 1 個攻擊"
+
+#~ msgid "uses 2 attacks"
+#~ msgstr "使用 2 個攻擊"
+
+#~ msgid "uses 3 attacks"
+#~ msgstr "使用 3 個攻擊"
+
+#~ msgid "uses 4 attacks"
+#~ msgstr "使用 4 個攻擊"
+
+#~ msgid "uses 5 attacks"
+#~ msgstr "使用 5 個攻擊"
+
+#~ msgid "uses 6 attacks"
+#~ msgstr "使用 6 個攻擊"
+
+#~ msgid "This attack uses 1 attack"
+#~ msgstr "這次攻擊使用 1 種攻擊方式"
+
+#~ msgid "This attack uses 2 attacks"
+#~ msgstr "這次攻擊使用 2 種攻擊方式"
+
+#~ msgid "This attack uses 3 attacks"
+#~ msgstr "這次攻擊使用 3 種攻擊方式"
+
+#~ msgid "This attack uses 4 attacks"
+#~ msgstr "這次攻擊使用 4 種攻擊方式"
+
+#~ msgid "This attack uses 5 attacks"
+#~ msgstr "這次攻擊使用 5 種攻擊方式"
+
+#~ msgid "This attack uses 6 attacks"
+#~ msgstr "這次攻擊使用 6 種攻擊方式"
+
+#~ msgid "This attack can only be used as the first verse of the song."
+#~ msgstr "這個攻擊只能夠在歌曲的第一段被使用。 "
+
+#~ msgid "This attack can only be used as the second verse of the song."
+#~ msgstr "這個攻擊只能夠在歌曲的第二段被使用。"
+
+#~ msgid "This attack can only be used as the third verse of the song."
+#~ msgstr "這個攻擊只能夠在歌曲的第三段被使用。"
+
+#~ msgid "first verse"
+#~ msgstr "第一段"
+
+#~ msgid "second verse"
+#~ msgstr "第二段"
+
+#~ msgid "third verse"
+#~ msgstr "第三段"
+
+#~ msgid "once per turn"
+#~ msgstr "每回合一次"
+
+#~ msgid "This attack can be used offensively only once per turn"
+#~ msgstr "這個攻擊方式每回合只可以在進攻的時候使用一次。"
+
+#~ msgid "nova"
+#~ msgstr "新星"
+
+#~ msgid ""
+#~ "This weapon, when used offensively, deals damage to all units adjacent to "
+#~ "the caster when it hits."
+#~ msgstr ""
+#~ "這個攻擊方式在進攻時，當命中目標時，會對攻擊者附近的所有單位造成傷害。"
+
+#~ msgid "This unit has wide-area attacks centered on the caster."
+#~ msgstr "這個單位擁有以自身為中心的廣域攻擊能力。"
+
+#~ msgid "ray"
+#~ msgstr "射線"
+
+#~ msgid ""
+#~ "This weapon, when used offensively, also deals damage to a unit behind "
+#~ "the target."
+#~ msgstr "這個攻擊方式在進攻時，也會對目標後方的一個單位造成傷害。"
+
+#~ msgid ""
+#~ "At the start of the turn this unit increases movement points of "
+#~ "surrounding units by +1"
+#~ msgstr "在回合開始時，這個單位會使周圍單位的移動點數+1。"
+
+#~ msgid ""
+#~ "At the start of the turn this unit increases movement points of "
+#~ "surrounding units by +2"
+#~ msgstr "在回合開始時，這個單位會使周圍單位的移動點數+2。"
+
+#~ msgid "tailwind +"
+#~ msgstr "尾流"
+
+#~ msgid ""
+#~ "When loading a .cfg file, the scenario editor understands files created "
+#~ "by the scenario editor, but is likely to have difficulty with files that "
+#~ "have been edited by hand.\n"
+#~ "\n"
+#~ "Files created by the scenario editor omit the opening [scenario] and "
+#~ "closing [/scenario] tags. If you are creating a campaign (or other add-"
+#~ "on), then those tags need to be added; there is more detail about this in "
+#~ "the <ref>dst='editor_map_format' text='map file format'</ref> "
+#~ "documentation.\n"
+#~ "\n"
+#~ "One workflow is to create a separate WML file, also with the .cfg "
+#~ "extension, which uses the WML preprocessor to include the editor-created "
+#~ "file. This separate file contains both the [scenario] tag and any hand-"
+#~ "edited WML such as events. With this workflow, the add-on’s file "
+#~ "structure could look like this:\n"
+#~ "\n"
+#~ "<header>text='For Wesnoth 1.14'</header>\n"
+#~ "\n"
+#~ "• _main.cfg:\n"
+#~ "  ◦ use “{./scenarios}” to include the “scenarios” directory\n"
+#~ "• maps/map_from_01.cfg\n"
+#~ "  ◦ this is the file created by the scenario editor\n"
+#~ "• scenarios/01_Forest.cfg, instead of the opening [scenario] tag put in "
+#~ "these four lines:\n"
+#~ "  ◦ [scenario]\n"
+#~ "  ◦     {~add-ons/NAME_OF_ADD_ON/maps/map_from_01.cfg}\n"
+#~ "  ◦ [/scenario]\n"
+#~ "  ◦ [+scenario]\n"
+#~ "\n"
+#~ "The first three of those lines insert the scenario-generated file inside "
+#~ "a [scenario] tag. The ‘+’ sign on the fourth line means that two scenario "
+#~ "tags will be combined, with attributes in the second one overriding "
+#~ "attributes in the first one.\n"
+#~ "\n"
+#~ "<header>text='1.16 and later'</header>\n"
+#~ "\n"
+#~ "If your add-on will only be used on 1.16 and later, there are new "
+#~ "features to load .cfg files via map_file, and to avoid repeating the add-"
+#~ "on’s name within the .cfg files.\n"
+#~ "\n"
+#~ "• _main.cfg:\n"
+#~ "  ◦ use “[binary_path]” to add add-on’s directories to the binary path, "
+#~ "which makes “map_file” search the “maps” directory.\n"
+#~ "  ◦ use “{./scenarios}” to include the “scenarios” directory\n"
+#~ "• maps/map_from_01.cfg\n"
+#~ "  ◦ this is the file created by the scenario editor\n"
+#~ "• scenarios/01_Forest.cfg\n"
+#~ "  ◦ inside the [scenario] element, use “map_file=\"map_from_01.cfg\"” to "
+#~ "load that file"
+#~ msgstr ""
+#~ "當載入一個「.cfg」檔案時，章節編輯器看得懂由章節編輯器建立的檔案，但一旦檔"
+#~ "案被手動修改，很有可能就會有讀取上的困難。\n"
+#~ "\n"
+#~ "由章節編輯器建立的檔案會省略「[scenario]」起始標籤和「[/scenario]」終止標"
+#~ "籤。如果你正在建立一個戰役（或是其它模組），這些標籤就需要被加入。關於這個"
+#~ "在<ref>dst='editor_map_format' text='地圖檔案格式'</ref>文件中有更詳細的說"
+#~ "明。\n"
+#~ "\n"
+#~ "一個流程是建立分開的WML檔案，同樣使用「.cfg」作為副檔名，使用WML預處理器來"
+#~ "引入編輯者自訂的檔案。這個分開的檔案包含「[scenario]」起始標籤和「[/"
+#~ "scenario]」終止標籤，以及任何手動編輯的WML，像是事件。藉由這個流程，模組的"
+#~ "檔案結構會像是下面這個樣子：\n"
+#~ "\n"
+#~ "<header>text='對於 Wesnoth 1.14'</header>\n"
+#~ "\n"
+#~ "• _main.cfg:\n"
+#~ "  ◦ 使用「{./scenarios}」來引入「scenarios」目錄\n"
+#~ "• maps/map_from_01.cfg\n"
+#~ "  ◦ 這是章節編輯器建立的檔案\n"
+#~ "• scenarios/01_Forest.cfg, 取代「[scenario]」標籤，放置以下四行：\n"
+#~ "  ◦ [scenario]\n"
+#~ "  ◦     {~add-ons/NAME_OF_ADD_ON/maps/map_from_01.cfg}\n"
+#~ "  ◦ [/scenario]\n"
+#~ "  ◦ [+scenario]\n"
+#~ "\n"
+#~ "前三行是用來將章節產生的檔案插入至「[scenario]」標籤裡。第四行使用的「+」"
+#~ "符號表示兩個「[scenario]」標籤會被合併，第二個標籤中的屬性會覆寫掉第一個標"
+#~ "籤。\n"
+#~ "\n"
+#~ "<header>text='對於 Wesnoth 1.16 和之後的版本'</header>\n"
+#~ "\n"
+#~ "如果你的模組將只會被用在1.16 和之後的版本上，有新的透過「map_file」載入「."
+#~ "cfg」檔案的方式，避免在「.cfg」檔案中重複使用模組名稱。\n"
+#~ "\n"
+#~ "• _main.cfg:\n"
+#~ "  ◦使用「[binary_path]」來增加模組的目錄至二進制路徑，這使得「map_file」搜"
+#~ "尋「maps」目錄\n"
+#~ "  ◦ 使用「{./scenarios}」來引入「scenarios」目錄\n"
+#~ "• maps/map_from_01.cfg\n"
+#~ "  ◦ 這是章節編輯器建立的檔案\n"
+#~ "• scenarios/01_Forest.cfg\n"
+#~ "  ◦ 在「[scenario]」標籤中，使用「map_file=\"map_from_01.cfg\"」來載入該檔"
+#~ "案"
+
+#~ msgid ""
+#~ "<header>text='Which scenario files use the [scenario] tag'</header>\n"
+#~ "\n"
+#~ "Files created by the scenario editor have the contents of a WML scenario "
+#~ "element, but don’t include the opening [scenario] and closing [/scenario] "
+#~ "tags. For each .cfg file in the userdata folder’s editor/scenarios "
+#~ "subfolder, the game will automatically try to load a scenario from it to "
+#~ "include in the “Custom Scenarios” list (files that fail to load are "
+#~ "ignored). In this folder each file is a separate item - files that fail "
+#~ "to parse as a scenario are ignored, and files must not contain the "
+#~ "[scenario][/scenario] tags.\n"
+#~ "\n"
+#~ "The opposite applies when a scenario is part of a campaign or other add-"
+#~ "on. Typically each scenario has its own .cfg file, however this is "
+#~ "unnecessary - all of the WML in an add-on will be combined by the "
+#~ "preprocessor, it doesn’t matter whether the add-on is written as separate "
+#~ "files or not. The engine needs the [scenario]...[/scenario] (or "
+#~ "[multiplayer]...[/multiplayer]) tags to know which WML is part of each "
+#~ "scenario."
+#~ msgstr ""
+#~ "<header>text='哪些章節檔案使用「[scenario]」標籤'</header>\n"
+#~ "\n"
+#~ "章節編輯器產生的檔案包含WML章節元素的內容，但沒有包含「[scenario]」起始標"
+#~ "籤和「[/scenario]」終止標籤。對於每個在使用者資料目錄中「editor」或是"
+#~ "「scenarios」子目錄下的「.cfg」檔案，遊戲會自動地嘗試從中讀取章節，並將它"
+#~ "們包含至「自訂章節」清單中（檔案載入失敗的話就會被忽略）。在這個目錄中，每"
+#~ "個檔案是一個分開的項目──被解析失敗的檔案會被忽略，且檔案必須不能包含"
+#~ "「[scenario]」和「[/scenario]」標籤。\n"
+#~ "\n"
+#~ "另一方面的應用是章節是屬於戰役或是模組的一個部分。一般來說，每個章節都有它"
+#~ "自己的「.cfg」檔案，但這個並不是必要的──模組中的所有WML將會被預處理器合"
+#~ "併，模組有沒有被分檔案撰寫並不重要。引擎需要「[scenario]...[/scenario]」"
+#~ "（或是「[multiplayer]...[/multiplayer]」）標籤來了解WML是屬於哪個章節。"
 
 #~ msgid "Flat"
 #~ msgstr "平地"
