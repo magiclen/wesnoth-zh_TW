@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-10-17 15:16+0800\n"
+"PO-Revision-Date: 2023-10-22 13:56+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -562,7 +562,7 @@ msgstr "不死族"
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:655
 msgid "Nakeg-alvan"
-msgstr ""
+msgstr "納克格-阿爾萬"
 
 #. [side]: type=Dark Sorcerer, id=Mal-Talar # this guy reappears in S06b, unless he dies here
 #. [else]
@@ -580,31 +580,29 @@ msgstr "馬爾-塔拉爾"
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:168
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:647
 msgid "Mel Guthrak"
-msgstr ""
+msgstr "梅爾‧古斯拉克"
 
 #. [side]: type=Necromancer, id=Mel Guthrak # this guy reappears in S02 unless he dies here, and reappears no matter what in S17 (reanimated as a lich)
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:204
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1033
 msgid "Gaennell"
-msgstr ""
+msgstr "蓋內爾"
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:227
 msgid "Vugreddyr"
-msgstr ""
+msgstr "維格雷迪爾"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:288
-#, fuzzy
-#| msgid "Survive until end of turns"
 msgid "Survive until turns run out"
-msgstr "存活至最後一回合"
+msgstr "存活至回合數用完"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:298
 msgid "Move any unit to the trapdoor just outside your keep (10,15)"
-msgstr ""
+msgstr "移動任意單位到暗門，它就在你主堡外面（10, 15）"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:308
@@ -616,137 +614,115 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humours.cfg:559
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:441
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:804
-#, fuzzy
-#| msgid "Death of Gweddry"
 msgid "Death of Gweddry or Dacyn"
-msgstr "柯維卓死亡"
+msgstr "柯維卓或戴森死亡"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:321
-#, fuzzy
-#| msgid "What? What is going on?"
 msgid "Watchmen, report. What’s going on?"
-msgstr "什麼？發生什麼事？"
+msgstr "守望者，報告。發生什麼事？"
 
 #. [message]: speaker=Vugreddyr
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:325
-#, fuzzy
-#| msgid "Run for your lives!"
 msgid "Help! Run for your lives!"
-msgstr "大家快逃命！"
+msgstr "救命啊！大家快逃命！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:329
 msgid "See for yourself. Undead approach from the east."
-msgstr ""
+msgstr "你自己看。不死族從東方接近了。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:333
-#, fuzzy
-#| msgid "Men, to arms!"
 msgid "Soldiers, to arms!"
-msgstr "大夥！武裝起來！"
+msgstr "士兵們！武裝起來！"
 
 #. [message]: speaker=Gaennell
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:343
 msgid "Look! The old outpost is newly manned."
-msgstr ""
+msgstr "看！舊的前哨站有新的人駐守。"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:347
 msgid "Interesting... you, Talar, send news of this development."
-msgstr ""
+msgstr "有趣……你，塔拉爾，傳達這個進展的消息。"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:414
 msgid "Sun’s up! They’re falling back!"
-msgstr ""
+msgstr "太陽升起了！他們正在撤退！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:428
-#, fuzzy
-#| msgid "I sense a great evil... Can it be? Gweddry, I must not be seen."
 msgid "I sense a great power... no, it cannot be... I must not be seen."
-msgstr "我感應到一股巨大的邪惡……難道是？柯維卓，別讓他們發現我。"
+msgstr "我感應到一股巨大的力量……不會吧，難道是……。別讓他們發現我。"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:472
-#, fuzzy
-#| msgid ""
-#| "This is the resistance you spoke of, an untrained commander and a few "
-#| "fresh recruits? You will suffer for your incompetence. Destroy them, and "
-#| "dare not bother me again."
 msgid ""
 "This is the resistance you spoke of, an untrained commander and a few fresh "
 "recruits?"
-msgstr ""
-"這就是你所說的反抗勢力？一個沒有訓練過的指揮官跟一群新兵？你們將會為你們的無"
-"能付出代價。摧毀他們，讓他們再也不敢來打擾我。"
+msgstr "這就是你所說的反抗勢力？一個沒有訓練過的指揮官跟一群新兵？"
 
 #. [message]: speaker=Mal-Talar
 #. Mal-Ravanal is neither male nor female, so avoid structures using direct addresses or pronouns when possible
 #. Gender neutral pronouns or plural pronouns implying multiple entities are preferred, but you can use language default if that is not possible
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:478
 msgid "My deepest apologies! Please, forgive us. There will be no more delays."
-msgstr ""
+msgstr "我深感抱歉！請原諒我們。不會再有延誤。"
 
+# 不照翻。
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:482
 msgid "So you say."
-msgstr ""
+msgstr "你要說到做到。"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:530
 msgid "That is how you raise thralls, apprentice. Carry on."
-msgstr ""
+msgstr "這就是你該如何喚起奴隸的方式，學徒。繼續吧。"
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:534
 msgid "We shall ensure their destruction!"
-msgstr ""
+msgstr "我們將確保他們的毀滅！"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:544
 msgid ""
 "Blast it, they’ve been reinforced! And why did Dacyn leave? We’ll have to "
 "hold back the undead until he returns."
-msgstr ""
+msgstr "該死，他們增援了！戴森為什麼離開了呢？我們將必須抵擋不死族直到他回來。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:663
 msgid "Wha- How did so many of them flank us? We’re cut off from Wesnoth!"
-msgstr ""
+msgstr "什……怎麼會有這麼多的不死族包圍我們？我們被切斷與韋諾的聯繫了！"
 
 #. [message]: speaker=Dacyn
 #. Dacyn doesn't really express much and doesn't like to explain himself
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:699
 msgid "Gweddry? Ah, you survive."
-msgstr ""
+msgstr "柯維卓？啊，你活下來了。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:703
 msgid ""
 "Dacyn, why did you flee the battle? Our situation has become rather "
 "desperate."
-msgstr ""
+msgstr "戴森，你為什麼逃離戰鬥？我們的情況變得相當危急。"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:707
-#, fuzzy
-#| msgid ""
-#| "There is no time to explain. If you wish to survive, you will escape "
-#| "through this trapdoor."
 msgid ""
 "Now is not the time for a lengthy report. Unless you intend to die, I "
 "suggest you escape through this trapdoor."
-msgstr "沒有時間解釋了。如果你希望活下去，你就要從這個暗門逃脫。"
+msgstr "現在不是做冗長報告的時間。除非你想死，否則我建議你從這個暗門逃脫。"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:747
-#, fuzzy
-#| msgid "But what about the outpost?"
 msgid "But we have orders to hold this outpost!"
-msgstr "可是前哨站怎麼辦？"
+msgstr "但我們受命守住這個前哨站！"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:751
@@ -755,26 +731,28 @@ msgid ""
 "is already lost. Your death - as heroic as I am sure it would be - will "
 "benefit no one. Now come, there is little time to spare."
 msgstr ""
+"你還沒有見到這個不死軍團的百分之一。這個前哨站已經失守了。你的死亡──雖然我相"
+"信它會是英勇的──但對任何人都沒好處。快來吧，時間不多了。"
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:764
 msgid "I’m at the trapdoor! Follow me!"
-msgstr ""
+msgstr "我到暗門了！跟我來！"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:766
 msgid "Escape"
-msgstr ""
+msgstr "逃走"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:780
 msgid "Wait"
-msgstr ""
+msgstr "等等"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:815
 msgid "If you wish to die, there will be plenty of time for that later."
-msgstr ""
+msgstr "如果你想死，以後還有足夠的時間。"
 
 #. [message]: speaker=Nakeg-alvan
 #. [message]: speaker=Owaec
@@ -794,31 +772,25 @@ msgstr ""
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:578
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:599
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:815
-#, fuzzy
-#| msgid "Hmm..."
 msgid "..."
-msgstr "嗯……"
+msgstr "……"
 
 #. [message]: speaker=Mal-Talar
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:848
 msgid "No! I was promised I could rule this province!"
-msgstr ""
+msgstr "不！我被保證過我可以統治這個區域！"
 
 #. [message]: speaker=Gaennell
 #. [message]: speaker=${UNIT}.id
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:860
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:62
-#, fuzzy
-#| msgid "Now let’s get out of here!"
 msgid "Get me out of here!"
-msgstr "現在讓我們從這裡出去吧！"
+msgstr "帶我從這裡出去吧！"
 
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:874
-#, fuzzy
-#| msgid "You have defeated my brother, but I will follow you and kill you!"
 msgid "You may defeat me now, but I will return!"
-msgstr "你們打敗了我的兄弟，但我將會跟著你們，並殺掉你們！"
+msgstr "你現在也許可以打敗我，但我會回來的！"
 
 #. [scenario]: id=02_The_Escape_Tunnel
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:17
