@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-10-22 13:56+0800\n"
+"PO-Revision-Date: 2023-10-22 17:27+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -425,6 +425,7 @@ msgstr ""
 "衛隊的哨站被遺棄了，因為殖民者開始移居到艾斯特馬克思，半獸人也被驅逐而撤退到"
 "大河的北邊。"
 
+# 後面不照翻。
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:61
 msgid ""
@@ -437,8 +438,8 @@ msgid ""
 msgstr ""
 "由於未知的敵人從東邊向韋諾施壓，戴森催促康拉德二世重新派人駐守前哨站，並利用"
 "這些哨站來讓王室能牢牢地監視並控制維爾丁的下游。他派遣了兩名最有為的年輕軍官"
-"到他們那裡。他派遣了氏族貴族歐維克前往北部前哨站。至於前往南部哨站則是派遣柯"
-"維卓中士前往，他將由法師戴森陪同。"
+"到那兩個地方。前往北部前哨站的是氏族貴族歐維克；前往南部哨站的則是柯維卓中"
+"士，而他將由法師戴森陪同。"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:65
@@ -617,10 +618,11 @@ msgstr "移動任意單位到暗門，它就在你主堡外面（10, 15）"
 msgid "Death of Gweddry or Dacyn"
 msgstr "柯維卓或戴森死亡"
 
+# 不照翻。
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:321
 msgid "Watchmen, report. What’s going on?"
-msgstr "守望者，報告。發生什麼事？"
+msgstr "守夜的人，請報告現在是什麼狀況？"
 
 #. [message]: speaker=Vugreddyr
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:325
@@ -645,7 +647,7 @@ msgstr "看！舊的前哨站有新的人駐守。"
 #. [message]: speaker=Mel Guthrak
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:347
 msgid "Interesting... you, Talar, send news of this development."
-msgstr "有趣……你，塔拉爾，傳達這個進展的消息。"
+msgstr "有趣……你，塔拉爾，去傳達這個進展的消息。"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:414
@@ -655,7 +657,7 @@ msgstr "太陽升起了！他們正在撤退！"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:428
 msgid "I sense a great power... no, it cannot be... I must not be seen."
-msgstr "我感應到一股巨大的力量……不會吧，難道是……。別讓他們發現我。"
+msgstr "我感應到一股巨大的力量……不會吧，難道是……別讓他們發現我。"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:472
@@ -10468,7 +10470,7 @@ msgstr ""
 #. [unit_type]: id=Dacyn L3
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Mage_of_Light.cfg:7
 msgid "Mage of Light"
-msgstr ""
+msgstr "聖光法師"
 
 #. [unit_type]: id=Twilight Mage, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Dacyn_Twilight_Mage.cfg:4
@@ -10530,7 +10532,7 @@ msgstr "劍"
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:54
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:52
 msgid "crossbow"
-msgstr ""
+msgstr "十字弓"
 
 #. [unit_type]: id=Frontier Sergeant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Frontier_Sergeant.cfg:4
@@ -10566,10 +10568,8 @@ msgstr ""
 #. [attack]: type=blade
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Commander.cfg:45
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:43
-#, fuzzy
-#| msgid "sword"
 msgid "longsword"
-msgstr "劍"
+msgstr "長劍"
 
 #. [unit_type]: id=Veteran Lieutenant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:4
@@ -11029,51 +11029,52 @@ msgid ""
 "In this campaign, whenever a max-level unit advances, they can select one of "
 "several minor bonuses!"
 msgstr ""
+"在這個戰役中，每當一個滿級單位升級時，他們可以在幾個小獎勵中選擇其中一個！"
 
 #. [advancement]: id=hitpoints_increase
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:108
 msgid "Gain +8 hitpoints."
-msgstr ""
+msgstr "增加 8 點生命值。"
 
 #. [advancement]: id=melee_increase1
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:123
 msgid "Gain +4 melee damage."
-msgstr ""
+msgstr "增加 4 點近戰傷害。"
 
 #. [advancement]: id=melee_increase2
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:151
 msgid "Gain +2 melee damage."
-msgstr ""
+msgstr "增加 2 點近戰傷害。"
 
 #. [advancement]: id=melee_increase3
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:179
 msgid "Gain +1 melee damage."
-msgstr ""
+msgstr "增加 1 點近戰傷害。"
 
 #. [advancement]: id=ranged_increase1
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:200
 msgid "Gain +3 ranged damage."
-msgstr ""
+msgstr "增加 3 點遠距離傷害。"
 
 #. [advancement]: id=ranged_increase2
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:228
 msgid "Gain +2 ranged damage."
-msgstr ""
+msgstr "增加 2 點遠距離傷害。"
 
 #. [advancement]: id=ranged_increase3
 #: data/campaigns/Eastern_Invasion/utils/amlas.cfg:256
 msgid "Gain +1 ranged damage."
-msgstr ""
+msgstr "增加 1 點遠距離傷害。"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:16
 msgid "loyal"
-msgstr ""
+msgstr "忠誠"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:17
 msgid "Zero upkeep"
-msgstr ""
+msgstr "零維護費"
 
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:27
 msgid "Gweddry"
