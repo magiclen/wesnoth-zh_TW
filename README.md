@@ -13,6 +13,7 @@ https://www.wesnoth.org/gettext/?view=langs&version=branch&lang=zh_TW
 
 ## 尚未完全翻譯的部份
 
+* wesnoth-ei
 * wesnoth-utbs
 * wesnoth-wof
 * wesnoth-manual
