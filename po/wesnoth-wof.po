@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-11-20 17:23 UTC\n"
-"PO-Revision-Date: 2023-12-01 11:38+0800\n"
+"POT-Creation-Date: 2024-02-20 02:52 UTC\n"
+"PO-Revision-Date: 2024-03-07 20:11+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. [campaign]: id=Winds_of_Fate
@@ -119,14 +119,15 @@ msgstr "狩獵"
 
 # 看不懂，不照翻。
 #. [part]
-#. In this campaign, the narrator and drake characters speak with the Morogor dialect, which has some unique syntax and terms. Please read story/Morogor_Dialect before translating and refer back to it as needed.
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
+#. In this campaign, the drake narrator and other drake characters speak with the Morogor dialect, which has some unique syntax and terms.
+#. The file data/campaigns/Winds_of_Fate/story/Morogor_Dialect.txt has details about how these drakes speak in English, as well as a glossary for the campaign.
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:21
 msgid "From the skies above, the glider caste felt the Winds of Fate."
 msgstr "滑翔者們在天空中感受到了命運之風。"
 
 # 看不懂，不照翻。
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:24
 msgid ""
 "They saw the diminishment of our nourishing lands as the isles of Morogor "
 "slipped into the sea. They heard the cries of starving hatchlings before the "
@@ -137,7 +138,7 @@ msgstr ""
 
 # 看不懂，不照翻。
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:26
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:27
 msgid ""
 "Newer flights scraped out a meager existence on islets of rock their "
 "ancestors would have scorned. With envious eyes these flights gazed upon the "
@@ -148,7 +149,7 @@ msgstr ""
 
 # 難以理解，不照翻。
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:29
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:30
 msgid ""
 "One by one, the most desperate flights turned rogue. They broke the long "
 "peace among drakes by invading the domains of their neighbors. One by one, "
@@ -163,7 +164,8 @@ msgstr ""
 
 # 難以理解，不照翻。
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:33
+#. The ‘sea skimmers’ referred to here are the human and orc ships in TRoW.
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:34
 msgid ""
 "It was in this dark time the glider caste felt a familiar Windpath under "
 "their wings, a path newly recast from the twisting Winds of Fate. Curious "
@@ -182,7 +184,7 @@ msgstr ""
 
 # 難以理解，不照翻。
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:36
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:37
 msgid ""
 "For their Spoken Memories told what other castes had forgotten. There are "
 "lands beyond Morogor, across the Great Ocean. From there drakes came long "
@@ -193,14 +195,14 @@ msgstr ""
 "廣闊的世界。"
 
 #. [side]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:49
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:50
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:133
 msgid "Gorlack’s Wing"
 msgstr "戈拉克之翼"
 
 #. [side]
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:50
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:51
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:64
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:83
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:96
@@ -244,12 +246,12 @@ msgid "Gorlack"
 msgstr "戈拉克"
 
 #. [objective]: condition=win
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:80
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:81
 msgid "Kill 20 creatures    ($kill_total killed so far)"
 msgstr "殺掉 20 個生物（目前已殺了 $kill_total| 個）"
 
 #. [objective]: condition=lose
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:84
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:85
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:279
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:619
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:160
@@ -265,7 +267,7 @@ msgid "Death of Gorlack"
 msgstr "戈拉克死亡"
 
 #. [objective]: condition=lose
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:88
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:89
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:283
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:623
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:164
@@ -278,17 +280,17 @@ msgid "Death of Resha"
 msgstr "雷沙死亡"
 
 #. [note]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:95
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:96
 msgid "Oases heal and cure"
 msgstr "綠洲可以治療和治癒"
 
 #. [print]
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:110
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:111
 msgid "$kill_total of 20 prey harvested"
 msgstr "已狩獵 $kill_total| 個獵物，要狩獵 20 個"
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:158
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:159
 msgid ""
 "Behold, the Isle of Gaall.\n"
 "The most perilous hunting ground in the Domain of Vladnir.\n"
@@ -304,7 +306,7 @@ msgstr ""
 
 # 第一句難以理解，不照翻。
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:166
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:167
 msgid ""
 "Our trial for aspirancy has come at last.\n"
 "The hunt that awaits us below will prove a worthy test."
@@ -314,7 +316,7 @@ msgstr ""
 
 # 第二句，不照翻。
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:171
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:172
 msgid ""
 "If only we could still count Karron among us...\n"
 "\n"
@@ -328,7 +330,7 @@ msgstr ""
 
 # 第二句不知道在講什麼。
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:178
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:179
 msgid ""
 "Karron never was among us, verily.\n"
 "Her heart sought glory over our greater purpose."
@@ -339,7 +341,7 @@ msgstr ""
 # 不照翻，實在太難理解。
 # 尤其第三句，完全不知道在說什麼，所以直接省略。
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:183
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:184
 msgid ""
 "We need no further hunters to prevail here.\n"
 "No less of a challenge readies us for aspirancy.\n"
@@ -353,7 +355,7 @@ msgstr ""
 "開始狩獵。"
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:191
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:192
 msgid ""
 "By your will— Hunters, descend!\n"
 "\n"
@@ -362,7 +364,7 @@ msgstr ""
 
 #. [message]: speaker=Resha
 #. Drakes refer to aloe as “tailleaf” and use it medicinally the same way humans use yarrow.
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:202
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:203
 msgid ""
 "Behold the many healing oases which dot this isle.\n"
 "Their cleansing waters purge miasma from wounds.\n"
@@ -373,13 +375,13 @@ msgstr ""
 "而生長在它們岸上的尾葉可以做成良好的藥膏。"
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:208
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:209
 msgid "Any of us injured during the hunt should seek an oasis for healing."
 msgstr "我們當中的任何一位在打獵受傷時都應該要去尋找綠洲來治療。"
 
 # 難懂，不照翻。
 #. [message]: type=Drake Fighter
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:225
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:226
 msgid ""
 "Ah, it is you, Gorlack.\n"
 "\n"
@@ -391,7 +393,7 @@ msgstr ""
 "然後被有毒的獵物咬了一口，驅使我撤退到這裡。"
 
 #. [message]: type=Drake Fighter
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:234
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:235
 msgid ""
 "The waters flowing from the Cenotaph of Kotick have purged the venom from my "
 "wound.\n"
@@ -402,7 +404,7 @@ msgstr ""
 "我請求批准加入你的狩獵，這樣我現在就可以為我的愚蠢洗刷恥辱。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:239
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:240
 msgid ""
 "It was <i>Karron</i> that dishonored herself by not regathering you.\n"
 "\n"
@@ -413,22 +415,22 @@ msgstr ""
 "我批准了。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:261
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:262
 msgid "So it is, that timid Gorlack attempts the Trial of Gaall."
 msgstr "原來如此，那個膽小的戈拉克在試圖挑戰嘎爾的試煉。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:267
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:268
 msgid "So it is, that brave Karron cowers within the Cenotaph of Morogor."
 msgstr "原來如此，那個勇敢的卡朗畏縮在摩洛格的紀念碑內。"
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:273
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:274
 msgid "Karron, you are without companions."
 msgstr "卡朗，你沒有同伴。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:277
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:278
 msgid ""
 "One was slain.\n"
 "The other went astray."
@@ -437,12 +439,12 @@ msgstr ""
 "另一個走丟了。"
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:284
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:285
 msgid "To attempt this trial with only two allies was unwise."
 msgstr "只帶兩名盟友來挑戰這個試煉是不明智的。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:288
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:289
 msgid ""
 "Yet so have I already succeeded, <i>little glider</i>.\n"
 "All my prey-tokens are gathered; my hunt is ended."
@@ -451,22 +453,22 @@ msgstr ""
 "我收集到足夠的獵物戰利品。我的狩獵結束了。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:295
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:296
 msgid "Then take your leave."
 msgstr "那你小心慢走。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:299
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:300
 msgid "As you wish."
 msgstr "如你所願。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:306
 msgid "...... Karron, hold."
 msgstr "……卡朗，等等。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:311
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:312
 msgid ""
 "... It is perilous to depart from this place unaided.\n"
 "\n"
@@ -477,7 +479,7 @@ msgstr ""
 "為了你自己好，加入我們。"
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:317
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:318
 msgid ""
 "Gorlack, it is purely for <b>your</b> sakes that I shall do so.\n"
 "One final time.\n"
@@ -494,17 +496,17 @@ msgstr ""
 "我會給你的。"
 
 #. [message]: type=Fire Guardian
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:340
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:341
 msgid "(<i>Crackle</i>)"
 msgstr "（<i>劈啪作響</i>）"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:344
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:345
 msgid "Magnificent."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:348
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:349
 msgid ""
 "That is a Teller.\n"
 "Perhaps the only beings elder than our Spoken Memories.\n"
@@ -514,7 +516,8 @@ msgid ""
 msgstr ""
 
 #. [message]: type=Fire Guardian
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:359
+#. This text will appear just slightly too small for the player to read, as if it is being spoken too quietly to be understood.
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:360
 msgid ""
 "<span  size='5000' font-style='italic'>Ward thyselves for it has arrived. "
 "The grey light that shades the living worlds. The calm wind that snuffs warm "
@@ -522,12 +525,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:363
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:364
 msgid "It whispers..."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:367
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:368
 msgid ""
 "Before the world grew cold, the Tellers spoke to us our first Memories.\n"
 "Some of their wisdom, shared to us.\n"
@@ -539,7 +542,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:383
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:384
 msgid ""
 "There has never been time enough to waste on these glider myths.\n"
 "Yet you do so during <i>the hunt</i>.\n"
@@ -548,7 +551,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:399
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:400
 msgid ""
 "Curse these nipping beasts!\n"
 "\n"
@@ -556,26 +559,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:420
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:421
 msgid "Victory is yours, <b>Aspirant</b> Gorlack."
 msgstr "勝利是你的<b>有抱負的</b>戈拉克。"
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:424
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:425
 msgid ""
 "Learn from this trial, Resha.\n"
 "Your doubt voiced at the onset of this hunt; see now its futility."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:431
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:432
 msgid ""
 "Your Windpath was well chosen.\n"
 "I was wrong to doubt your fearless heart, to which I owe my life."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:438
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:439
 msgid ""
 "Gorlack... though you have forbade it, I must speak of <i>the cave</i>.\n"
 "\n"
@@ -583,7 +586,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:444
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:445
 msgid ""
 "Nay!\n"
 "\n"
@@ -591,7 +594,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:450
+#: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:451
 msgid ""
 "You know what lies ahead.\n"
 "Henceforth, we must look only to the future."
@@ -1470,8 +1473,13 @@ msgstr ""
 msgid "Show Advantage"
 msgstr ""
 
+#. [args]
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:371
+msgid "dialog^Advantage"
+msgstr ""
+
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:418
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:413
 msgid ""
 "Karron has ascended to the rank of dominant.\n"
 "\n"
@@ -1479,14 +1487,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:426
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:421
 msgid ""
 "This must be a dream.\n"
 "I no longer dwell in the shadow of Gorlack."
 msgstr ""
 
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:437
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:432
 msgid ""
 "Gorlack has ascended to the rank of dominant.\n"
 "\n"
@@ -1495,13 +1503,13 @@ msgstr ""
 
 #. [message]: speaker=Karron
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:445
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:440
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:81
 msgid "........."
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:449
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:444
 msgid ""
 "Drakes!\n"
 "\n"
@@ -1516,7 +1524,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:462
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:457
 msgid ""
 "This hope I offer you.\n"
 "There are lands beyond Morogor.\n"
@@ -1528,12 +1536,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Vladnir
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:472
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:467
 msgid "So it begins..."
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:476
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:471
 msgid ""
 "Upon the greatest of all lands my eyrie will stand.\n"
 "\n"
@@ -1541,7 +1549,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:482
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:477
 msgid ""
 "Await my summons.\n"
 "\n"
@@ -1549,18 +1557,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:492
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:487
 msgid "For winning by defeating the rival leader, you receive war claws!"
 msgstr ""
 
 #. [object]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:499
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:494
 msgid "War Claws"
 msgstr "戰爭鐵爪"
 
 # 為求易於理解，不照翻。
 #. [object]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:500
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:495
 msgid ""
 "The finest work of the Morogor forges, these steel claws increase the damage "
 "of the wearer’s melee attack."
@@ -1568,7 +1576,7 @@ msgstr ""
 "摩洛格群島上所鍛造出的最佳作品。這些鐵爪可以增加穿戴者近戰所能造成的傷害。"
 
 #. [effect]
-#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:504
+#: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:499
 msgid "war claws"
 msgstr "戰爭鐵爪"
 
@@ -3179,17 +3187,17 @@ msgid "Yes"
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:406
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:404
 msgid "I see we shall eat well this day!"
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:417
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:415
 msgid "Alas! Karron is slain!"
 msgstr ""
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:428
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:426
 msgid ""
 "Fort Elenssse burns, gone forever! My hatchplace is free and my people can "
 "return to live here again. Sssaurian Empire will lassst thirteen millennia "
@@ -3197,14 +3205,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:432
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:430
 msgid ""
 "Learn from this victory, Resha.\n"
 "See now the futility of your doubt."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:439
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:437
 msgid ""
 "Gorlack, by this victory my doubt rises threefold.\n"
 "We have flown headlong into chaos, into the innermost whirlwind of the Winds "
@@ -3214,12 +3222,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:446
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:444
 msgid "There can be no <i>war</i> in a land with prey so plenty."
 msgstr ""
 
 #. [message]: speaker=Resha
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:452
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:450
 msgid ""
 "These creatures are more than prey.\n"
 "\n"
@@ -3227,12 +3235,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Karron
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:458
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:456
 msgid "... You witnessed only moments ago how we slew a nest of them utterly."
 msgstr ""
 
 #. [message]: speaker=Gorlack
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:462
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:460
 msgid ""
 "Perhaps... your patrols have been overtaxing, Resha.\n"
 "\n"
@@ -3241,7 +3249,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:469
+#: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:467
 msgid ""
 "With these humans dead, ssspiritsss of my brood sssisssters feel sssome "
 "peace... but humans were only hirelings for elves, yesssss, elves mussst "
@@ -5706,16 +5714,18 @@ msgid "Epilogue"
 msgstr "尾聲"
 
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:12
+#. "noble creatures" is a drake term for allies and potential allies
+#. "legions" could also be "hordes", the English text uses a different word to avoid implying that it’s just orcs
+#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:14
 msgid ""
-"Dominant Karron heard the Memories Spoken to her by the gliders. She lead "
-"several flights west to the Green Isle of the orcs. Striving together with "
-"the noble creatures of this far land, the infestation of orcs was destroyed "
-"so new eyries could be set there."
+"Dominant Karron heard the Memories Spoken to her by the gliders. She led "
+"several flights west beyond Morogor to the distant Green Isle. Together with "
+"the noble creatures of this far land, she would strive to drive off the "
+"opposing legions so new eyries might be set there."
 msgstr ""
 
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:15
+#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:17
 msgid ""
 "Countless drakes flocked from Morogor to scorch the Greatland with their "
 "need. Those creatures that survived their hunt formed large hosts with a "
@@ -5725,7 +5735,8 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:18
+#. Future generations of drakes will argue over Gorlack’s real intentions. He diverts a thirst for victory into a time of peace, which would fit if his real intention is to create a lasting peace, but would also fit if the real intention is to bide time to prepare for war. As he’s the main player character, it's left to the player's imagination to read the meaning that they want.
+#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:21
 msgid ""
 "As most grew weary of the hunt, Dominant Gorlack summoned all flights to a "
 "counsel gathering high upon his Sunreach Peaks. There, he shared with them a "
@@ -5736,24 +5747,10 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:21
+#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:24
 msgid ""
 "In accord, the flights went again into exile, withdrawing to the Greatland’s "
 "many remote places. So ended the <i>War with Prey</i>."
-msgstr ""
-
-#. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:24
-msgid ""
-"Now, a century later, we that follow the Ways of Gorlack span half the "
-"Greatland. Amongst us, there are no more unheeded Memories, no more "
-"unrevealed Secrets. From the skies above, we see the ways of our fellow "
-"contenders. The time for the Great Contention has come."
-msgstr ""
-
-#. [part]
-#: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:27
-msgid "Now, our reascension begins..."
 msgstr ""
 
 #. [unit_type]: id=Caravel, race=mechanical
@@ -5973,22 +5970,22 @@ msgid "<span color='gold'>clasher intendant</span>"
 msgstr ""
 
 #. [floating_text]
-#: data/campaigns/Winds_of_Fate/utils/macros.cfg:164
-msgid "+{AMOUNT} experience"
-msgstr "+{AMOUNT} 點經驗"
+#: data/campaigns/Winds_of_Fate/utils/macros.cfg:165
+msgid "+$amount experience"
+msgstr "+$amount 點經驗"
 
 #. [object]
-#: data/campaigns/Winds_of_Fate/utils/macros.cfg:171
+#: data/campaigns/Winds_of_Fate/utils/macros.cfg:173
 msgid "Sapphire of Ice"
 msgstr ""
 
 #. [object]
-#: data/campaigns/Winds_of_Fate/utils/macros.cfg:173
+#: data/campaigns/Winds_of_Fate/utils/macros.cfg:175
 msgid "This sapphire grants the bearer a ranged cold attack!"
 msgstr ""
 
 #. [effect]: type=cold
-#: data/campaigns/Winds_of_Fate/utils/macros.cfg:177
+#: data/campaigns/Winds_of_Fate/utils/macros.cfg:179
 msgid "sapphire of ice"
 msgstr ""
 

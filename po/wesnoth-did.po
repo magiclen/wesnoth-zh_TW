@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2023-12-01 10:36+0800\n"
+"POT-Creation-Date: 2024-02-20 02:52 UTC\n"
+"PO-Revision-Date: 2024-03-07 19:57+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Poedit 3.4.1\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. [campaign]: id=Descent_into_Darkness
@@ -3024,7 +3024,7 @@ msgstr "室內"
 msgid "Find Lady Karae"
 msgstr "尋找卡瑞女士"
 
-#. [unit]: type=Silver Mage, id=Lady Karae
+#. [unit]: type=Silver Mage, id=Lady Karae, gender=female
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:177
 msgid "Lady Karae"
 msgstr "卡瑞女士"
@@ -5220,7 +5220,7 @@ msgstr "它可能跟巫妖的力量有關！試著燒了它。"
 msgid "<small>(faking pain)</small> Aaargh!"
 msgstr "<small>（假裝疼痛）</small> 啊啊！"
 
-#. [message]: role=unit
+#. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1187
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1215
 msgid "It’s not catching fire!"
@@ -5373,7 +5373,7 @@ msgstr "一個用黑石做的獨石柱，一個黑暗的表面無限地反射著
 msgid "A monolith of black stone, cold and brittle to the touch."
 msgstr "一個用黑石做的獨石柱，摸起來又冷又脆。"
 
-#. [unit]: type=Cuttle Fish, id=Inky
+#. [unit]: type=Cuttle Fish, id=Inky, gender=female
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1399
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:558
 msgid "female^Inky"
@@ -5961,12 +5961,12 @@ msgstr ""
 "對馬爾‧基沙爾來說不幸的是，他被一大群觸手蹂躪。他那虛幻的高尚被摧毀，他的骨骸"
 "只成為烏賊村水底背景中的一些裝飾元素，永遠存在著。"
 
-#. [unit_type]: id=Apprentice Mage, race=human
+#. [unit_type]: id=Apprentice Mage, race=human, gender=male
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:4
 msgid "Apprentice Mage"
 msgstr "法師學徒"
 
-#. [unit_type]: id=Apprentice Mage, race=human
+#. [unit_type]: id=Apprentice Mage, race=human, gender=male
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Mage.cfg:17
 msgid ""
 "Trained in swordsmanship as a boy and the magical arts as a young man, Malin "
@@ -5984,12 +5984,12 @@ msgstr ""
 msgid "magic blast"
 msgstr "魔法衝擊波"
 
-#. [unit_type]: id=Apprentice Necromancer, race=human
+#. [unit_type]: id=Apprentice Necromancer, race=human, gender=male
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Necromancer.cfg:4
 msgid "Apprentice Necromancer"
 msgstr "死靈法師學徒"
 
-#. [unit_type]: id=Apprentice Necromancer, race=human
+#. [unit_type]: id=Apprentice Necromancer, race=human, gender=male
 #: data/campaigns/Descent_Into_Darkness/units/Apprentice_Necromancer.cfg:16
 msgid ""
 "Under Darken Volk’s tutelage, Malin has become adept at wielding necromancy "
@@ -6019,12 +6019,12 @@ msgstr ""
 "也許只是留作紀念而不是作為有效用的武器。他不斷增強的魔法技術遠遠足以填補了這"
 "部分的不足。"
 
-#. [unit_type]: id=Frontier Baroness, race=human
+#. [unit_type]: id=Frontier Baroness, race=human, gender=female
 #: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:6
 msgid "female^Frontier Baroness"
 msgstr "邊境女爵"
 
-#. [unit_type]: id=Frontier Baroness, race=human
+#. [unit_type]: id=Frontier Baroness, race=human, gender=female
 #: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:23
 msgid ""
 "At Wesnoth’s frontiers, all able-bodied men and women must be able to defend "
