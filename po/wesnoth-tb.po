@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-1.17\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-08-20 01:56 UTC\n"
-"PO-Revision-Date: 2024-03-07 20:07+0800\n"
+"PO-Revision-Date: 2024-03-23 22:58+0800\n"
 "Last-Translator: 李信融 <magiclen0810@gmail.com>\n"
 "Language-Team: Wesnoth Traditional Chinese Team\n"
 "Language: zh_TW\n"
@@ -114,7 +114,7 @@ msgid ""
 msgstr ""
 "瑪葵坐落於韋諾王國西部邊境，它曾是和平的地方，它的居民很少注意外界的紛紛擾"
 "擾，有關戰爭或是相關的謠言一直與他們無關。即便是商人也很少被見到，儘管在奧爾"
-"德里爾和丹唐克之間的商隊可能會在貿易信號塔的呼叫下派遣一輛馬車。"
+"德里爾和丹唐克之間的商隊在使用烽火台發出呼叫信號時可能會派遣一輛馬車。"
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:57
@@ -161,9 +161,10 @@ msgid ""
 "times, the brothers had talked of using trade beacons for other signals when "
 "in dire need. Baran sent out that call."
 msgstr ""
-"巴蘭有個叫阿維斯的兄弟也外出尋找機會，現在成為一小團輕騎兵的領䄂，做著護衛商"
-"隊的生意。對所有人而言，幸運的是，在過去美好的時光裡，這對兄弟曾討論過在危急"
-"情況下使用貿易信號塔發送其他訊號。巴蘭發出了呼叫。"
+"巴蘭有個叫阿維斯的兄弟也外出賺錢，現在成為一小團輕騎兵的領䄂，做著護衛商隊的"
+"生意。對所有人而言，幸運的是，在過去美好的時光裡，這對兄弟曾討論過在危急情況"
+"下使用貿易用的烽火台發送其它用途的呼叫信號。而現在，巴蘭發送出了那個呼叫信"
+"號。"
 
 # 羅馬數字V表示5，這算是舊版的月份表示法。5月在韋諾的世界是「Scryer's Bloom」。
 #. [part]
@@ -187,8 +188,8 @@ msgstr ""
 "陵中，被他的僕人層層保護著，而我只能集結到擔心受怕的農民，他們的破刀爛棒難以"
 "對付他的嘍囉。\n"
 "\n"
-"我需要哥哥幫忙，他向來比我更擅長打仗。自從在那邪惡的一天，於托恩‧卡里克，我們"
-"就再也沒說話了。就算他不為我回來，也許他還是會在我們的村莊極需救助的時候回來"
+"我需要哥哥幫忙，他向來比我更擅長打仗。自從在托恩‧卡里克那邪惡的一天開始，我們"
+"再也沒說過話了。就算他不為我回來，也許他還是會在我們的村莊亟須救助的時候回來"
 "支援吧。"
 
 #. [part]
